@@ -1,0 +1,260 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-01-18T10:00:00Z",
+
+  "ui": {
+    "maintenance": false,
+    "showPricing": true,
+    "showIntroVideo": true
+  },
+
+  "classes": [
+    {
+      "id": "CL1",
+      "label": "Class 1",
+      "enabled": false,
+      "ready": true,
+      "priority": 1,
+      "fileName": "cl1-syllabus",
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 120,
+        "teachers": 4,
+        "medium": ["EN", "HI"],
+        "image": "/assets/card-covers/class1.webp"
+      }
+    },
+    {
+      "id": "CL2",
+      "label": "Class 2",
+      "enabled": false,
+      "ready": true,
+      "priority": 2,
+      "fileName": "cl2-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 160,
+        "teachers": 5,
+        "medium": ["EN"],
+        "image": "/assets/card-covers/class2.webp"
+      }
+    },
+    {
+      "id": "CL3",
+      "label": "Class 3",
+      "enabled": false,
+      "ready": false,
+      "priority": 3,
+      "fileName": "cl3-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "image": "/assets/card-covers/class3.webp"
+      }
+    },
+    {
+      "id": "CL4",
+      "label": "Class 4",
+      "enabled": false,
+      "ready": false,
+      "priority": 4,
+      "fileName": "cl4-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "image": "/assets/card-covers/class4.webp"
+      }
+    },
+    {
+      "id": "CL5",
+      "label": "Class 5",
+      "enabled": false,
+      "ready": false,
+      "priority": 4,
+      "fileName": "cl5-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "image": "/assets/card-covers/class5.webp"
+      }
+    },
+    {
+      "id": "CL6",
+      "label": "Class 6",
+      "enabled": false,
+      "ready": false,
+      "priority": 4,
+      "fileName": "cl6-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "image": "/assets/card-covers/class6.webp"
+      }
+    },
+    {
+      "id": "CL7",
+      "label": "Class 7",
+      "enabled": true,
+      "ready": true,
+      "priority": 4,
+      "fileName": "cl7-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "image": "/assets/card-covers/class7.webp"
+      }
+    },
+    {
+      "id": "CL8",
+      "label": "Class 8",
+      "enabled": true,
+      "ready": true,
+      "priority": 4,
+      "fileName": "cl8-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "image": "/assets/card-covers/class8.webp"
+      }
+    },
+    {
+      "id": "CL9",
+      "label": "Class 9",
+      "enabled": true,
+      "ready": true,
+      "priority": 4,
+      "fileName": "cl9-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "image": "/assets/card-covers/class9.webp"
+      }
+    },
+    {
+      "id": "CL10",
+      "label": "Class 10",
+      "enabled": true,
+      "ready": true,
+      "priority": 4,
+      "fileName": "cl10-syllabus",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "image": "/assets/card-covers/class10.webp"
+      }
+    }
+  ],
+
+  "jamSessions": [
+    {
+      "id": "jam101",
+      "title": "GATE Rapid JAM",
+      "enabled": true,
+      "isLive": true,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "priority": 1,
+      "fileName": "gate-syllabus",
+
+      "meta": {
+        "teacher": "Prof. Rao",
+        "language": ["EN"],
+        "image": "/assets/fam-problem.jpg"
+      }
+    },
+    {
+      "id": "jam202",
+      "title": "CAT Quant JAM",
+      "enabled": true,
+      "isLive": false,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "priority": 2,
+      "fileName": "cat-syllabus",
+
+      "meta": {
+        "teacher": "Ananya",
+        "language": ["HI"],
+        "image": "/assets/fam-problem.jpg"
+      }
+    }
+  ],
+
+  "activities": [
+    {
+      "id": "act101",
+      "title": "Yoga Activity",
+      "enabled": true,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "priority": 1,
+      "fileName": "yoga-syllabus",
+
+      "meta": {
+        "teacher": "Prof. Rao",
+        "image": "/assets/fam-problem.jpg"
+      }
+    },
+    {
+      "id": "act202",
+      "title": "Violin Activity",
+      "enabled": true,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "priority": 2,
+      "fileName": "violin-syllabus",
+
+      "meta": {
+        "teacher": "Ananya",
+        "image": "/assets/card-covers/general-aptitude.webp"
+      }
+    },
+    {
+      "id": "act303",
+      "title": "Coding Tips & Talk",
+      "enabled": true,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "priority": 3,
+      "fileName": "coding-syllabus",
+
+      "meta": {
+        "teacher": "Nikhil",
+        "image": "/assets/card-covers/general-aptitude.webp"
+      }
+    },
+    {
+      "id": "act304",
+      "title": "General Aptitude",
+      "enabled": true,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "priority": 3,
+      "fileName": "ga-syllabus",
+
+      "meta": {
+        "teacher": "Nikhil",
+        "image": "/assets/card-covers/general-aptitude.webp"
+      }
+    }
+  ]
+}
