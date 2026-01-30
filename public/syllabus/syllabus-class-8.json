@@ -615,7 +615,9 @@
             ]
           }
         ]
-      },
+      }
+    },
+    {
       "Science": {
         "code": "CL08-SCI",
         "chapters": [
