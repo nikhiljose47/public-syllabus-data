@@ -1,0 +1,2513 @@
+{
+  "classId": "CL07",
+  "className": "Class 7",
+  "code_prefix": "SYLL-CL07",
+  "syllabus_year": "2025-26",
+  "source": "NCF 2023 / NCERT-aligned",
+  "meta": "Focus on number sense, algebra readiness, and geometric reasoning",
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "code": "CL07-MATH",
+      "chapters": [
+        {
+          "code": "CL07-MATH-01",
+          "name": "Large Numbers Around Us",
+
+          "agenda": [
+            "Understand the scale of large numbers",
+            "Read, write and compare large numbers",
+            "Use estimation meaningfully in real life"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce large numbers using population, distance and data statistics"
+            },
+            {
+              "type": "activity",
+              "text": "Students estimate large values from newspapers or online sources"
+            }
+          ],
+
+          "teacher_aids": [
+            "Place value charts",
+            "Real-world data tables",
+            "Digital number visualizers"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_large_numbers_01",
+              "name": "Place Value in Large Numbers",
+              "src": "https://example.com/images/large-numbers-place-value.png",
+              "relevant": "Understanding magnitude and place value"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-01-A",
+              "name": "Understanding Large Numbers",
+
+              "conceptual_understanding": [
+                "Large numbers represent quantities beyond everyday counting",
+                "Place value defines the actual value of digits"
+              ],
+
+              "student_can_achieve": [
+                "Read and write large numbers correctly",
+                "Identify place values accurately"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-01-B",
+              "name": "Comparing and Ordering Numbers",
+
+              "conceptual_understanding": [
+                "Comparison begins from the highest place value",
+                "Ordering helps understand relative size"
+              ],
+
+              "student_can_achieve": [
+                "Compare large numbers",
+                "Arrange numbers in ascending or descending order"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-01-C",
+              "name": "Estimation in Daily Life",
+
+              "conceptual_understanding": [
+                "Estimation helps judge reasonableness of results",
+                "Exact values are not always required"
+              ],
+
+              "student_can_achieve": [
+                "Estimate large quantities logically",
+                "Validate answers using approximation"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL07-MATH-02",
+          "name": "Arithmetic Expressions",
+
+          "agenda": [
+            "Understand arithmetic expressions",
+            "Apply order of operations",
+            "Simplify expressions correctly"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain arithmetic expressions using numbers and symbols"
+            },
+            {
+              "type": "activity",
+              "text": "Students simplify expressions step-by-step using rules"
+            }
+          ],
+
+          "teacher_aids": ["BODMAS/PEMDAS charts", "Worked example sheets"],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_arithmetic_expr_01",
+              "name": "Order of Operations",
+              "src": "https://example.com/images/order-of-operations.png",
+              "relevant": "Visualizing correct sequence of operations"
+            }
+          ],
+
+          "division_count": 2,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-02-A",
+              "name": "What Is an Arithmetic Expression?",
+
+              "conceptual_understanding": [
+                "Arithmetic expressions combine numbers and operations",
+                "Expressions must be evaluated, not solved"
+              ],
+
+              "student_can_achieve": [
+                "Identify arithmetic expressions",
+                "Differentiate expressions from equations"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-02-B",
+              "name": "Order of Operations",
+
+              "conceptual_understanding": [
+                "Operations follow a fixed priority order",
+                "Incorrect order leads to incorrect results"
+              ],
+
+              "student_can_achieve": [
+                "Apply BODMAS/PEMDAS correctly",
+                "Simplify complex expressions accurately"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL07-MATH-03",
+          "name": "A Peek Beyond the Point",
+
+          "agenda": [
+            "Extend number understanding beyond whole numbers",
+            "Understand decimal representation",
+            "Perform operations with decimals confidently"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce decimals as an extension of place value system"
+            },
+            {
+              "type": "activity",
+              "text": "Use money and measurement contexts to visualize decimals"
+            }
+          ],
+
+          "teacher_aids": [
+            "Decimal place value charts",
+            "Money and measurement models"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_decimals_01",
+              "name": "Decimal Place Value",
+              "src": "https://example.com/images/decimal-place-value.png",
+              "relevant": "Visualizing tenths, hundredths and thousandths"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-03-A",
+              "name": "Understanding Decimals",
+
+              "conceptual_understanding": [
+                "Decimals represent parts of a whole",
+                "Decimal place value extends the base-10 system"
+              ],
+
+              "student_can_achieve": [
+                "Read and write decimal numbers",
+                "Identify decimal place values"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-03-B",
+              "name": "Comparing and Ordering Decimals",
+
+              "conceptual_understanding": [
+                "Decimals are compared using place value alignment"
+              ],
+
+              "student_can_achieve": [
+                "Compare decimal numbers accurately",
+                "Arrange decimals in order"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-03-C",
+              "name": "Operations on Decimals",
+
+              "conceptual_understanding": [
+                "Decimal operations follow the same rules as whole numbers",
+                "Place value alignment is critical"
+              ],
+
+              "student_can_achieve": [
+                "Add, subtract and multiply decimals",
+                "Solve exam-based decimal problems"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL07-MATH-04",
+          "name": "Expressions using Letter-Numbers",
+
+          "agenda": [
+            "Introduce variables as generalized numbers",
+            "Form algebraic expressions",
+            "Evaluate expressions for given values"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain letters as placeholders for numbers"
+            },
+            {
+              "type": "activity",
+              "text": "Students convert word statements into algebraic expressions"
+            }
+          ],
+
+          "teacher_aids": ["Algebra tiles", "Expression formation worksheets"],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_algebra_expr_01",
+              "name": "Variables and Expressions",
+              "src": "https://example.com/images/variables-expressions.png",
+              "relevant": "Understanding letters as variables"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-04-A",
+              "name": "Meaning of Variables",
+
+              "conceptual_understanding": [
+                "Variables represent unknown or changing quantities",
+                "Letters generalize numerical relationships"
+              ],
+
+              "student_can_achieve": [
+                "Identify variables in expressions",
+                "Explain why variables are useful"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-04-B",
+              "name": "Forming Algebraic Expressions",
+
+              "conceptual_understanding": [
+                "Words can be translated into algebraic form"
+              ],
+
+              "student_can_achieve": [
+                "Form expressions from statements",
+                "Represent patterns algebraically"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-04-C",
+              "name": "Evaluating Expressions",
+
+              "conceptual_understanding": [
+                "Expressions take numerical value when variables are substituted"
+              ],
+
+              "student_can_achieve": [
+                "Evaluate expressions for given values",
+                "Solve exam-type algebra problems"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL07-MATH-05",
+          "name": "Parallel and Intersecting Lines",
+
+          "agenda": [
+            "Understand parallel and intersecting lines",
+            "Identify angles formed by intersecting lines",
+            "Apply angle relationships in problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce line relationships using real-life road and railway examples"
+            },
+            {
+              "type": "activity",
+              "text": "Students draw intersecting lines and measure angles"
+            }
+          ],
+
+          "teacher_aids": [
+            "Geometry tools",
+            "Angle charts",
+            "Interactive board sketches"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.4,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_lines_01",
+              "name": "Parallel and Intersecting Lines",
+              "src": "https://example.com/images/parallel-intersecting-lines.png",
+              "relevant": "Visualizing line relationships and angles"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-05-A",
+              "name": "Types of Lines",
+
+              "conceptual_understanding": [
+                "Parallel lines never meet",
+                "Intersecting lines meet at a point"
+              ],
+
+              "student_can_achieve": [
+                "Identify parallel and intersecting lines",
+                "Relate lines to real-life examples"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-05-B",
+              "name": "Angles Formed by Intersecting Lines",
+
+              "conceptual_understanding": [
+                "Vertically opposite angles are equal",
+                "Adjacent angles form linear pairs"
+              ],
+
+              "student_can_achieve": [
+                "Identify angle pairs",
+                "Solve basic angle problems"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-05-C",
+              "name": "Applications of Angle Relationships",
+
+              "conceptual_understanding": [
+                "Angle properties help determine unknown angles"
+              ],
+
+              "student_can_achieve": [
+                "Solve exam-based geometry questions",
+                "Apply angle rules logically"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL07-MATH-06",
+          "name": "Number Play",
+
+          "agenda": [
+            "Explore patterns in numbers",
+            "Use divisibility rules",
+            "Develop logical reasoning through puzzles"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce number properties through patterns and games"
+            },
+            {
+              "type": "activity",
+              "text": "Students solve number puzzles collaboratively"
+            }
+          ],
+
+          "teacher_aids": ["Number puzzle cards", "Divisibility charts"],
+
+          "content_structure": {
+            "theory_ratio": 0.25,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.2
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.25,
+            "practical": 0.45,
+            "discussion": 0.3
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_number_play_01",
+              "name": "Number Patterns and Puzzles",
+              "src": "https://example.com/images/number-patterns.png",
+              "relevant": "Exploring number patterns visually"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-06-A",
+              "name": "Factors and Multiples",
+
+              "conceptual_understanding": [
+                "Factors divide numbers exactly",
+                "Multiples follow regular patterns"
+              ],
+
+              "student_can_achieve": [
+                "Find factors and multiples",
+                "Use factor-multiple relationships"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-06-B",
+              "name": "Divisibility Rules",
+
+              "conceptual_understanding": [
+                "Divisibility rules simplify checking division"
+              ],
+
+              "student_can_achieve": [
+                "Apply divisibility tests",
+                "Solve exam problems faster"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-06-C",
+              "name": "Number Puzzles",
+
+              "conceptual_understanding": [
+                "Logical reasoning improves problem-solving ability"
+              ],
+
+              "student_can_achieve": [
+                "Solve reasoning-based number puzzles",
+                "Develop mathematical thinking"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL07-MATH-05",
+          "name": "Parallel and Intersecting Lines",
+
+          "agenda": [
+            "Understand parallel and intersecting lines",
+            "Identify angles formed by intersecting lines",
+            "Apply angle relationships in problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce line relationships using real-life road and railway examples"
+            },
+            {
+              "type": "activity",
+              "text": "Students draw intersecting lines and measure angles"
+            }
+          ],
+
+          "teacher_aids": [
+            "Geometry tools",
+            "Angle charts",
+            "Interactive board sketches"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.4,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_lines_01",
+              "name": "Parallel and Intersecting Lines",
+              "src": "https://example.com/images/parallel-intersecting-lines.png",
+              "relevant": "Visualizing line relationships and angles"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-05-A",
+              "name": "Types of Lines",
+
+              "conceptual_understanding": [
+                "Parallel lines never meet",
+                "Intersecting lines meet at a point"
+              ],
+
+              "student_can_achieve": [
+                "Identify parallel and intersecting lines",
+                "Relate lines to real-life examples"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-05-B",
+              "name": "Angles Formed by Intersecting Lines",
+
+              "conceptual_understanding": [
+                "Vertically opposite angles are equal",
+                "Adjacent angles form linear pairs"
+              ],
+
+              "student_can_achieve": [
+                "Identify angle pairs",
+                "Solve basic angle problems"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-05-C",
+              "name": "Applications of Angle Relationships",
+
+              "conceptual_understanding": [
+                "Angle properties help determine unknown angles"
+              ],
+
+              "student_can_achieve": [
+                "Solve exam-based geometry questions",
+                "Apply angle rules logically"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL07-MATH-06",
+          "name": "Number Play",
+
+          "agenda": [
+            "Explore patterns in numbers",
+            "Use divisibility rules",
+            "Develop logical reasoning through puzzles"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce number properties through patterns and games"
+            },
+            {
+              "type": "activity",
+              "text": "Students solve number puzzles collaboratively"
+            }
+          ],
+
+          "teacher_aids": ["Number puzzle cards", "Divisibility charts"],
+
+          "content_structure": {
+            "theory_ratio": 0.25,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.2
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.25,
+            "practical": 0.45,
+            "discussion": 0.3
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_number_play_01",
+              "name": "Number Patterns and Puzzles",
+              "src": "https://example.com/images/number-patterns.png",
+              "relevant": "Exploring number patterns visually"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-06-A",
+              "name": "Factors and Multiples",
+
+              "conceptual_understanding": [
+                "Factors divide numbers exactly",
+                "Multiples follow regular patterns"
+              ],
+
+              "student_can_achieve": [
+                "Find factors and multiples",
+                "Use factor-multiple relationships"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-06-B",
+              "name": "Divisibility Rules",
+
+              "conceptual_understanding": [
+                "Divisibility rules simplify checking division"
+              ],
+
+              "student_can_achieve": [
+                "Apply divisibility tests",
+                "Solve exam problems faster"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-06-C",
+              "name": "Number Puzzles",
+
+              "conceptual_understanding": [
+                "Logical reasoning improves problem-solving ability"
+              ],
+
+              "student_can_achieve": [
+                "Solve reasoning-based number puzzles",
+                "Develop mathematical thinking"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL07-MATH-07",
+          "name": "A Tale of Three Intersecting Lines",
+
+          "agenda": [
+            "Understand intersections formed by three lines",
+            "Analyze multiple angle relationships",
+            "Apply reasoning to complex angle problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain how three lines intersect at different points with diagrams"
+            },
+            {
+              "type": "activity",
+              "text": "Students draw three intersecting lines and label all angles"
+            }
+          ],
+
+          "teacher_aids": [
+            "Geometry drawing tools",
+            "Angle relationship charts",
+            "Interactive board diagrams"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_three_lines_01",
+              "name": "Three Intersecting Lines and Angles",
+              "src": "https://example.com/images/three-intersecting-lines.png",
+              "relevant": "Understanding angle relationships from multiple intersections"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-07-A",
+              "name": "Intersections of Three Lines",
+
+              "conceptual_understanding": [
+                "Three lines can intersect at one or multiple points",
+                "Each intersection creates unique angle sets"
+              ],
+
+              "student_can_achieve": [
+                "Identify intersections involving three lines",
+                "Visualize multiple angle formations"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-07-B",
+              "name": "Angle Relationships",
+
+              "conceptual_understanding": [
+                "Angle properties extend across multiple intersections",
+                "Known angles help determine unknown angles"
+              ],
+
+              "student_can_achieve": [
+                "Solve multi-step angle problems",
+                "Apply angle rules across diagrams"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-07-C",
+              "name": "Logical Reasoning with Lines",
+
+              "conceptual_understanding": [
+                "Logical deduction is key in geometry proofs"
+              ],
+
+              "student_can_achieve": [
+                "Explain reasoning behind angle solutions",
+                "Handle higher-order exam questions"
+              ],
+
+              "difficulty_level": "hard",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL07-MATH-08",
+          "name": "Working with Fractions",
+
+          "agenda": [
+            "Understand fractions as parts of a whole",
+            "Perform operations on fractions",
+            "Apply fractions to real-life problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Revise fraction concepts using visual models"
+            },
+            {
+              "type": "activity",
+              "text": "Students solve fraction problems using strips and number lines"
+            }
+          ],
+
+          "teacher_aids": [
+            "Fraction strips",
+            "Number line charts",
+            "Worked example sheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl7_fractions_01",
+              "name": "Fractions on Number Line",
+              "src": "https://example.com/images/fractions-number-line.png",
+              "relevant": "Visualizing fractions and operations"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-MATH-08-A",
+              "name": "Understanding Fractions",
+
+              "conceptual_understanding": [
+                "Fractions represent parts of a whole",
+                "Equivalent fractions represent the same value"
+              ],
+
+              "student_can_achieve": [
+                "Identify and compare fractions",
+                "Represent fractions visually"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-MATH-08-B",
+              "name": "Operations on Fractions",
+
+              "conceptual_understanding": [
+                "Fraction operations follow specific rules",
+                "Common denominators simplify calculations"
+              ],
+
+              "student_can_achieve": [
+                "Add, subtract, multiply, and divide fractions",
+                "Solve exam-level fraction problems"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL07-MATH-08-C",
+              "name": "Applications of Fractions",
+
+              "conceptual_understanding": [
+                "Fractions are used in daily life contexts"
+              ],
+
+              "student_can_achieve": [
+                "Solve word problems involving fractions",
+                "Apply fractions to measurements and sharing"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "chapters": [
+        {
+          "code": "CL07-SCI-01",
+          "name": "The Ever-Evolving World of Science",
+
+          "agenda": [
+            "Understand the nature of science",
+            "Learn how scientific knowledge develops",
+            "Connect science with everyday life"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce science as a process of observation, questioning, and experimentation"
+            },
+            {
+              "type": "activity",
+              "text": "Students list daily-life activities that involve scientific thinking"
+            }
+          ],
+
+          "teacher_aids": [
+            "Real-life examples chart",
+            "Short discovery stories",
+            "Interactive discussion board"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.5,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.15,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.2,
+            "discussion": 0.35
+          },
+
+          "image_assets": [
+            {
+              "id": "sci_intro_01",
+              "name": "Science in Daily Life",
+              "src": "https://example.com/images/science-daily-life.png",
+              "relevant": "Relating science to everyday experiences"
+            }
+          ],
+
+          "division_count": 2,
+
+          "divisions": [
+            {
+              "code": "CL07-SCI-01-A",
+              "name": "What is Science?",
+
+              "conceptual_understanding": [
+                "Science is a systematic way of understanding the world",
+                "Scientific ideas change with new evidence"
+              ],
+
+              "student_can_achieve": [
+                "Explain science in simple terms",
+                "Give examples of scientific thinking"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "CL07-SCI-01-B",
+              "name": "Science and Society",
+
+              "conceptual_understanding": [
+                "Science improves human life",
+                "Technology is an application of science"
+              ],
+
+              "student_can_achieve": [
+                "Relate science to inventions and discoveries",
+                "Answer reasoning-based questions"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL07-SCI-02",
+          "name": "Exploring Substances: Acidic, Basic, and Neutral",
+
+          "agenda": [
+            "Identify acids, bases, and neutral substances",
+            "Understand their properties",
+            "Learn simple testing methods"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain acids and bases using familiar household examples"
+            },
+            {
+              "type": "activity",
+              "text": "Students test substances using litmus or natural indicators"
+            }
+          ],
+
+          "teacher_aids": [
+            "Litmus paper",
+            "Household substance samples",
+            "Indicator colour chart"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "sci_acid_base_01",
+              "name": "Testing Acids and Bases",
+              "src": "https://example.com/images/acids-bases-testing.png",
+              "relevant": "Identifying acidic and basic substances"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL07-SCI-02-A",
+              "name": "Acids",
+
+              "conceptual_understanding": [
+                "Acids are sour and turn blue litmus red"
+              ],
+
+              "student_can_achieve": [
+                "Identify acidic substances",
+                "State basic properties of acids"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-SCI-02-B",
+              "name": "Bases and Neutral Substances",
+
+              "conceptual_understanding": [
+                "Bases are bitter and turn red litmus blue",
+                "Neutral substances show no change with indicators"
+              ],
+
+              "student_can_achieve": [
+                "Classify substances correctly",
+                "Answer classification questions"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-SCI-02-C",
+              "name": "Indicators and Uses",
+
+              "conceptual_understanding": [
+                "Indicators help determine the nature of substances"
+              ],
+
+              "student_can_achieve": [
+                "Perform basic tests",
+                "Solve application-based problems"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL07-SCI-03",
+          "name": "Electricity: Circuits and their Components",
+
+          "agenda": [
+            "Understand electric current and circuits",
+            "Identify components of an electric circuit",
+            "Learn standard circuit symbols"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain electric current using flow analogy and diagrams"
+            },
+            {
+              "type": "activity",
+              "text": "Students assemble a simple circuit using a cell, wire, and bulb"
+            }
+          ],
+
+          "teacher_aids": [
+            "Electric circuit kit",
+            "Circuit symbol chart",
+            "Battery, bulb, and wires"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.45,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "sci_circuit_01",
+              "name": "Simple Electric Circuit",
+              "src": "https://example.com/images/simple-circuit.png",
+              "relevant": "Understanding current flow in a closed circuit"
+            }
+          ],
+
+          "division_count": 2,
+
+          "divisions": [
+            {
+              "code": "CL07-SCI-03-A",
+              "name": "Electric Circuits",
+
+              "conceptual_understanding": [
+                "Electric current flows only in a closed circuit",
+                "A break in the circuit stops the flow of current"
+              ],
+
+              "student_can_achieve": [
+                "Explain what an electric circuit is",
+                "Identify open and closed circuits"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-SCI-03-B",
+              "name": "Components and Symbols",
+
+              "conceptual_understanding": [
+                "Each circuit component performs a specific function",
+                "Circuit symbols represent real components"
+              ],
+
+              "student_can_achieve": [
+                "Recognize circuit symbols",
+                "Draw labeled circuit diagrams"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "diagram-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL07-SCI-04",
+          "name": "The World of Metals and Non-metals",
+
+          "agenda": [
+            "Differentiate metals and non-metals",
+            "Understand physical properties",
+            "Relate materials to their uses"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce metals and non-metals using everyday objects"
+            },
+            {
+              "type": "activity",
+              "text": "Students classify classroom objects as metals or non-metals"
+            }
+          ],
+
+          "teacher_aids": [
+            "Sample materials",
+            "Property comparison table",
+            "Visual charts"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
+          },
+
+          "image_assets": [
+            {
+              "id": "sci_metals_01",
+              "name": "Metals vs Non-metals",
+              "src": "https://example.com/images/metals-nonmetals.png",
+              "relevant": "Comparing properties of materials"
+            }
+          ],
+
+          "division_count": 2,
+
+          "divisions": [
+            {
+              "code": "CL07-SCI-04-A",
+              "name": "Metals",
+
+              "conceptual_understanding": [
+                "Metals are lustrous, malleable, and good conductors"
+              ],
+
+              "student_can_achieve": [
+                "List properties of metals",
+                "Give examples from daily life"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL07-SCI-04-B",
+              "name": "Non-metals",
+
+              "conceptual_understanding": [
+                "Non-metals are brittle and poor conductors"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate metals and non-metals",
+                "Answer comparison-based questions"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CL07-SCI-05",
+      "name": "Changes Around Us: Physical and Chemical",
+
+      "agenda": [
+        "Understand physical and chemical changes",
+        "Differentiate reversible and irreversible changes",
+        "Relate changes to daily life examples"
+      ],
+
+      "session_instructions": [
+        {
+          "type": "instruction",
+          "text": "Explain changes using simple demonstrations like melting ice and burning paper"
+        },
+        {
+          "type": "activity",
+          "text": "Students classify given examples into physical or chemical changes"
+        }
+      ],
+
+      "teacher_aids": [
+        "Demonstration materials",
+        "Before–after change charts",
+        "Activity worksheet"
+      ],
+
+      "content_structure": {
+        "theory_ratio": 0.4,
+        "worked_examples_ratio": 0.2,
+        "practice_ratio": 0.25,
+        "application_ratio": 0.15
+      },
+
+      "learning_mode_mix": {
+        "theoretical": 0.35,
+        "practical": 0.4,
+        "discussion": 0.25
+      },
+
+      "image_assets": [
+        {
+          "id": "sci_changes_01",
+          "name": "Physical and Chemical Changes",
+          "src": "https://example.com/images/physical-chemical-changes.png",
+          "relevant": "Comparing reversible and irreversible changes"
+        }
+      ],
+
+      "division_count": 3,
+
+      "divisions": [
+        {
+          "code": "CL07-SCI-05-A",
+          "name": "Physical Changes",
+
+          "conceptual_understanding": [
+            "Physical changes do not form new substances",
+            "Most physical changes are reversible"
+          ],
+
+          "student_can_achieve": [
+            "Identify physical changes",
+            "Give daily-life examples"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 25,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-05-B",
+          "name": "Chemical Changes",
+
+          "conceptual_understanding": [
+            "Chemical changes result in new substances",
+            "Most chemical changes are irreversible"
+          ],
+
+          "student_can_achieve": [
+            "Identify chemical changes",
+            "Explain why a change is chemical"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "high"
+          }
+        },
+        {
+          "code": "CL07-SCI-05-C",
+          "name": "Reversible and Irreversible Changes",
+
+          "conceptual_understanding": [
+            "Some changes can be reversed while others cannot"
+          ],
+
+          "student_can_achieve": [
+            "Classify changes correctly",
+            "Solve exam-based classification questions"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "application-based",
+            "exam_weight": "high"
+          }
+        }
+      ]
+    },
+
+    {
+      "code": "CL07-SCI-06",
+      "name": "Adolescence: A Stage of Growth and Change",
+
+      "agenda": [
+        "Understand adolescence and puberty",
+        "Learn physical and emotional changes",
+        "Promote healthy habits"
+      ],
+
+      "session_instructions": [
+        {
+          "type": "instruction",
+          "text": "Explain adolescence sensitively with age-appropriate language"
+        },
+        {
+          "type": "activity",
+          "text": "Students discuss healthy habits and emotional well-being"
+        }
+      ],
+
+      "teacher_aids": [
+        "Growth charts",
+        "Health and hygiene posters",
+        "Interactive discussion prompts"
+      ],
+
+      "content_structure": {
+        "theory_ratio": 0.45,
+        "worked_examples_ratio": 0.15,
+        "practice_ratio": 0.2,
+        "application_ratio": 0.2
+      },
+
+      "learning_mode_mix": {
+        "theoretical": 0.4,
+        "discussion": 0.4,
+        "practical": 0.2
+      },
+
+      "image_assets": [
+        {
+          "id": "sci_adolescence_01",
+          "name": "Changes During Adolescence",
+          "src": "https://example.com/images/adolescence-changes.png",
+          "relevant": "Understanding physical and emotional changes"
+        }
+      ],
+
+      "division_count": 2,
+
+      "divisions": [
+        {
+          "code": "CL07-SCI-06-A",
+          "name": "Physical and Emotional Changes",
+
+          "conceptual_understanding": [
+            "Adolescence involves physical, mental, and emotional growth"
+          ],
+
+          "student_can_achieve": [
+            "Identify changes during adolescence",
+            "Understand emotional development"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 35,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-06-B",
+          "name": "Healthy Practices",
+
+          "conceptual_understanding": [
+            "Balanced diet and hygiene are important during adolescence"
+          ],
+
+          "student_can_achieve": [
+            "Adopt healthy habits",
+            "Answer health-related questions"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "life-skills",
+            "exam_weight": "low"
+          }
+        }
+      ]
+    },
+    {
+      "code": "CL07-SCI-07",
+      "name": "Heat Transfer in Nature",
+
+      "agenda": [
+        "Understand heat as a form of energy",
+        "Learn modes of heat transfer",
+        "Relate heat transfer to natural phenomena"
+      ],
+
+      "session_instructions": [
+        {
+          "type": "instruction",
+          "text": "Explain heat transfer using real-life examples like cooking and weather"
+        },
+        {
+          "type": "activity",
+          "text": "Students observe and classify examples of conduction, convection, and radiation"
+        }
+      ],
+
+      "teacher_aids": [
+        "Heat transfer diagrams",
+        "Metal and wooden rods",
+        "Thermal images or videos"
+      ],
+
+      "content_structure": {
+        "theory_ratio": 0.4,
+        "worked_examples_ratio": 0.2,
+        "practice_ratio": 0.2,
+        "application_ratio": 0.2
+      },
+
+      "learning_mode_mix": {
+        "theoretical": 0.35,
+        "practical": 0.35,
+        "discussion": 0.3
+      },
+
+      "image_assets": [
+        {
+          "id": "sci_heat_01",
+          "name": "Modes of Heat Transfer",
+          "src": "https://example.com/images/heat-transfer.png",
+          "relevant": "Understanding conduction, convection, and radiation"
+        }
+      ],
+
+      "division_count": 3,
+
+      "divisions": [
+        {
+          "code": "CL07-SCI-07-A",
+          "name": "Conduction",
+
+          "conceptual_understanding": [
+            "Heat transfer through direct contact is conduction",
+            "Metals are good conductors of heat"
+          ],
+
+          "student_can_achieve": [
+            "Explain conduction with examples",
+            "Identify good and poor conductors"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 25,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-07-B",
+          "name": "Convection",
+
+          "conceptual_understanding": [
+            "Heat transfer through fluids occurs by convection"
+          ],
+
+          "student_can_achieve": [
+            "Describe convection currents",
+            "Relate convection to weather patterns"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-07-C",
+          "name": "Radiation",
+
+          "conceptual_understanding": [
+            "Heat can travel through empty space by radiation"
+          ],
+
+          "student_can_achieve": [
+            "Explain radiation using sunlight examples",
+            "Answer application-based questions"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "application-based",
+            "exam_weight": "high"
+          }
+        }
+      ]
+    },
+
+    {
+      "code": "CL07-SCI-08",
+      "name": "Measurement of Time and Motion",
+
+      "agenda": [
+        "Understand time and motion",
+        "Measure speed and distance",
+        "Interpret simple motion examples"
+      ],
+
+      "session_instructions": [
+        {
+          "type": "instruction",
+          "text": "Explain motion using moving objects and timelines"
+        },
+        {
+          "type": "activity",
+          "text": "Students measure time and distance of simple movements"
+        }
+      ],
+
+      "teacher_aids": ["Stopwatch", "Measuring tape", "Motion charts"],
+
+      "content_structure": {
+        "theory_ratio": 0.35,
+        "worked_examples_ratio": 0.25,
+        "practice_ratio": 0.25,
+        "application_ratio": 0.15
+      },
+
+      "learning_mode_mix": {
+        "theoretical": 0.35,
+        "practical": 0.4,
+        "discussion": 0.25
+      },
+
+      "image_assets": [
+        {
+          "id": "sci_motion_01",
+          "name": "Time and Motion",
+          "src": "https://example.com/images/time-motion.png",
+          "relevant": "Understanding speed, time, and distance"
+        }
+      ],
+
+      "division_count": 3,
+
+      "divisions": [
+        {
+          "code": "CL07-SCI-08-A",
+          "name": "Concept of Time",
+
+          "conceptual_understanding": ["Time measures duration of events"],
+
+          "student_can_achieve": [
+            "Measure time using standard units",
+            "Read clocks accurately"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 25,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-08-B",
+          "name": "Motion",
+
+          "conceptual_understanding": [
+            "Motion is the change in position with time"
+          ],
+
+          "student_can_achieve": [
+            "Identify moving and stationary objects",
+            "Describe types of motion"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-08-C",
+          "name": "Speed and Its Measurement",
+
+          "conceptual_understanding": [
+            "Speed relates distance covered to time taken"
+          ],
+
+          "student_can_achieve": [
+            "Calculate speed using simple formula",
+            "Solve basic numerical problems"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 35,
+
+          "meta": {
+            "nature": "numerical",
+            "exam_weight": "high"
+          }
+        }
+      ]
+    },
+    {
+      "code": "CL07-SCI-09",
+      "name": "Life Processes in Animals",
+
+      "agenda": [
+        "Understand essential life processes in animals",
+        "Learn how animals obtain and use energy",
+        "Relate life processes to survival"
+      ],
+
+      "session_instructions": [
+        {
+          "type": "instruction",
+          "text": "Explain life processes using simple animal examples"
+        },
+        {
+          "type": "activity",
+          "text": "Students create flow diagrams of nutrition and respiration in animals"
+        }
+      ],
+
+      "teacher_aids": [
+        "Animal system charts",
+        "Flow-diagram worksheets",
+        "Short educational videos"
+      ],
+
+      "content_structure": {
+        "theory_ratio": 0.45,
+        "worked_examples_ratio": 0.15,
+        "practice_ratio": 0.2,
+        "application_ratio": 0.2
+      },
+
+      "learning_mode_mix": {
+        "theoretical": 0.4,
+        "practical": 0.3,
+        "discussion": 0.3
+      },
+
+      "image_assets": [
+        {
+          "id": "sci_animals_01",
+          "name": "Life Processes in Animals",
+          "src": "https://example.com/images/life-processes-animals.png",
+          "relevant": "Understanding nutrition and respiration in animals"
+        }
+      ],
+
+      "division_count": 3,
+
+      "divisions": [
+        {
+          "code": "CL07-SCI-09-A",
+          "name": "Nutrition in Animals",
+
+          "conceptual_understanding": [
+            "Animals depend on other organisms for food",
+            "Nutrition provides energy for life activities"
+          ],
+
+          "student_can_achieve": [
+            "Explain different modes of nutrition",
+            "Identify examples of herbivores, carnivores, and omnivores"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-09-B",
+          "name": "Respiration in Animals",
+
+          "conceptual_understanding": [
+            "Respiration releases energy from food",
+            "Different animals respire differently"
+          ],
+
+          "student_can_achieve": [
+            "Describe respiration in animals",
+            "Answer diagram-based questions"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 35,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "high"
+          }
+        },
+        {
+          "code": "CL07-SCI-09-C",
+          "name": "Circulation and Excretion",
+
+          "conceptual_understanding": [
+            "Circulation transports substances in the body",
+            "Excretion removes waste products"
+          ],
+
+          "student_can_achieve": [
+            "Identify basic circulatory organs",
+            "Explain importance of excretion"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 35,
+
+          "meta": {
+            "nature": "theory",
+            "exam_weight": "medium"
+          }
+        }
+      ]
+    },
+
+    {
+      "code": "CL07-SCI-10",
+      "name": "Life Processes in Plants",
+
+      "agenda": [
+        "Understand how plants make and use food",
+        "Learn transport of substances in plants",
+        "Relate plant processes to ecosystem balance"
+      ],
+
+      "session_instructions": [
+        {
+          "type": "instruction",
+          "text": "Explain photosynthesis using diagrams and sunlight examples"
+        },
+        {
+          "type": "activity",
+          "text": "Students label plant diagrams showing transport and photosynthesis"
+        }
+      ],
+
+      "teacher_aids": [
+        "Plant diagrams",
+        "Leaf samples",
+        "Photosynthesis charts"
+      ],
+
+      "content_structure": {
+        "theory_ratio": 0.45,
+        "worked_examples_ratio": 0.15,
+        "practice_ratio": 0.2,
+        "application_ratio": 0.2
+      },
+
+      "learning_mode_mix": {
+        "theoretical": 0.4,
+        "practical": 0.3,
+        "discussion": 0.3
+      },
+
+      "image_assets": [
+        {
+          "id": "sci_plants_01",
+          "name": "Life Processes in Plants",
+          "src": "https://example.com/images/life-processes-plants.png",
+          "relevant": "Understanding photosynthesis and transport in plants"
+        }
+      ],
+
+      "division_count": 3,
+
+      "divisions": [
+        {
+          "code": "CL07-SCI-10-A",
+          "name": "Photosynthesis",
+
+          "conceptual_understanding": [
+            "Plants prepare food using sunlight",
+            "Chlorophyll plays a key role in photosynthesis"
+          ],
+
+          "student_can_achieve": [
+            "Explain photosynthesis process",
+            "Answer diagram-based questions"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 35,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "high"
+          }
+        },
+        {
+          "code": "CL07-SCI-10-B",
+          "name": "Respiration and Transport",
+
+          "conceptual_understanding": [
+            "Plants respire to release energy",
+            "Water and food are transported through plant tissues"
+          ],
+
+          "student_can_achieve": [
+            "Describe transport in plants",
+            "Explain respiration in plants"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 35,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-10-C",
+          "name": "Importance of Plants",
+
+          "conceptual_understanding": [
+            "Plants maintain oxygen and food balance"
+          ],
+
+          "student_can_achieve": [
+            "Explain importance of plants",
+            "Answer application-based questions"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 25,
+
+          "meta": {
+            "nature": "application-based",
+            "exam_weight": "medium"
+          }
+        }
+      ]
+    },
+    {
+      "code": "CL07-SCI-11",
+      "name": "Light: Shadows and Reflections",
+
+      "agenda": [
+        "Understand light and its propagation",
+        "Explain formation of shadows",
+        "Learn reflection of light and images"
+      ],
+
+      "session_instructions": [
+        {
+          "type": "instruction",
+          "text": "Demonstrate shadow formation using a torch and objects"
+        },
+        {
+          "type": "activity",
+          "text": "Students observe shadows at different distances and angles"
+        }
+      ],
+
+      "teacher_aids": [
+        "Torch and opaque objects",
+        "Plane mirror",
+        "Ray diagrams chart"
+      ],
+
+      "content_structure": {
+        "theory_ratio": 0.4,
+        "worked_examples_ratio": 0.2,
+        "practice_ratio": 0.25,
+        "application_ratio": 0.15
+      },
+
+      "learning_mode_mix": {
+        "theoretical": 0.35,
+        "practical": 0.4,
+        "discussion": 0.25
+      },
+
+      "image_assets": [
+        {
+          "id": "sci_light_01",
+          "name": "Shadows and Reflection",
+          "src": "https://example.com/images/shadows-reflection.png",
+          "relevant": "Understanding shadow formation and mirror reflection"
+        }
+      ],
+
+      "division_count": 3,
+
+      "divisions": [
+        {
+          "code": "CL07-SCI-11-A",
+          "name": "Light and Shadows",
+
+          "conceptual_understanding": [
+            "Light travels in straight lines",
+            "Shadows are formed when light is blocked"
+          ],
+
+          "student_can_achieve": [
+            "Explain how shadows form",
+            "Identify opaque, translucent, and transparent objects"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-11-B",
+          "name": "Reflection of Light",
+
+          "conceptual_understanding": [
+            "Light reflects from smooth surfaces",
+            "Mirrors change the direction of light"
+          ],
+
+          "student_can_achieve": [
+            "Describe reflection",
+            "Identify incident and reflected rays"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 35,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "high"
+          }
+        },
+        {
+          "code": "CL07-SCI-11-C",
+          "name": "Images in Mirrors",
+
+          "conceptual_understanding": [
+            "Images formed by plane mirrors are virtual and upright"
+          ],
+
+          "student_can_achieve": [
+            "State characteristics of images",
+            "Answer image-based questions"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "application-based",
+            "exam_weight": "high"
+          }
+        }
+      ]
+    },
+
+    {
+      "code": "CL07-SCI-12",
+      "name": "Earth, Moon, and the Sun",
+
+      "agenda": [
+        "Understand Earth’s movements",
+        "Learn phases of the Moon",
+        "Explore the Sun–Earth–Moon relationship"
+      ],
+
+      "session_instructions": [
+        {
+          "type": "instruction",
+          "text": "Explain day, night, and phases using globe and lamp model"
+        },
+        {
+          "type": "activity",
+          "text": "Students model Moon phases using balls and light source"
+        }
+      ],
+
+      "teacher_aids": [
+        "Globe and lamp",
+        "Moon phase chart",
+        "Solar system diagrams"
+      ],
+
+      "content_structure": {
+        "theory_ratio": 0.45,
+        "worked_examples_ratio": 0.15,
+        "practice_ratio": 0.2,
+        "application_ratio": 0.2
+      },
+
+      "learning_mode_mix": {
+        "theoretical": 0.4,
+        "practical": 0.35,
+        "discussion": 0.25
+      },
+
+      "image_assets": [
+        {
+          "id": "sci_earth_moon_01",
+          "name": "Earth, Moon and Sun System",
+          "src": "https://example.com/images/earth-moon-sun.png",
+          "relevant": "Understanding celestial movements and phases"
+        }
+      ],
+
+      "division_count": 3,
+
+      "divisions": [
+        {
+          "code": "CL07-SCI-12-A",
+          "name": "Earth and the Sun",
+
+          "conceptual_understanding": [
+            "Rotation of Earth causes day and night",
+            "Revolution causes seasons"
+          ],
+
+          "student_can_achieve": [
+            "Explain day and night",
+            "Describe Earth’s movements"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 30,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "medium"
+          }
+        },
+        {
+          "code": "CL07-SCI-12-B",
+          "name": "Phases of the Moon",
+
+          "conceptual_understanding": [
+            "Moon phases result from its position relative to Earth and Sun"
+          ],
+
+          "student_can_achieve": [
+            "Identify Moon phases",
+            "Explain why Moon changes shape"
+          ],
+
+          "difficulty_level": "medium",
+          "time_estimate_min": 35,
+
+          "meta": {
+            "nature": "conceptual",
+            "exam_weight": "high"
+          }
+        },
+        {
+          "code": "CL07-SCI-12-C",
+          "name": "Human Use of Space",
+
+          "conceptual_understanding": [
+            "Satellites help in communication and weather forecasting"
+          ],
+
+          "student_can_achieve": [
+            "Explain uses of satellites",
+            "Answer application-based questions"
+          ],
+
+          "difficulty_level": "easy",
+          "time_estimate_min": 25,
+
+          "meta": {
+            "nature": "application-based",
+            "exam_weight": "medium"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2472 @@
+{
+  "classId": "CL06",
+  "className": "Class 6",
+  "syllabus_year": "2025-26",
+  "source": "NCF 2023 / NCERT-aligned",
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "code": "CL06-MATH",
+      "chapters": [
+        {
+          "code": "CL06-MATH-01",
+          "name": "Patterns in Mathematics",
+
+          "agenda": [
+            "Recognize mathematical patterns in numbers and shapes",
+            "Develop logical thinking through pattern formation",
+            "Apply patterns to predict future values"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce patterns using numbers, shapes, and real-life examples"
+            },
+            {
+              "type": "activity",
+              "text": "Students create and extend number and shape patterns"
+            }
+          ],
+
+          "teacher_aids": ["Pattern cards", "Number grids", "Colored shapes"],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.4,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_pattern_01",
+              "name": "Number and Shape Patterns",
+              "src": "https://example.com/images/class6-patterns.png",
+              "relevant": "Understanding repeating and growing patterns"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-01-A",
+              "name": "Number Patterns",
+
+              "conceptual_understanding": [
+                "Patterns follow a logical rule",
+                "Numbers can increase, decrease, or repeat in patterns"
+              ],
+
+              "student_can_achieve": [
+                "Identify number patterns",
+                "Extend number sequences logically"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-01-B",
+              "name": "Shape Patterns",
+
+              "conceptual_understanding": [
+                "Shapes can follow repeating or growing patterns"
+              ],
+
+              "student_can_achieve": ["Recognize and draw shape patterns"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "visual",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "CL06-MATH-01-C",
+              "name": "Patterns in Real Life",
+
+              "conceptual_understanding": [
+                "Patterns exist in daily life such as calendars and designs"
+              ],
+
+              "student_can_achieve": [
+                "Relate mathematical patterns to real-world examples"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-MATH-02",
+          "name": "Lines and Angles",
+
+          "agenda": [
+            "Understand basic geometrical terms",
+            "Identify types of lines and angles",
+            "Measure angles accurately"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain lines and angles using drawings and real objects"
+            },
+            {
+              "type": "activity",
+              "text": "Measure angles using a protractor"
+            }
+          ],
+
+          "teacher_aids": ["Geometry box", "Angle charts", "Interactive board"],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.35,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_lines_angles",
+              "name": "Types of Lines and Angles",
+              "src": "https://example.com/images/lines-angles.png",
+              "relevant": "Identifying lines and angles"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-02-A",
+              "name": "Types of Lines",
+
+              "conceptual_understanding": [
+                "Lines can be parallel, intersecting, or perpendicular"
+              ],
+
+              "student_can_achieve": ["Identify different types of lines"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-02-B",
+              "name": "Types of Angles",
+
+              "conceptual_understanding": [
+                "Angles are classified based on their measures"
+              ],
+
+              "student_can_achieve": [
+                "Identify acute, right, obtuse, and straight angles"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-02-C",
+              "name": "Measuring Angles",
+
+              "conceptual_understanding": [
+                "Angles are measured in degrees using a protractor"
+              ],
+
+              "student_can_achieve": ["Measure angles accurately"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-MATH-03",
+          "name": "Number Play",
+
+          "agenda": [
+            "Understand properties of numbers",
+            "Explore factors and multiples",
+            "Develop logical thinking using number games"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain number properties using simple examples"
+            },
+            {
+              "type": "activity",
+              "text": "Solve number puzzles and divisibility games"
+            }
+          ],
+
+          "teacher_aids": [
+            "Number cards",
+            "Factor-multiple charts",
+            "Puzzle worksheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_number_play",
+              "name": "Factors and Multiples Grid",
+              "src": "https://example.com/images/number-play.png",
+              "relevant": "Visualizing factors and multiples"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-03-A",
+              "name": "Factors and Multiples",
+
+              "conceptual_understanding": [
+                "Factors divide a number exactly",
+                "Multiples are obtained by repeated addition"
+              ],
+
+              "student_can_achieve": [
+                "Find factors and multiples of numbers",
+                "Solve basic exam problems"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual + problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-MATH-03-B",
+              "name": "Prime and Composite Numbers",
+
+              "conceptual_understanding": [
+                "Prime numbers have exactly two factors",
+                "Composite numbers have more than two factors"
+              ],
+
+              "student_can_achieve": ["Identify prime and composite numbers"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-03-C",
+              "name": "Divisibility Rules",
+
+              "conceptual_understanding": [
+                "Divisibility rules simplify checking factors"
+              ],
+
+              "student_can_achieve": [
+                "Apply divisibility tests quickly in exams"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-MATH-04",
+          "name": "Data Handling and Presentation",
+
+          "agenda": [
+            "Collect and organize data",
+            "Represent data using tables and graphs",
+            "Interpret information from data"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce data collection through surveys"
+            },
+            {
+              "type": "activity",
+              "text": "Create bar graphs from collected data"
+            }
+          ],
+
+          "teacher_aids": ["Graph paper", "Survey sheets", "Colored markers"],
+
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.45,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_data_handling",
+              "name": "Bar Graph Example",
+              "src": "https://example.com/images/data-handling.png",
+              "relevant": "Understanding data visualization"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-04-A",
+              "name": "Collection of Data",
+
+              "conceptual_understanding": [
+                "Data is information collected for analysis"
+              ],
+
+              "student_can_achieve": ["Collect simple data using surveys"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "CL06-MATH-04-B",
+              "name": "Tabular Representation",
+
+              "conceptual_understanding": [
+                "Tables organize data systematically"
+              ],
+
+              "student_can_achieve": ["Create frequency tables"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual + practice",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-04-C",
+              "name": "Graphs",
+
+              "conceptual_understanding": ["Graphs visually represent data"],
+
+              "student_can_achieve": ["Draw and interpret bar graphs"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-MATH-05",
+          "name": "Prime Time",
+
+          "agenda": [
+            "Understand prime numbers deeply",
+            "Learn prime factorization",
+            "Apply LCM and HCF in problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain primes using factor trees"
+            },
+            {
+              "type": "activity",
+              "text": "Students perform prime factorization using number cards"
+            }
+          ],
+
+          "teacher_aids": [
+            "Factor tree charts",
+            "Number tiles",
+            "LCM–HCF worksheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_prime_time",
+              "name": "Prime Factor Tree",
+              "src": "https://example.com/images/prime-factor-tree.png",
+              "relevant": "Visualizing prime factorization"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-05-A",
+              "name": "Prime Numbers",
+
+              "conceptual_understanding": [
+                "Prime numbers have exactly two factors",
+                "1 is neither prime nor composite"
+              ],
+
+              "student_can_achieve": [
+                "Identify prime numbers up to a given limit"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-05-B",
+              "name": "Prime Factorization",
+
+              "conceptual_understanding": [
+                "Any composite number can be written as a product of primes"
+              ],
+
+              "student_can_achieve": ["Find prime factorization of numbers"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual + practice",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-MATH-05-C",
+              "name": "LCM and HCF",
+
+              "conceptual_understanding": [
+                "LCM is the smallest common multiple",
+                "HCF is the greatest common factor"
+              ],
+
+              "student_can_achieve": ["Solve LCM and HCF problems in exams"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-MATH-06",
+          "name": "Perimeter and Area",
+
+          "agenda": [
+            "Understand perimeter of shapes",
+            "Calculate area of simple figures",
+            "Apply formulas in real-life contexts"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce perimeter and area using everyday objects"
+            },
+            {
+              "type": "activity",
+              "text": "Measure classroom objects and calculate perimeter/area"
+            }
+          ],
+
+          "teacher_aids": ["Measuring tapes", "Grid paper", "Shape cut-outs"],
+
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.45,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_perimeter_area",
+              "name": "Area and Perimeter of Shapes",
+              "src": "https://example.com/images/perimeter-area.png",
+              "relevant": "Understanding measurement of shapes"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-06-A",
+              "name": "Perimeter of Plane Figures",
+
+              "conceptual_understanding": [
+                "Perimeter is the total length of a boundary"
+              ],
+
+              "student_can_achieve": [
+                "Calculate perimeter of rectangles and squares"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual + practice",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-06-B",
+              "name": "Area of Rectangles and Squares",
+
+              "conceptual_understanding": [
+                "Area measures surface covered by a shape"
+              ],
+
+              "student_can_achieve": ["Apply area formulas correctly"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual + problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-MATH-06-C",
+              "name": "Real-Life Applications",
+
+              "conceptual_understanding": [
+                "Measurement concepts apply to daily life"
+              ],
+
+              "student_can_achieve": [
+                "Solve word problems involving area and perimeter"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-MATH-07",
+          "name": "Fractions",
+
+          "agenda": [
+            "Understand fractions as parts of a whole",
+            "Compare and simplify fractions",
+            "Apply fractions in real-life situations"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce fractions using visual models like pies and strips"
+            },
+            {
+              "type": "activity",
+              "text": "Students represent fractions using paper folding"
+            }
+          ],
+
+          "teacher_aids": [
+            "Fraction circles",
+            "Paper strips",
+            "Visual fraction charts"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.45,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_fractions",
+              "name": "Fraction Models",
+              "src": "https://example.com/images/fractions.png",
+              "relevant": "Visualizing fractions as parts of a whole"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-07-A",
+              "name": "Understanding Fractions",
+
+              "conceptual_understanding": [
+                "Fractions represent equal parts of a whole"
+              ],
+
+              "student_can_achieve": [
+                "Identify fractions from visual representations"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-07-B",
+              "name": "Equivalent Fractions",
+
+              "conceptual_understanding": [
+                "Equivalent fractions represent the same value"
+              ],
+
+              "student_can_achieve": ["Find equivalent fractions"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual + practice",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-MATH-07-C",
+              "name": "Comparing Fractions",
+
+              "conceptual_understanding": [
+                "Fractions can be compared using common denominators"
+              ],
+
+              "student_can_achieve": ["Order fractions correctly"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-MATH-07-D",
+              "name": "Fractions in Daily Life",
+
+              "conceptual_understanding": [
+                "Fractions appear in measurements and sharing"
+              ],
+
+              "student_can_achieve": [
+                "Solve word problems involving fractions"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-MATH-08",
+          "name": "Playing with Constructions",
+
+          "agenda": [
+            "Learn basic geometric constructions",
+            "Develop accuracy and precision",
+            "Understand the logic behind constructions"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Demonstrate constructions step-by-step on board"
+            },
+            {
+              "type": "activity",
+              "text": "Students perform constructions using ruler and compass"
+            }
+          ],
+
+          "teacher_aids": [
+            "Compass and ruler sets",
+            "Construction worksheets",
+            "Demonstration videos"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.25,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.35,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.25,
+            "practical": 0.55,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_constructions",
+              "name": "Geometric Constructions",
+              "src": "https://example.com/images/constructions.png",
+              "relevant": "Steps in geometric constructions"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-08-A",
+              "name": "Constructing Line Segments",
+
+              "conceptual_understanding": [
+                "Line segments can be constructed accurately using tools"
+              ],
+
+              "student_can_achieve": [
+                "Construct line segments of given lengths"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-08-B",
+              "name": "Constructing Angles",
+
+              "conceptual_understanding": ["Angles have measurable degrees"],
+
+              "student_can_achieve": ["Construct angles using a protractor"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-MATH-08-C",
+              "name": "Logical Reasoning in Constructions",
+
+              "conceptual_understanding": [
+                "Constructions follow logical steps"
+              ],
+
+              "student_can_achieve": [
+                "Explain reasoning behind construction steps"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual + discussion",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-MATH-09",
+          "name": "Symmetry",
+
+          "agenda": [
+            "Understand symmetry in shapes",
+            "Identify lines of symmetry",
+            "Apply symmetry in patterns and designs"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain symmetry using mirror images and paper folding"
+            },
+            {
+              "type": "activity",
+              "text": "Students fold paper shapes to find lines of symmetry"
+            }
+          ],
+
+          "teacher_aids": [
+            "Mirror strips",
+            "Paper cut-outs",
+            "Pattern worksheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.45,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_symmetry",
+              "name": "Line of Symmetry",
+              "src": "https://example.com/images/symmetry.png",
+              "relevant": "Understanding symmetrical figures"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-09-A",
+              "name": "Symmetrical Shapes",
+
+              "conceptual_understanding": [
+                "A symmetrical shape can be divided into equal halves"
+              ],
+
+              "student_can_achieve": ["Identify symmetrical shapes"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-09-B",
+              "name": "Lines of Symmetry",
+
+              "conceptual_understanding": [
+                "A shape can have one or more lines of symmetry"
+              ],
+
+              "student_can_achieve": ["Draw lines of symmetry accurately"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-MATH-09-C",
+              "name": "Symmetry in Everyday Life",
+
+              "conceptual_understanding": [
+                "Symmetry appears in nature, art, and architecture"
+              ],
+
+              "student_can_achieve": [
+                "Recognize symmetry in real-world objects"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-MATH-10",
+          "name": "The Other Side of Zero",
+
+          "agenda": [
+            "Understand negative numbers",
+            "Represent integers on a number line",
+            "Apply integers in real-life contexts"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce negative numbers using temperature and debt examples"
+            },
+            {
+              "type": "activity",
+              "text": "Plot integers on a number line"
+            }
+          ],
+
+          "teacher_aids": [
+            "Number line charts",
+            "Temperature scale visuals",
+            "Integer worksheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_integers",
+              "name": "Integer Number Line",
+              "src": "https://example.com/images/integers.png",
+              "relevant": "Visualizing positive and negative numbers"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-MATH-10-A",
+              "name": "Introduction to Integers",
+
+              "conceptual_understanding": [
+                "Integers include positive numbers, zero, and negative numbers"
+              ],
+
+              "student_can_achieve": [
+                "Identify integers in daily life situations"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-MATH-10-B",
+              "name": "Integers on a Number Line",
+
+              "conceptual_understanding": [
+                "Number lines help visualize integers"
+              ],
+
+              "student_can_achieve": [
+                "Plot integers correctly on a number line"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-MATH-10-C",
+              "name": "Real-Life Applications of Integers",
+
+              "conceptual_understanding": [
+                "Integers represent quantities like temperature and profit/loss"
+              ],
+
+              "student_can_achieve": ["Solve word problems involving integers"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "chapters": [
+        {
+          "code": "CL06-SCI-01",
+          "name": "The Wonderful World of Science",
+
+          "agenda": [
+            "Understand what science is",
+            "Relate science to daily life",
+            "Develop curiosity and scientific thinking"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Discuss everyday activities and link them to science"
+            },
+            {
+              "type": "activity",
+              "text": "Students list daily-life examples where science is used"
+            }
+          ],
+
+          "teacher_aids": [
+            "Daily-life objects",
+            "Short science videos",
+            "Picture charts"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.2
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_intro",
+              "name": "Science in Everyday Life",
+              "src": "https://example.com/images/science-everyday.png",
+              "relevant": "Connecting science to real-life situations"
+            }
+          ],
+
+          "division_count": 2,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-01-A",
+              "name": "What Is Science?",
+
+              "conceptual_understanding": [
+                "Science helps us understand the natural world",
+                "Scientific knowledge grows through observation and experiments"
+              ],
+
+              "student_can_achieve": [
+                "Explain science in simple terms",
+                "Give examples of science in daily life"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "CL06-SCI-01-B",
+              "name": "Science Around Us",
+
+              "conceptual_understanding": [
+                "Science improves human life and technology"
+              ],
+
+              "student_can_achieve": [
+                "Identify applications of science at home and school"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-SCI-02",
+          "name": "Diversity in the Living World",
+
+          "agenda": [
+            "Understand diversity among living organisms",
+            "Learn basic classification of plants and animals",
+            "Appreciate biodiversity"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce living organisms using pictures and videos"
+            },
+            {
+              "type": "activity",
+              "text": "Group organisms based on given characteristics"
+            }
+          ],
+
+          "teacher_aids": [
+            "Plant and animal charts",
+            "Classification tables",
+            "Short documentaries"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_diversity",
+              "name": "Living Organisms Diversity",
+              "src": "https://example.com/images/living-diversity.png",
+              "relevant": "Visualizing biodiversity"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-02-A",
+              "name": "Living and Non-living Things",
+
+              "conceptual_understanding": [
+                "Living things grow, breathe, and reproduce",
+                "Non-living things do not show life processes"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate living and non-living things"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-02-B",
+              "name": "Classification of Living Organisms",
+
+              "conceptual_understanding": [
+                "Organisms are grouped based on similarities"
+              ],
+
+              "student_can_achieve": [
+                "Classify plants and animals using basic features"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual + practice",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-02-C",
+              "name": "Importance of Biodiversity",
+
+              "conceptual_understanding": [
+                "Biodiversity maintains ecological balance"
+              ],
+
+              "student_can_achieve": ["Explain why biodiversity is important"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-SCI-03",
+          "name": "Mindful Eating: A Path to a Healthy Body",
+
+          "agenda": [
+            "Understand the need for food and nutrition",
+            "Learn components of a balanced diet",
+            "Develop healthy and mindful eating habits"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain nutrients using food examples familiar to students"
+            },
+            {
+              "type": "activity",
+              "text": "Students design a one-day balanced diet chart"
+            }
+          ],
+
+          "teacher_aids": [
+            "Food pyramid chart",
+            "Nutrition cards",
+            "Diet planning worksheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_nutrition",
+              "name": "Balanced Diet Components",
+              "src": "https://example.com/images/balanced-diet.png",
+              "relevant": "Understanding nutrients in food"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-03-A",
+              "name": "Why Do We Need Food?",
+
+              "conceptual_understanding": [
+                "Food provides energy for growth and repair",
+                "Different foods serve different body needs"
+              ],
+
+              "student_can_achieve": ["Explain why food is essential"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-03-B",
+              "name": "Nutrients and Balanced Diet",
+
+              "conceptual_understanding": [
+                "Balanced diet contains carbohydrates, proteins, fats, vitamins, and minerals"
+              ],
+
+              "student_can_achieve": [
+                "Identify nutrients in common foods",
+                "Design a balanced diet"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual + application",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-03-C",
+              "name": "Healthy Eating Habits",
+
+              "conceptual_understanding": [
+                "Mindful eating promotes long-term health"
+              ],
+
+              "student_can_achieve": ["Adopt healthy food habits"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-SCI-04",
+          "name": "Exploring Magnets",
+
+          "agenda": [
+            "Understand magnets and their properties",
+            "Learn about magnetic poles",
+            "Explore practical uses of magnets"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Demonstrate magnetic attraction using classroom objects"
+            },
+            {
+              "type": "activity",
+              "text": "Students test magnetic and non-magnetic materials"
+            }
+          ],
+
+          "teacher_aids": ["Bar magnets", "Iron filings", "Compass needles"],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.2
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.45,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_magnets",
+              "name": "Magnet and Magnetic Field",
+              "src": "https://example.com/images/magnets.png",
+              "relevant": "Visualizing magnetic attraction and poles"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-04-A",
+              "name": "Magnetic and Non-magnetic Materials",
+
+              "conceptual_understanding": [
+                "Magnets attract certain materials like iron"
+              ],
+
+              "student_can_achieve": ["Identify magnetic materials"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "experimental",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-04-B",
+              "name": "Magnetic Poles and Properties",
+
+              "conceptual_understanding": [
+                "Like poles repel and unlike poles attract"
+              ],
+
+              "student_can_achieve": ["Explain behavior of magnetic poles"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual + practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-04-C",
+              "name": "Uses of Magnets",
+
+              "conceptual_understanding": [
+                "Magnets are used in daily-life devices"
+              ],
+
+              "student_can_achieve": ["List practical uses of magnets"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-SCI-05",
+          "name": "Measurement of Length and Motion",
+
+          "agenda": [
+            "Understand the need for measurement",
+            "Learn standard units of length",
+            "Identify different types of motion"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce measurement using classroom objects and rulers"
+            },
+            {
+              "type": "activity",
+              "text": "Students measure objects and classify types of motion"
+            }
+          ],
+
+          "teacher_aids": [
+            "Rulers and measuring tapes",
+            "Stopwatch",
+            "Motion diagrams"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_measurement_motion",
+              "name": "Measurement and Motion Types",
+              "src": "https://example.com/images/measurement-motion.png",
+              "relevant": "Understanding length measurement and motion"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-05-A",
+              "name": "Measurement of Length",
+
+              "conceptual_understanding": [
+                "Standard units make measurement uniform",
+                "Correct measurement requires proper alignment"
+              ],
+
+              "student_can_achieve": [
+                "Measure objects accurately using standard units"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual + practical",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-05-B",
+              "name": "Types of Motion",
+
+              "conceptual_understanding": [
+                "Motion can be linear, circular, or periodic"
+              ],
+
+              "student_can_achieve": ["Identify types of motion in daily life"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-05-C",
+              "name": "Motion Around Us",
+
+              "conceptual_understanding": [
+                "Objects show motion when their position changes"
+              ],
+
+              "student_can_achieve": [
+                "Explain motion using real-life examples"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-SCI-06",
+          "name": "Materials Around Us",
+
+          "agenda": [
+            "Identify different materials",
+            "Study properties of materials",
+            "Classify materials based on properties"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce materials using everyday objects"
+            },
+            {
+              "type": "activity",
+              "text": "Group materials based on hardness, transparency, and conductivity"
+            }
+          ],
+
+          "teacher_aids": [
+            "Sample materials (metal, wood, plastic)",
+            "Property comparison charts",
+            "Sorting worksheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_materials",
+              "name": "Material Properties",
+              "src": "https://example.com/images/materials.png",
+              "relevant": "Classifying materials by properties"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-06-A",
+              "name": "Types of Materials",
+
+              "conceptual_understanding": [
+                "Materials differ in appearance and use"
+              ],
+
+              "student_can_achieve": ["Identify materials used in daily life"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-06-B",
+              "name": "Properties of Materials",
+
+              "conceptual_understanding": [
+                "Materials have properties like hardness, solubility, and conductivity"
+              ],
+
+              "student_can_achieve": ["Compare materials based on properties"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual + practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-06-C",
+              "name": "Uses of Materials",
+
+              "conceptual_understanding": [
+                "Material properties determine their uses"
+              ],
+
+              "student_can_achieve": [
+                "Justify why certain materials are used for specific purposes"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-SCI-07",
+          "name": "Temperature and its Measurement",
+
+          "agenda": [
+            "Understand the concept of temperature",
+            "Learn how temperature is measured",
+            "Differentiate between heat and temperature"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain temperature using hot and cold object examples"
+            },
+            {
+              "type": "activity",
+              "text": "Students observe thermometer readings in different situations"
+            }
+          ],
+
+          "teacher_aids": [
+            "Clinical thermometer",
+            "Laboratory thermometer",
+            "Temperature scale charts"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_temperature",
+              "name": "Temperature Measurement",
+              "src": "https://example.com/images/temperature.png",
+              "relevant": "Understanding thermometer scales"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-07-A",
+              "name": "What Is Temperature?",
+
+              "conceptual_understanding": [
+                "Temperature indicates how hot or cold an object is"
+              ],
+
+              "student_can_achieve": ["Explain temperature in simple terms"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-07-B",
+              "name": "Measuring Temperature",
+
+              "conceptual_understanding": [
+                "Thermometers are used to measure temperature accurately"
+              ],
+
+              "student_can_achieve": ["Read thermometer values correctly"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-07-C",
+              "name": "Effect of Temperature",
+
+              "conceptual_understanding": [
+                "Temperature affects materials and living beings"
+              ],
+
+              "student_can_achieve": [
+                "Relate temperature changes to daily-life situations"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-SCI-08",
+          "name": "A Journey through States of Water",
+
+          "agenda": [
+            "Understand states of water",
+            "Learn processes of change of state",
+            "Understand the water cycle"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain states of water using real-life observations"
+            },
+            {
+              "type": "activity",
+              "text": "Demonstrate melting and evaporation experiments"
+            }
+          ],
+
+          "teacher_aids": [
+            "Ice cubes",
+            "Heating plate (demo)",
+            "Water cycle chart"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.2
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_water_states",
+              "name": "States of Water and Water Cycle",
+              "src": "https://example.com/images/states-of-water.png",
+              "relevant": "Understanding water states and transitions"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-08-A",
+              "name": "States of Water",
+
+              "conceptual_understanding": [
+                "Water exists as solid, liquid, and gas"
+              ],
+
+              "student_can_achieve": ["Identify different states of water"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-08-B",
+              "name": "Change of State",
+
+              "conceptual_understanding": [
+                "Heating and cooling cause changes in states of water"
+              ],
+
+              "student_can_achieve": [
+                "Explain melting, freezing, evaporation, and condensation"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual + experimental",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-08-C",
+              "name": "Water Cycle",
+
+              "conceptual_understanding": [
+                "Water circulates continuously through the water cycle"
+              ],
+
+              "student_can_achieve": ["Describe the stages of the water cycle"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-SCI-09",
+          "name": "Methods of Separation in Everyday Life",
+
+          "agenda": [
+            "Understand why separation of substances is needed",
+            "Learn common separation techniques",
+            "Relate separation methods to daily life"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain separation using real-life examples like cleaning grains"
+            },
+            {
+              "type": "activity",
+              "text": "Students perform simple filtration and evaporation demonstrations"
+            }
+          ],
+
+          "teacher_aids": ["Sieves", "Filter paper", "Salt–water mixture"],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.2
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_separation",
+              "name": "Methods of Separation",
+              "src": "https://example.com/images/separation-methods.png",
+              "relevant": "Visualizing separation techniques"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-09-A",
+              "name": "Why Do We Separate Substances?",
+
+              "conceptual_understanding": [
+                "Separation helps remove unwanted components",
+                "Pure substances are needed for specific uses"
+              ],
+
+              "student_can_achieve": ["Explain the need for separation"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-09-B",
+              "name": "Handpicking, Winnowing and Sieving",
+
+              "conceptual_understanding": [
+                "Different methods suit different mixtures"
+              ],
+
+              "student_can_achieve": ["Choose appropriate separation methods"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-09-C",
+              "name": "Filtration and Evaporation",
+
+              "conceptual_understanding": [
+                "Insoluble solids can be removed by filtration",
+                "Evaporation separates dissolved solids"
+              ],
+
+              "student_can_achieve": [
+                "Explain filtration and evaporation processes"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "experimental",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-09-D",
+              "name": "Everyday Applications",
+
+              "conceptual_understanding": [
+                "Separation methods are used in households and industries"
+              ],
+
+              "student_can_achieve": [
+                "Relate separation methods to real-life scenarios"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-SCI-10",
+          "name": "Living Creatures: Exploring their Characteristics",
+
+          "agenda": [
+            "Understand characteristics of living organisms",
+            "Differentiate plants and animals",
+            "Explore adaptations of living beings"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Discuss life processes with examples of plants and animals"
+            },
+            {
+              "type": "activity",
+              "text": "Students observe living organisms and list their characteristics"
+            }
+          ],
+
+          "teacher_aids": [
+            "Plant samples",
+            "Animal pictures",
+            "Life process charts"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_living_char",
+              "name": "Characteristics of Living Things",
+              "src": "https://example.com/images/living-characteristics.png",
+              "relevant": "Identifying life processes"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-10-A",
+              "name": "Characteristics of Living Organisms",
+
+              "conceptual_understanding": [
+                "Living things grow, reproduce, and respond to stimuli"
+              ],
+
+              "student_can_achieve": [
+                "List characteristics of living organisms"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-10-B",
+              "name": "Plants and Animals",
+
+              "conceptual_understanding": [
+                "Plants and animals show different life processes"
+              ],
+
+              "student_can_achieve": ["Differentiate plants and animals"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual + comparison",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-10-C",
+              "name": "Adaptations",
+
+              "conceptual_understanding": [
+                "Living organisms adapt to their surroundings"
+              ],
+
+              "student_can_achieve": ["Explain adaptations with examples"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL06-SCI-11",
+          "name": "Nature’s Treasures",
+
+          "agenda": [
+            "Understand natural resources",
+            "Recognize the importance of conservation",
+            "Promote sustainable use of resources"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce natural resources using examples from surroundings"
+            },
+            {
+              "type": "activity",
+              "text": "Students list renewable and non-renewable resources"
+            }
+          ],
+
+          "teacher_aids": [
+            "Resource classification charts",
+            "Environmental posters",
+            "Short awareness videos"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.2
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.25,
+            "discussion": 0.35
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_resources",
+              "name": "Natural Resources",
+              "src": "https://example.com/images/natural-resources.png",
+              "relevant": "Understanding types and importance of resources"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-11-A",
+              "name": "Types of Natural Resources",
+
+              "conceptual_understanding": [
+                "Natural resources are materials provided by nature",
+                "Resources can be renewable or non-renewable"
+              ],
+
+              "student_can_achieve": ["Classify natural resources"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-11-B",
+              "name": "Uses of Natural Resources",
+
+              "conceptual_understanding": [
+                "Human life depends heavily on natural resources"
+              ],
+
+              "student_can_achieve": [
+                "Explain the importance of natural resources"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-11-C",
+              "name": "Conservation of Resources",
+
+              "conceptual_understanding": [
+                "Conservation ensures availability of resources for the future"
+              ],
+
+              "student_can_achieve": ["Suggest methods to conserve resources"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "value-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL06-SCI-12",
+          "name": "Beyond Earth",
+
+          "agenda": [
+            "Introduce celestial bodies",
+            "Understand basic structure of the universe",
+            "Develop curiosity about space exploration"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain Earth’s position in the universe using models"
+            },
+            {
+              "type": "activity",
+              "text": "Students create a simple solar system diagram"
+            }
+          ],
+
+          "teacher_aids": [
+            "Solar system models",
+            "Planet charts",
+            "Space exploration videos"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.25
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.3,
+            "discussion": 0.35
+          },
+
+          "image_assets": [
+            {
+              "id": "cl06_sci_space",
+              "name": "Solar System and Universe",
+              "src": "https://example.com/images/solar-system.png",
+              "relevant": "Visualizing planets and celestial bodies"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL06-SCI-12-A",
+              "name": "Earth, Moon and Sun",
+
+              "conceptual_understanding": [
+                "Earth, Moon, and Sun have unique movements and roles"
+              ],
+
+              "student_can_achieve": [
+                "Explain day, night, and phases of the Moon"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL06-SCI-12-B",
+              "name": "Other Celestial Bodies",
+
+              "conceptual_understanding": [
+                "Stars, planets, and galaxies make up the universe"
+              ],
+
+              "student_can_achieve": ["Identify different celestial bodies"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL06-SCI-12-C",
+              "name": "Space Exploration",
+
+              "conceptual_understanding": [
+                "Humans explore space using satellites and spacecraft"
+              ],
+
+              "student_can_achieve": ["Explain the purpose of space missions"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

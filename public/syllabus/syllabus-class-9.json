@@ -1,0 +1,3047 @@
+{
+  "classId": "CL09",
+  "className": "Class 9",
+  "syllabus_year": "2025-26",
+  "source": "NCF 2023 / NCERT-aligned",
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "code": "CL09-MATH",
+      "chapters": [
+        {
+          "code": "CL09-MATH-01",
+          "name": "Number Systems",
+
+          "agenda": [
+            "Understand different types of numbers",
+            "Explore irrational numbers",
+            "Locate numbers on number line"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce number systems through hierarchy and examples"
+            },
+            {
+              "type": "activity",
+              "text": "Students represent rational and irrational numbers on number line"
+            }
+          ],
+
+          "teacher_aids": [
+            "Number line charts",
+            "Irrational number visuals",
+            "Worked example sheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_numsys_01",
+              "name": "Number System Hierarchy",
+              "src": "https://example.com/images/number-system.png",
+              "relevant": "Understanding types of numbers"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-01-A",
+              "name": "Real Numbers",
+
+              "conceptual_understanding": [
+                "Every point on number line corresponds to a real number",
+                "Real numbers include both rational and irrational numbers"
+              ],
+
+              "student_can_achieve": [
+                "Classify numbers correctly",
+                "Represent real numbers on number line"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-01-B",
+              "name": "Irrational Numbers",
+
+              "conceptual_understanding": [
+                "Irrational numbers have non-terminating non-repeating decimals"
+              ],
+
+              "student_can_achieve": [
+                "Identify irrational numbers",
+                "Locate irrational numbers geometrically"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual + construction",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-01-C",
+              "name": "Laws of Exponents",
+
+              "conceptual_understanding": [
+                "Exponent laws simplify expressions involving powers"
+              ],
+
+              "student_can_achieve": [
+                "Apply exponent rules",
+                "Solve numerical problems efficiently"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-MATH-02",
+          "name": "Polynomials",
+
+          "agenda": [
+            "Understand polynomials and their degrees",
+            "Learn zeroes of polynomials",
+            "Relate graphs with algebraic expressions"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain polynomial terms using algebraic expressions"
+            },
+            {
+              "type": "activity",
+              "text": "Students plot graphs of simple polynomials"
+            }
+          ],
+
+          "teacher_aids": [
+            "Graph sheets",
+            "Polynomial charts",
+            "Graphing tools"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_poly_01",
+              "name": "Polynomial Graphs",
+              "src": "https://example.com/images/polynomial-graphs.png",
+              "relevant": "Understanding zeroes via graphs"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-02-A",
+              "name": "Polynomials and Degrees",
+
+              "conceptual_understanding": [
+                "Degree of polynomial depends on highest power of variable"
+              ],
+
+              "student_can_achieve": [
+                "Identify degree and type of polynomial",
+                "Classify polynomials correctly"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-02-B",
+              "name": "Zeroes of Polynomials",
+
+              "conceptual_understanding": [
+                "Zeroes of polynomial are x-values where polynomial becomes zero"
+              ],
+
+              "student_can_achieve": [
+                "Find zeroes algebraically",
+                "Relate zeroes to graphs"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "graph-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-02-C",
+              "name": "Graphical Representation",
+
+              "conceptual_understanding": [
+                "Graphs visually represent behavior of polynomials"
+              ],
+
+              "student_can_achieve": [
+                "Plot polynomial graphs",
+                "Interpret graph behavior"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-MATH-03",
+          "name": "Coordinate Geometry",
+
+          "agenda": [
+            "Understand Cartesian coordinate system",
+            "Locate points in different quadrants",
+            "Apply coordinates in geometric problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce Cartesian plane using x-axis and y-axis visuals"
+            },
+            {
+              "type": "activity",
+              "text": "Students plot points in all four quadrants"
+            }
+          ],
+
+          "teacher_aids": [
+            "Graph paper",
+            "Cartesian plane charts",
+            "Interactive plotting tools"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_coord_01",
+              "name": "Cartesian Plane",
+              "src": "https://example.com/images/cartesian-plane.png",
+              "relevant": "Understanding coordinate axes and quadrants"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-03-A",
+              "name": "Cartesian Coordinate System",
+
+              "conceptual_understanding": [
+                "Coordinates represent position of a point on a plane"
+              ],
+
+              "student_can_achieve": [
+                "Identify x-axis and y-axis",
+                "Explain origin and quadrants"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-03-B",
+              "name": "Plotting Points",
+
+              "conceptual_understanding": [
+                "Ordered pairs determine exact position of points"
+              ],
+
+              "student_can_achieve": [
+                "Plot points accurately",
+                "Identify quadrant of a point"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-03-C",
+              "name": "Applications of Coordinate Geometry",
+
+              "conceptual_understanding": [
+                "Coordinates help solve real-world location problems"
+              ],
+
+              "student_can_achieve": [
+                "Solve application-based questions",
+                "Interpret coordinate data"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-MATH-04",
+          "name": "Linear Equations in Two Variables",
+
+          "agenda": [
+            "Understand linear equations in two variables",
+            "Represent equations graphically",
+            "Interpret solutions geometrically"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain linear equations using real-life examples"
+            },
+            {
+              "type": "activity",
+              "text": "Students draw graphs of given linear equations"
+            }
+          ],
+
+          "teacher_aids": [
+            "Graph sheets",
+            "Equation charts",
+            "Worked example handouts"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_linear_01",
+              "name": "Graph of Linear Equation",
+              "src": "https://example.com/images/linear-equation-graph.png",
+              "relevant": "Visualizing linear equations as straight lines"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-04-A",
+              "name": "Concept of Linear Equation",
+
+              "conceptual_understanding": [
+                "Linear equations represent straight lines"
+              ],
+
+              "student_can_achieve": [
+                "Identify linear equations",
+                "Form equations in two variables"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-04-B",
+              "name": "Graphical Representation",
+
+              "conceptual_understanding": [
+                "Each solution of linear equation lies on its graph"
+              ],
+
+              "student_can_achieve": [
+                "Plot linear equations",
+                "Verify solutions graphically"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "graph-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-04-C",
+              "name": "Applications",
+
+              "conceptual_understanding": [
+                "Linear equations model real-life situations"
+              ],
+
+              "student_can_achieve": [
+                "Solve word problems",
+                "Interpret graphical solutions"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-MATH-05",
+          "name": "Introduction to Euclid’s Geometry",
+
+          "agenda": [
+            "Understand Euclid’s approach to geometry",
+            "Learn basic terms, axioms, and postulates",
+            "Differentiate axioms and postulates"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce geometry as a logical system developed by Euclid"
+            },
+            {
+              "type": "activity",
+              "text": "Students identify axioms and postulates from real-life statements"
+            }
+          ],
+
+          "teacher_aids": [
+            "Geometry diagrams",
+            "Statement cards for axioms/postulates",
+            "Whiteboard proofs"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.55,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.15,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.55,
+            "practical": 0.2,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_euclid_01",
+              "name": "Euclid Geometry Elements",
+              "src": "https://example.com/images/euclid-elements.png",
+              "relevant": "Foundations of Euclidean geometry"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-05-A",
+              "name": "Basic Geometrical Ideas",
+
+              "conceptual_understanding": [
+                "Points, lines, and planes are undefined terms",
+                "Geometry builds from basic assumptions"
+              ],
+
+              "student_can_achieve": [
+                "Define basic geometrical terms",
+                "Explain the need for undefined terms"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-05-B",
+              "name": "Axioms and Postulates",
+
+              "conceptual_understanding": [
+                "Axioms are universally accepted truths",
+                "Postulates are geometry-specific assumptions"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate axioms and postulates",
+                "Identify examples in geometry"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-05-C",
+              "name": "Euclid’s Postulates",
+
+              "conceptual_understanding": [
+                "Euclid’s postulates form the basis of plane geometry"
+              ],
+
+              "student_can_achieve": [
+                "State Euclid’s five postulates",
+                "Apply postulates to simple reasoning"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "memory + reasoning",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-MATH-06",
+          "name": "Lines and Angles",
+
+          "agenda": [
+            "Understand angle relationships",
+            "Study parallel lines and transversals",
+            "Apply angle properties in problem solving"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain angle types using intersecting and parallel lines"
+            },
+            {
+              "type": "activity",
+              "text": "Students measure angles formed by transversals"
+            }
+          ],
+
+          "teacher_aids": [
+            "Angle charts",
+            "Parallel line diagrams",
+            "Geometry instruments"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_angles_01",
+              "name": "Parallel Lines and Transversal",
+              "src": "https://example.com/images/parallel-lines-angles.png",
+              "relevant": "Angle relationships with parallel lines"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-06-A",
+              "name": "Basic Angle Concepts",
+
+              "conceptual_understanding": [
+                "Angles are formed by intersecting lines"
+              ],
+
+              "student_can_achieve": [
+                "Identify types of angles",
+                "Measure angles accurately"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-06-B",
+              "name": "Parallel Lines and Transversals",
+
+              "conceptual_understanding": [
+                "Parallel lines create predictable angle pairs"
+              ],
+
+              "student_can_achieve": [
+                "Identify corresponding and alternate angles",
+                "Apply angle properties"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "theory + practice",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-06-C",
+              "name": "Angle Sum Properties",
+
+              "conceptual_understanding": [
+                "Linear pair angles sum to 180°",
+                "Vertically opposite angles are equal"
+              ],
+
+              "student_can_achieve": [
+                "Solve angle sum problems",
+                "Use properties logically"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-06-D",
+              "name": "Applications of Angles",
+
+              "conceptual_understanding": [
+                "Angle properties are used in constructions and proofs"
+              ],
+
+              "student_can_achieve": ["Solve exam-level reasoning questions"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-MATH-07",
+          "name": "Triangles",
+
+          "agenda": [
+            "Understand congruence of triangles",
+            "Learn criteria for triangle congruence",
+            "Apply properties of triangles in reasoning problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain triangle congruence using physical cut-outs"
+            },
+            {
+              "type": "activity",
+              "text": "Students verify congruence criteria using paper folding"
+            }
+          ],
+
+          "teacher_aids": [
+            "Triangle cut-outs",
+            "Congruence criteria charts",
+            "Geometry instruments"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_triangles_01",
+              "name": "Triangle Congruence Criteria",
+              "src": "https://example.com/images/triangle-congruence.png",
+              "relevant": "SSS, SAS, ASA, RHS congruence"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-07-A",
+              "name": "Introduction to Triangles",
+
+              "conceptual_understanding": [
+                "A triangle is defined by three sides and three angles",
+                "Sum of angles in a triangle is 180°"
+              ],
+
+              "student_can_achieve": [
+                "Identify types of triangles",
+                "Apply angle sum property"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-07-B",
+              "name": "Congruence of Triangles",
+
+              "conceptual_understanding": [
+                "Congruent triangles have identical shape and size"
+              ],
+
+              "student_can_achieve": [
+                "State congruence criteria",
+                "Check triangle congruence"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-07-C",
+              "name": "Criteria for Congruence",
+
+              "conceptual_understanding": [
+                "SSS, SAS, ASA, RHS ensure triangle congruence"
+              ],
+
+              "student_can_achieve": ["Apply congruence criteria in proofs"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-07-D",
+              "name": "Applications of Congruence",
+
+              "conceptual_understanding": [
+                "Congruence is used in geometric proofs"
+              ],
+
+              "student_can_achieve": ["Solve proof-based exam questions"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-MATH-08",
+          "name": "Quadrilaterals",
+
+          "agenda": [
+            "Understand properties of quadrilaterals",
+            "Study parallelograms and special quadrilaterals",
+            "Apply properties in numerical and proof problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain quadrilateral types using diagrams"
+            },
+            {
+              "type": "activity",
+              "text": "Students verify parallelogram properties using drawings"
+            }
+          ],
+
+          "teacher_aids": [
+            "Quadrilateral charts",
+            "Parallelogram models",
+            "Geometry tools"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_quadrilaterals_01",
+              "name": "Types of Quadrilaterals",
+              "src": "https://example.com/images/quadrilaterals.png",
+              "relevant": "Parallelogram, rectangle, rhombus, square"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-08-A",
+              "name": "Introduction to Quadrilaterals",
+
+              "conceptual_understanding": [
+                "A quadrilateral has four sides and four angles"
+              ],
+
+              "student_can_achieve": ["Identify different quadrilaterals"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-08-B",
+              "name": "Properties of Parallelograms",
+
+              "conceptual_understanding": [
+                "Opposite sides and angles of a parallelogram are equal"
+              ],
+
+              "student_can_achieve": [
+                "Apply parallelogram properties in problems"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "theory + proof",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-08-C",
+              "name": "Special Quadrilaterals",
+
+              "conceptual_understanding": [
+                "Rectangles, rhombuses, and squares have unique properties"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate special quadrilaterals",
+                "Solve exam questions"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-MATH-09",
+          "name": "Circles",
+
+          "agenda": [
+            "Understand basic terms related to circles",
+            "Learn properties of chords, arcs, and angles in a circle",
+            "Apply circle theorems in problem solving"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce circle terminology using real-life circular objects"
+            },
+            {
+              "type": "activity",
+              "text": "Students draw circles and verify properties of chords and angles"
+            }
+          ],
+
+          "teacher_aids": [
+            "Compass and ruler",
+            "Circle models",
+            "Interactive geometry software"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_circle_01",
+              "name": "Parts of a Circle",
+              "src": "https://example.com/images/circle-parts.png",
+              "relevant": "Radius, diameter, chord, arc, sector"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-09-A",
+              "name": "Introduction to Circles",
+
+              "conceptual_understanding": [
+                "A circle is the set of points equidistant from a fixed point",
+                "Radius and diameter are fundamental circle elements"
+              ],
+
+              "student_can_achieve": [
+                "Define basic terms of a circle",
+                "Identify parts of a circle"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-09-B",
+              "name": "Chords and Angles",
+
+              "conceptual_understanding": [
+                "Equal chords subtend equal angles at the center",
+                "Angle subtended by a diameter is a right angle"
+              ],
+
+              "student_can_achieve": [
+                "Apply chord and angle properties",
+                "Solve theorem-based questions"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "theory + problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-09-C",
+              "name": "Applications of Circle Theorems",
+
+              "conceptual_understanding": [
+                "Circle theorems simplify geometric proofs"
+              ],
+
+              "student_can_achieve": [
+                "Solve exam-level reasoning and proof questions"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-MATH-10",
+          "name": "Heron’s Formula",
+
+          "agenda": [
+            "Understand the concept of area of triangles",
+            "Learn and apply Heron’s formula",
+            "Solve real-life problems using triangle area"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain the need for Heron’s formula when height is unknown"
+            },
+            {
+              "type": "activity",
+              "text": "Students calculate triangle areas using side lengths"
+            }
+          ],
+
+          "teacher_aids": [
+            "Worked example sheets",
+            "Triangle measurement models",
+            "Calculator (if permitted)"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.35,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.45,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_heron_01",
+              "name": "Triangle Area Using Heron’s Formula",
+              "src": "https://example.com/images/heron-formula.png",
+              "relevant": "Finding area from three sides"
+            }
+          ],
+
+          "division_count": 2,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-10-A",
+              "name": "Understanding Heron’s Formula",
+
+              "conceptual_understanding": [
+                "Heron’s formula finds area using only side lengths"
+              ],
+
+              "student_can_achieve": [
+                "State and explain Heron’s formula",
+                "Identify when to use it"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-10-B",
+              "name": "Applications of Heron’s Formula",
+
+              "conceptual_understanding": [
+                "Heron’s formula applies to real-life triangular regions"
+              ],
+
+              "student_can_achieve": [
+                "Solve numerical and word problems in exams"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-MATH-11",
+          "name": "Surface Areas and Volumes",
+
+          "agenda": [
+            "Understand surface area of solids",
+            "Calculate volumes of common 3D shapes",
+            "Apply formulas to real-life problems"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce 3D solids using physical models"
+            },
+            {
+              "type": "activity",
+              "text": "Students calculate surface area and volume from given dimensions"
+            }
+          ],
+
+          "teacher_aids": [
+            "3D solid models",
+            "Formula charts",
+            "Measurement tools"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_surface_volume_01",
+              "name": "Surface Area and Volume of Solids",
+              "src": "https://example.com/images/surface-volume-solids.png",
+              "relevant": "Cube, cuboid, cylinder, cone, sphere"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-11-A",
+              "name": "Introduction to 3D Solids",
+
+              "conceptual_understanding": [
+                "3D solids occupy space and have volume"
+              ],
+
+              "student_can_achieve": [
+                "Identify common 3D shapes",
+                "Understand surface area vs volume"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-11-B",
+              "name": "Surface Area of Solids",
+
+              "conceptual_understanding": [
+                "Surface area measures the outer covering of solids"
+              ],
+
+              "student_can_achieve": [
+                "Calculate surface area of cube and cuboid",
+                "Apply formulas correctly"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "formula-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-11-C",
+              "name": "Volume of Solids",
+
+              "conceptual_understanding": [
+                "Volume measures space occupied by a solid"
+              ],
+
+              "student_can_achieve": [
+                "Find volume of common solids",
+                "Solve numerical problems"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-11-D",
+              "name": "Applications of Surface Area and Volume",
+
+              "conceptual_understanding": [
+                "Surface area and volume concepts apply in daily life"
+              ],
+
+              "student_can_achieve": ["Solve word problems in exams"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-MATH-12",
+          "name": "Statistics",
+
+          "agenda": [
+            "Understand collection and representation of data",
+            "Learn graphical methods",
+            "Interpret statistical data"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce statistics using real-life data examples"
+            },
+            {
+              "type": "activity",
+              "text": "Students create bar graphs and histograms"
+            }
+          ],
+
+          "teacher_aids": ["Graph paper", "Sample datasets", "Chart templates"],
+
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.45,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_statistics_01",
+              "name": "Statistical Data Representation",
+              "src": "https://example.com/images/statistics-graphs.png",
+              "relevant": "Bar graphs, histograms"
+            }
+          ],
+
+          "division_count": 3,
+
+          "divisions": [
+            {
+              "code": "CL09-MATH-12-A",
+              "name": "Introduction to Statistics",
+
+              "conceptual_understanding": [
+                "Statistics deals with collection and analysis of data"
+              ],
+
+              "student_can_achieve": [
+                "Understand purpose of statistics",
+                "Identify types of data"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-MATH-12-B",
+              "name": "Graphical Representation of Data",
+
+              "conceptual_understanding": ["Graphs help visualize data trends"],
+
+              "student_can_achieve": [
+                "Draw bar graphs and histograms",
+                "Interpret graphs accurately"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-MATH-12-C",
+              "name": "Interpretation of Data",
+
+              "conceptual_understanding": [
+                "Statistical interpretation supports decision making"
+              ],
+
+              "student_can_achieve": [
+                "Solve exam questions based on data analysis"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "code": "CL09-SCI",
+
+      "chapters": [
+        {
+          "code": "CL09-SCI-01",
+          "name": "Matter in Our Surroundings",
+
+          "agenda": [
+            "Understand the nature of matter",
+            "Study physical states of matter",
+            "Relate particle behavior with temperature and pressure"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce matter using everyday examples like air, water, and solids"
+            },
+            {
+              "type": "activity",
+              "text": "Students observe diffusion using incense or perfume"
+            }
+          ],
+
+          "teacher_aids": [
+            "Particle model diagrams",
+            "Diffusion experiment setup",
+            "State-of-matter charts"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_matter_states",
+              "name": "States of Matter",
+              "src": "https://example.com/images/states-of-matter.png",
+              "relevant": "Solid, liquid, gas particle arrangement"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-01-A",
+              "name": "Nature of Matter",
+
+              "conceptual_understanding": [
+                "Matter is made up of tiny particles",
+                "Particles of matter have space and motion"
+              ],
+
+              "student_can_achieve": [
+                "Explain characteristics of particles of matter",
+                "Relate observations to particle theory"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-01-B",
+              "name": "States of Matter",
+
+              "conceptual_understanding": [
+                "Matter exists as solid, liquid, and gas",
+                "Particle arrangement defines state"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate between states of matter",
+                "Give real-life examples"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-01-C",
+              "name": "Change of State",
+
+              "conceptual_understanding": [
+                "Temperature and pressure affect state of matter"
+              ],
+
+              "student_can_achieve": [
+                "Explain melting, freezing, evaporation, condensation"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual + application",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-01-D",
+              "name": "Evaporation",
+
+              "conceptual_understanding": [
+                "Evaporation causes cooling",
+                "Surface area and wind speed affect evaporation"
+              ],
+
+              "student_can_achieve": [
+                "Apply evaporation concepts to daily life examples"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-SCI-02",
+          "name": "Is Matter Around Us Pure",
+
+          "agenda": [
+            "Understand pure substances and mixtures",
+            "Differentiate between elements, compounds, and mixtures",
+            "Learn separation techniques"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain purity using examples like salt water and air"
+            },
+            {
+              "type": "activity",
+              "text": "Students classify given substances as pure or mixtures"
+            }
+          ],
+
+          "teacher_aids": [
+            "Mixture samples",
+            "Separation technique charts",
+            "Laboratory glassware"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_mixtures",
+              "name": "Mixtures and Pure Substances",
+              "src": "https://example.com/images/mixtures.png",
+              "relevant": "Homogeneous and heterogeneous mixtures"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-02-A",
+              "name": "Pure Substances",
+
+              "conceptual_understanding": [
+                "Pure substances have fixed composition"
+              ],
+
+              "student_can_achieve": ["Identify elements and compounds"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-02-B",
+              "name": "Mixtures",
+
+              "conceptual_understanding": [
+                "Mixtures contain two or more substances"
+              ],
+
+              "student_can_achieve": [
+                "Classify mixtures as homogeneous or heterogeneous"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-02-C",
+              "name": "Separation of Mixtures",
+
+              "conceptual_understanding": [
+                "Different separation methods depend on properties"
+              ],
+
+              "student_can_achieve": [
+                "Choose appropriate separation techniques"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "practical + application",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-02-D",
+              "name": "Physical and Chemical Changes",
+
+              "conceptual_understanding": [
+                "Purity changes during chemical reactions"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate physical and chemical changes"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-SCI-03",
+          "name": "Atoms and Molecules",
+
+          "agenda": [
+            "Understand laws of chemical combination",
+            "Learn atomic and molecular concepts",
+            "Apply mole concept in calculations"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce atoms and molecules using historical experiments"
+            },
+            {
+              "type": "activity",
+              "text": "Students solve numerical problems using mole concept"
+            }
+          ],
+
+          "teacher_aids": [
+            "Dalton’s atomic theory chart",
+            "Mole concept worksheets",
+            "Chemical equation cards"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_atoms_molecules",
+              "name": "Atoms and Molecules Representation",
+              "src": "https://example.com/images/atoms-molecules.png",
+              "relevant": "Atomic mass, molecular mass, mole concept"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-03-A",
+              "name": "Laws of Chemical Combination",
+
+              "conceptual_understanding": [
+                "Chemical reactions follow fixed mass relationships",
+                "Matter is conserved during reactions"
+              ],
+
+              "student_can_achieve": [
+                "State laws of conservation of mass",
+                "Apply laws to chemical reactions"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-03-B",
+              "name": "Dalton’s Atomic Theory",
+
+              "conceptual_understanding": [
+                "Matter is made of indivisible atoms",
+                "Atoms combine in fixed ratios"
+              ],
+
+              "student_can_achieve": [
+                "Explain Dalton’s postulates",
+                "Relate theory to laws"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-03-C",
+              "name": "Atoms and Molecules",
+
+              "conceptual_understanding": [
+                "Atoms form molecules through chemical bonding"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate atoms and molecules",
+                "Write molecular formulae"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual + practice",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-03-D",
+              "name": "Mole Concept",
+
+              "conceptual_understanding": [
+                "Mole connects mass with number of particles"
+              ],
+
+              "student_can_achieve": [
+                "Solve numerical problems using mole concept"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "numerical",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-SCI-04",
+          "name": "Structure of the Atom",
+
+          "agenda": [
+            "Understand subatomic particles",
+            "Study atomic models",
+            "Explain electronic configuration"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain atomic models using visual timelines"
+            },
+            {
+              "type": "activity",
+              "text": "Students draw Bohr models of atoms"
+            }
+          ],
+
+          "teacher_aids": [
+            "Atomic model charts",
+            "Subatomic particle diagrams",
+            "Interactive simulations"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.5,
+            "practical": 0.25,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_atom_structure",
+              "name": "Atomic Structure Models",
+              "src": "https://example.com/images/atomic-structure.png",
+              "relevant": "Bohr model, nucleus, electrons"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-04-A",
+              "name": "Subatomic Particles",
+
+              "conceptual_understanding": [
+                "Atoms consist of protons, neutrons, and electrons"
+              ],
+
+              "student_can_achieve": [
+                "Describe properties of subatomic particles"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-04-B",
+              "name": "Atomic Models",
+
+              "conceptual_understanding": [
+                "Atomic models evolved with experimental discoveries"
+              ],
+
+              "student_can_achieve": ["Compare different atomic models"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-04-C",
+              "name": "Bohr’s Model of Atom",
+
+              "conceptual_understanding": [
+                "Electrons revolve in fixed energy levels"
+              ],
+
+              "student_can_achieve": [
+                "Draw Bohr diagrams",
+                "Explain stability of atoms"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual + application",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-04-D",
+              "name": "Electronic Configuration",
+
+              "conceptual_understanding": [
+                "Electron distribution follows fixed rules"
+              ],
+
+              "student_can_achieve": [
+                "Write electronic configuration of elements"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "practice-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-SCI-05",
+          "name": "The Fundamental Unit of Life",
+
+          "agenda": [
+            "Understand the concept of cell as the basic unit of life",
+            "Study structure and functions of cell organelles",
+            "Differentiate plant and animal cells"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce cells using microscopic images and diagrams"
+            },
+            {
+              "type": "activity",
+              "text": "Students label parts of plant and animal cells"
+            }
+          ],
+
+          "teacher_aids": [
+            "Cell diagrams",
+            "Microscope images",
+            "Cell organelle charts"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.5,
+            "practical": 0.3,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_cell_structure",
+              "name": "Structure of Cell",
+              "src": "https://example.com/images/cell-structure.png",
+              "relevant": "Cell organelles and functions"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-05-A",
+              "name": "Discovery of Cell",
+
+              "conceptual_understanding": [
+                "Cells were discovered using microscopes",
+                "All living organisms are made of cells"
+              ],
+
+              "student_can_achieve": [
+                "Explain discovery of cell",
+                "State cell theory"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-05-B",
+              "name": "Structure of Cell",
+
+              "conceptual_understanding": [
+                "Each cell organelle has a specific function"
+              ],
+
+              "student_can_achieve": [
+                "Identify and label cell organelles",
+                "Explain functions of nucleus, mitochondria, etc."
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-05-C",
+              "name": "Plant and Animal Cells",
+
+              "conceptual_understanding": [
+                "Plant and animal cells differ in structure"
+              ],
+
+              "student_can_achieve": ["Compare plant and animal cells"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "comparison-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-05-D",
+              "name": "Cell Division",
+
+              "conceptual_understanding": [
+                "Cells divide for growth and repair"
+              ],
+
+              "student_can_achieve": ["Explain basic idea of cell division"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-SCI-06",
+          "name": "Tissues",
+
+          "agenda": [
+            "Understand what tissues are",
+            "Study types of plant and animal tissues",
+            "Relate tissue structure to function"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain tissues as groups of similar cells"
+            },
+            {
+              "type": "activity",
+              "text": "Students classify tissues based on structure and function"
+            }
+          ],
+
+          "teacher_aids": [
+            "Tissue charts",
+            "Microscopic slides",
+            "Comparison tables"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_tissues",
+              "name": "Types of Tissues",
+              "src": "https://example.com/images/tissues.png",
+              "relevant": "Plant and animal tissue classification"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-06-A",
+              "name": "Introduction to Tissues",
+
+              "conceptual_understanding": [
+                "Tissues are groups of similar cells performing specific functions"
+              ],
+
+              "student_can_achieve": [
+                "Define tissue",
+                "Explain need for tissues"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-06-B",
+              "name": "Plant Tissues",
+
+              "conceptual_understanding": [
+                "Plant tissues support growth and transport"
+              ],
+
+              "student_can_achieve": [
+                "Identify meristematic and permanent tissues"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-06-C",
+              "name": "Animal Tissues",
+
+              "conceptual_understanding": [
+                "Animal tissues perform specialized functions"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate epithelial, connective, muscular, nervous tissues"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "classification-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-06-D",
+              "name": "Functions of Tissues",
+
+              "conceptual_understanding": [
+                "Structure of tissues relates to their function"
+              ],
+
+              "student_can_achieve": [
+                "Explain function–structure relationship in tissues"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-SCI-07",
+          "name": "Motion",
+
+          "agenda": [
+            "Understand motion and rest",
+            "Study distance, displacement, speed and velocity",
+            "Interpret motion using graphs"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain motion using real-life examples like moving vehicles"
+            },
+            {
+              "type": "activity",
+              "text": "Students plot distance–time graphs for different motions"
+            }
+          ],
+
+          "teacher_aids": [
+            "Motion graphs",
+            "Stopwatch",
+            "Animated simulations"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.35,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_motion_graphs",
+              "name": "Distance–Time Graphs",
+              "src": "https://example.com/images/motion-graphs.png",
+              "relevant": "Understanding uniform and non-uniform motion"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-07-A",
+              "name": "Motion and Rest",
+
+              "conceptual_understanding": ["Motion depends on reference point"],
+
+              "student_can_achieve": [
+                "Define motion and rest",
+                "Identify motion relative to surroundings"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-07-B",
+              "name": "Distance and Displacement",
+
+              "conceptual_understanding": [
+                "Distance is total path length while displacement is shortest path"
+              ],
+
+              "student_can_achieve": [
+                "Differentiate between distance and displacement"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "numerical + concept",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-07-C",
+              "name": "Speed and Velocity",
+
+              "conceptual_understanding": [
+                "Velocity includes direction, speed does not"
+              ],
+
+              "student_can_achieve": [
+                "Calculate speed and velocity",
+                "Solve numericals"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "numerical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-07-D",
+              "name": "Graphs of Motion",
+
+              "conceptual_understanding": ["Graphs represent motion visually"],
+
+              "student_can_achieve": [
+                "Interpret distance–time and velocity–time graphs"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-SCI-08",
+          "name": "Force and Laws of Motion",
+
+          "agenda": [
+            "Understand force and its effects",
+            "Study Newton’s laws of motion",
+            "Apply laws to real-life situations"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce force using push and pull examples"
+            },
+            {
+              "type": "activity",
+              "text": "Demonstrate inertia using coins and cards"
+            }
+          ],
+
+          "teacher_aids": [
+            "Force diagrams",
+            "Demonstration kits",
+            "Video simulations"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.5,
+            "practical": 0.3,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_newton_laws",
+              "name": "Newton’s Laws of Motion",
+              "src": "https://example.com/images/newton-laws.png",
+              "relevant": "Visual explanation of Newton’s three laws"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-08-A",
+              "name": "Force and Its Effects",
+
+              "conceptual_understanding": [
+                "Force can change shape, speed, or direction"
+              ],
+
+              "student_can_achieve": ["Explain effects of force with examples"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-08-B",
+              "name": "First Law of Motion",
+
+              "conceptual_understanding": [
+                "Objects resist change in motion due to inertia"
+              ],
+
+              "student_can_achieve": [
+                "Explain inertia",
+                "Apply first law in examples"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-08-C",
+              "name": "Second Law of Motion",
+
+              "conceptual_understanding": [
+                "Force is proportional to rate of change of momentum"
+              ],
+
+              "student_can_achieve": ["Use F = ma", "Solve numerical problems"],
+
+              "difficulty_level": "hard",
+              "time_estimate_min": 45,
+
+              "meta": {
+                "nature": "numerical-heavy",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-08-D",
+              "name": "Third Law of Motion",
+
+              "conceptual_understanding": [
+                "Every action has an equal and opposite reaction"
+              ],
+
+              "student_can_achieve": ["Identify action–reaction pairs"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-SCI-09",
+          "name": "Gravitation",
+
+          "agenda": [
+            "Understand gravitational force",
+            "Study universal law of gravitation",
+            "Apply gravitation in real-life contexts"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce gravity using falling objects and planetary motion"
+            },
+            {
+              "type": "activity",
+              "text": "Solve numerical problems using gravitation formula"
+            }
+          ],
+
+          "teacher_aids": [
+            "Planetary motion diagrams",
+            "Gravity simulation videos",
+            "Worked numerical sheets"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.15,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.5,
+            "practical": 0.3,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_gravitation",
+              "name": "Universal Law of Gravitation",
+              "src": "https://example.com/images/gravitation-law.png",
+              "relevant": "Force between two masses"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-09-A",
+              "name": "Universal Law of Gravitation",
+
+              "conceptual_understanding": [
+                "Every mass attracts every other mass"
+              ],
+
+              "student_can_achieve": [
+                "State and explain gravitation law",
+                "Solve basic numericals"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "theory + numerical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-09-B",
+              "name": "Free Fall",
+
+              "conceptual_understanding": [
+                "Objects fall with uniform acceleration due to gravity"
+              ],
+
+              "student_can_achieve": [
+                "Calculate velocity and distance in free fall"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "numerical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-09-C",
+              "name": "Mass and Weight",
+
+              "conceptual_understanding": [
+                "Mass is constant while weight depends on gravity"
+              ],
+
+              "student_can_achieve": ["Differentiate mass and weight"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-09-D",
+              "name": "Thrust and Pressure",
+
+              "conceptual_understanding": [
+                "Pressure depends on force and area"
+              ],
+
+              "student_can_achieve": ["Explain pressure in solids and fluids"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-SCI-10",
+          "name": "Work and Energy",
+
+          "agenda": [
+            "Understand work, energy and power",
+            "Study kinetic and potential energy",
+            "Apply law of conservation of energy"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain work using force–displacement examples"
+            },
+            {
+              "type": "activity",
+              "text": "Calculate energy changes in daily activities"
+            }
+          ],
+
+          "teacher_aids": [
+            "Energy transformation diagrams",
+            "Worked example sheets",
+            "Real-life case videos"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.35,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_energy",
+              "name": "Energy Transformation",
+              "src": "https://example.com/images/energy-transformation.png",
+              "relevant": "Conversion between kinetic and potential energy"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-10-A",
+              "name": "Work",
+
+              "conceptual_understanding": [
+                "Work is done when force causes displacement"
+              ],
+
+              "student_can_achieve": [
+                "Identify situations where work is done",
+                "Solve basic work problems"
+              ],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-10-B",
+              "name": "Energy",
+
+              "conceptual_understanding": ["Energy is the capacity to do work"],
+
+              "student_can_achieve": [
+                "Differentiate kinetic and potential energy"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "conceptual + numerical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-10-C",
+              "name": "Law of Conservation of Energy",
+
+              "conceptual_understanding": [
+                "Energy can neither be created nor destroyed"
+              ],
+
+              "student_can_achieve": ["Apply conservation law to examples"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-10-D",
+              "name": "Power",
+
+              "conceptual_understanding": ["Power measures rate of doing work"],
+
+              "student_can_achieve": ["Calculate power in numerical problems"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "numerical",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL09-SCI-11",
+          "name": "Sound",
+
+          "agenda": [
+            "Understand sound as a form of energy",
+            "Study production and propagation of sound",
+            "Learn characteristics of sound waves"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Demonstrate sound using vibrating objects"
+            },
+            {
+              "type": "activity",
+              "text": "Identify pitch and loudness using tuning forks"
+            }
+          ],
+
+          "teacher_aids": [
+            "Tuning forks",
+            "Sound wave diagrams",
+            "Audio simulation tools"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.35,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_sound_wave",
+              "name": "Sound Wave Representation",
+              "src": "https://example.com/images/sound-wave.png",
+              "relevant": "Understanding amplitude and frequency"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-11-A",
+              "name": "Nature of Sound",
+
+              "conceptual_understanding": [
+                "Sound is produced due to vibrations"
+              ],
+
+              "student_can_achieve": ["Explain how sound is produced"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-11-B",
+              "name": "Propagation of Sound",
+
+              "conceptual_understanding": ["Sound needs a medium to travel"],
+
+              "student_can_achieve": [
+                "Explain sound travel in solids, liquids, and gases"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-11-C",
+              "name": "Characteristics of Sound",
+
+              "conceptual_understanding": [
+                "Loudness depends on amplitude and pitch on frequency"
+              ],
+
+              "student_can_achieve": ["Differentiate loudness and pitch"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-11-D",
+              "name": "Audible and Inaudible Sounds",
+
+              "conceptual_understanding": [
+                "Human ears detect limited frequency range"
+              ],
+
+              "student_can_achieve": [
+                "Explain ultrasound and infrasound applications"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "conceptual + application",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "CL09-SCI-12",
+          "name": "Improvement in Food Resources",
+
+          "agenda": [
+            "Understand agricultural practices",
+            "Learn crop improvement techniques",
+            "Study animal husbandry and fisheries"
+          ],
+
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain food resource challenges using examples"
+            },
+            {
+              "type": "activity",
+              "text": "Discuss modern farming methods"
+            }
+          ],
+
+          "teacher_aids": [
+            "Crop cycle charts",
+            "Agriculture videos",
+            "Case studies"
+          ],
+
+          "content_structure": {
+            "theory_ratio": 0.5,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.15
+          },
+
+          "learning_mode_mix": {
+            "theoretical": 0.5,
+            "practical": 0.3,
+            "discussion": 0.2
+          },
+
+          "image_assets": [
+            {
+              "id": "cl09_agriculture",
+              "name": "Crop Production Methods",
+              "src": "https://example.com/images/agriculture.png",
+              "relevant": "Modern agricultural practices"
+            }
+          ],
+
+          "division_count": 4,
+
+          "divisions": [
+            {
+              "code": "CL09-SCI-12-A",
+              "name": "Crop Production and Management",
+
+              "conceptual_understanding": ["Good practices increase yield"],
+
+              "student_can_achieve": ["Explain crop production steps"],
+
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-12-B",
+              "name": "Crop Variety Improvement",
+
+              "conceptual_understanding": [
+                "Improved varieties increase resistance and yield"
+              ],
+
+              "student_can_achieve": [
+                "Explain hybridization and genetic improvement"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL09-SCI-12-C",
+              "name": "Animal Husbandry",
+
+              "conceptual_understanding": [
+                "Scientific management improves animal productivity"
+              ],
+
+              "student_can_achieve": [
+                "Describe cattle, poultry and fish farming"
+              ],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL09-SCI-12-D",
+              "name": "Sustainable Food Resources",
+
+              "conceptual_understanding": [
+                "Sustainability ensures long-term food security"
+              ],
+
+              "student_can_achieve": ["Suggest sustainable farming practices"],
+
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

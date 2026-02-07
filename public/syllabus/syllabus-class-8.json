@@ -7,2249 +7,2223 @@
   "meta": "",
   "subjects": [
     {
-      "Mathematics": {
-        "code": "CL08-MATH",
-        "chapters": [
-          {
-            "code": "CL08-MATH-01",
-            "name": "A Square and A Cube",
-            "agenda": [
-              "Explore square and cube numbers",
-              "Identify patterns in squares and cubes",
-              "Estimate square and cube roots"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce square and cube patterns visually using dot grids"
-              },
-              {
-                "type": "activity",
-                "text": "Students create square and cube dot patterns and discuss growth"
-              }
-            ],
-            "teacher_aids": [
-              "Dot grid sheets",
-              "Number charts",
-              "Digital drawing board"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.35,
-              "worked_examples_ratio": 0.3,
-              "practice_ratio": 0.25,
-              "application_ratio": 0.1
+      "name": "Mathematics",
+      "code": "CL08-MATH",
+
+      "chapters": [
+        {
+          "code": "CL08-MATH-01",
+          "name": "A Square and A Cube",
+          "agenda": [
+            "Explore square and cube numbers",
+            "Identify patterns in squares and cubes",
+            "Estimate square and cube roots"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce square and cube patterns visually using dot grids"
             },
-            "learning_mode_mix": {
-              "theoretical": 0.45,
-              "practical": 0.35,
-              "discussion": 0.2
-            },
-            "image_assets": [
-              {
-                "id": "math_sq_cube_01",
-                "name": "Square and Cube Dot Patterns",
-                "src": "https://example.com/images/square-cube-patterns.png",
-                "relevant": "Visualizing square and cube number growth"
-              }
-            ],
-            "division_count": 1,
-            "divisions": [
-              {
-                "code": "CL08-MATH-01-A",
-                "name": "Squares, Cubes and Their Roots",
-                "conceptual_understanding": [
-                  "Perfect squares and cubes follow predictable numerical patterns",
-                  "Square and cube roots reverse the exponentiation process"
-                ],
-                "student_can_achieve": [
-                  "Identify perfect squares and cubes",
-                  "Estimate square and cube roots confidently in exams"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 40,
-                "meta": {
-                  "nature": "theory + problem-solving",
-                  "exam_weight": "medium"
-                }
-              }
-            ]
+            {
+              "type": "activity",
+              "text": "Students create square and cube dot patterns and discuss growth"
+            }
+          ],
+          "teacher_aids": [
+            "Dot grid sheets",
+            "Number charts",
+            "Digital drawing board"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
           },
-          {
-            "code": "CL08-MATH-02",
-            "name": "Power Play",
-            "agenda": [
-              "Understand exponents as repeated multiplication",
-              "Apply laws of exponents including negative powers",
-              "Represent numbers using scientific notation"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Explain exponents using repeated multiplication and patterns"
-              },
-              {
-                "type": "activity",
-                "text": "Solve exponent puzzles and convert numbers to scientific notation"
-              }
-            ],
-            "teacher_aids": [
-              "Exponent laws chart",
-              "Scientific notation examples",
-              "Worked example sheets"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.4,
-              "worked_examples_ratio": 0.25,
-              "practice_ratio": 0.25,
-              "application_ratio": 0.1
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.3,
-              "discussion": 0.3
-            },
-            "image_assets": [
-              {
-                "id": "math_power_play_01",
-                "name": "Laws of Exponents Visual Chart",
-                "src": "https://example.com/images/laws-of-exponents.png",
-                "relevant": "Quick reference for exponent rules"
-              }
-            ],
-            "division_count": 3,
-            "divisions": [
-              {
-                "code": "CL08-MATH-02-A",
-                "name": "Exponents and Powers",
-                "conceptual_understanding": [
-                  "Exponents simplify repeated multiplication",
-                  "Powers help express large calculations concisely"
-                ],
-                "student_can_achieve": [
-                  "Evaluate expressions involving powers",
-                  "Interpret exponents in mathematical expressions"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "theory + worked-examples",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-MATH-02-B",
-                "name": "Laws of Exponents",
-                "conceptual_understanding": [
-                  "Exponent laws govern multiplication, division and powers of powers",
-                  "Negative exponents represent reciprocals"
-                ],
-                "student_can_achieve": [
-                  "Apply exponent laws correctly",
-                  "Simplify expressions with negative exponents"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 40,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-MATH-02-C",
-                "name": "Scientific Notation",
-                "conceptual_understanding": [
-                  "Scientific notation represents very large or very small numbers efficiently"
-                ],
-                "student_can_achieve": [
-                  "Convert numbers to and from scientific notation",
-                  "Use powers of 10 in real-life contexts"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "medium"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.35,
+            "discussion": 0.2
           },
-          {
-            "code": "CL08-MATH-03",
-            "name": "A Story of Numbers",
-            "agenda": [
-              "Understand different number systems",
-              "Classify rational numbers",
-              "Compare and order numbers logically"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Explain number systems using number line representations"
-              },
-              {
-                "type": "activity",
-                "text": "Students classify and order numbers using real-life examples"
+          "image_assets": [
+            {
+              "id": "math_sq_cube_01",
+              "name": "Square and Cube Dot Patterns",
+              "src": "https://example.com/images/square-cube-patterns.png",
+              "relevant": "Visualizing square and cube number growth"
+            }
+          ],
+          "division_count": 1,
+          "divisions": [
+            {
+              "code": "CL08-MATH-01-A",
+              "name": "Squares, Cubes and Their Roots",
+              "conceptual_understanding": [
+                "Perfect squares and cubes follow predictable numerical patterns",
+                "Square and cube roots reverse the exponentiation process"
+              ],
+              "student_can_achieve": [
+                "Identify perfect squares and cubes",
+                "Estimate square and cube roots confidently in exams"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "theory + problem-solving",
+                "exam_weight": "medium"
               }
-            ],
-            "teacher_aids": [
-              "Number line charts",
-              "Fraction strips",
-              "Comparison worksheets"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.45,
-              "worked_examples_ratio": 0.2,
-              "practice_ratio": 0.25,
-              "application_ratio": 0.1
+            }
+          ]
+        },
+        {
+          "code": "CL08-MATH-02",
+          "name": "Power Play",
+          "agenda": [
+            "Understand exponents as repeated multiplication",
+            "Apply laws of exponents including negative powers",
+            "Represent numbers using scientific notation"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain exponents using repeated multiplication and patterns"
             },
-            "learning_mode_mix": {
-              "theoretical": 0.45,
-              "practical": 0.25,
-              "discussion": 0.3
-            },
-            "image_assets": [
-              {
-                "id": "math_numbers_01",
-                "name": "Number System on Number Line",
-                "src": "https://example.com/images/number-syste   m-line.png",
-                "relevant": "Visualizing ordering and comparison of numbers"
-              }
-            ],
-            "division_count": 3,
-            "divisions": [
-              {
-                "code": "CL08-MATH-03-A",
-                "name": "Number Systems",
-                "conceptual_understanding": [
-                  "Numbers are classified into natural, whole, integers and rational numbers"
-                ],
-                "student_can_achieve": [
-                  "Identify and classify numbers correctly"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-MATH-03-B",
-                "name": "Rational Numbers",
-                "conceptual_understanding": [
-                  "Rational numbers can be expressed as a ratio of two integers"
-                ],
-                "student_can_achieve": [
-                  "Perform operations on rational numbers"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 40,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-MATH-03-C",
-                "name": "Comparing and Ordering Numbers",
-                "conceptual_understanding": [
-                  "Number line helps compare and order rational numbers"
-                ],
-                "student_can_achieve": [
-                  "Arrange numbers in ascending and descending order"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "medium"
-                }
-              }
-            ]
+            {
+              "type": "activity",
+              "text": "Solve exponent puzzles and convert numbers to scientific notation"
+            }
+          ],
+          "teacher_aids": [
+            "Exponent laws chart",
+            "Scientific notation examples",
+            "Worked example sheets"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
           },
-          {
-            "code": "CL08-MATH-04",
-            "name": "Quadrilaterals",
-            "agenda": [
-              "Identify different types of quadrilaterals",
-              "Understand properties of special quadrilaterals",
-              "Apply angle sum properties"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Explain quadrilaterals using diagrams and properties"
-              },
-              {
-                "type": "activity",
-                "text": "Students classify shapes and verify angle sums"
-              }
-            ],
-            "teacher_aids": [
-              "Geometry shape models",
-              "Angle measurement tools"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.4,
-              "worked_examples_ratio": 0.25,
-              "practice_ratio": 0.25,
-              "application_ratio": 0.1
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.4,
-              "discussion": 0.2
-            },
-            "image_assets": [
-              {
-                "id": "math_quad_01",
-                "name": "Types of Quadrilaterals",
-                "src": "https://example.com/images/quadrilaterals.png",
-                "relevant": "Visual comparison of quadrilateral properties"
-              }
-            ],
-            "division_count": 2,
-            "divisions": [
-              {
-                "code": "CL08-MATH-04-A",
-                "name": "Types of Quadrilaterals",
-                "conceptual_understanding": [
-                  "Quadrilaterals differ based on sides, angles and diagonals"
-                ],
-                "student_can_achieve": ["Identify and classify quadrilaterals"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-MATH-04-B",
-                "name": "Properties and Angle Sum",
-                "conceptual_understanding": [
-                  "Sum of interior angles of a quadrilateral is 360 degrees"
-                ],
-                "student_can_achieve": [
-                  "Solve angle-based problems in quadrilaterals"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 40,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
           },
-          {
-            "code": "CL08-MATH-05",
-            "name": "Number Play",
-            "agenda": [
-              "Explore factors and multiples",
-              "Apply divisibility rules",
-              "Develop logical thinking through number puzzles"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Explain factors, multiples and divisibility rules"
-              },
-              {
-                "type": "activity",
-                "text": "Solve number puzzles and games"
+          "image_assets": [
+            {
+              "id": "math_power_play_01",
+              "name": "Laws of Exponents Visual Chart",
+              "src": "https://example.com/images/laws-of-exponents.png",
+              "relevant": "Quick reference for exponent rules"
+            }
+          ],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "CL08-MATH-02-A",
+              "name": "Exponents and Powers",
+              "conceptual_understanding": [
+                "Exponents simplify repeated multiplication",
+                "Powers help express large calculations concisely"
+              ],
+              "student_can_achieve": [
+                "Evaluate expressions involving powers",
+                "Interpret exponents in mathematical expressions"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "theory + worked-examples",
+                "exam_weight": "medium"
               }
-            ],
-            "teacher_aids": ["Divisibility charts", "Puzzle worksheets"],
-            "content_structure": {
-              "theory_ratio": 0.3,
-              "worked_examples_ratio": 0.25,
-              "practice_ratio": 0.3,
-              "application_ratio": 0.15
             },
-            "learning_mode_mix": {
-              "theoretical": 0.3,
-              "practical": 0.4,
-              "discussion": 0.3
+            {
+              "code": "CL08-MATH-02-B",
+              "name": "Laws of Exponents",
+              "conceptual_understanding": [
+                "Exponent laws govern multiplication, division and powers of powers",
+                "Negative exponents represent reciprocals"
+              ],
+              "student_can_achieve": [
+                "Apply exponent laws correctly",
+                "Simplify expressions with negative exponents"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
             },
-            "image_assets": [
-              {
-                "id": "math_number_play_01",
-                "name": "Divisibility and Number Puzzles",
-                "src": "https://example.com/images/number-play.png",
-                "relevant": "Learning numbers through puzzles"
+            {
+              "code": "CL08-MATH-02-C",
+              "name": "Scientific Notation",
+              "conceptual_understanding": [
+                "Scientific notation represents very large or very small numbers efficiently"
+              ],
+              "student_can_achieve": [
+                "Convert numbers to and from scientific notation",
+                "Use powers of 10 in real-life contexts"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
               }
-            ],
-            "division_count": 3,
-            "divisions": [
-              {
-                "code": "CL08-MATH-05-A",
-                "name": "Factors and Multiples",
-                "conceptual_understanding": [
-                  "Factors divide numbers exactly",
-                  "Multiples are repeated products"
-                ],
-                "student_can_achieve": [
-                  "Find factors and multiples of numbers"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-MATH-05-B",
-                "name": "Divisibility Rules",
-                "conceptual_understanding": [
-                  "Divisibility rules help test numbers quickly"
-                ],
-                "student_can_achieve": ["Apply divisibility tests efficiently"],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-MATH-05-C",
-                "name": "Playing with Numbers",
-                "conceptual_understanding": [
-                  "Number patterns improve logical thinking"
-                ],
-                "student_can_achieve": [
-                  "Solve number-based puzzles confidently"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "activity-based",
-                  "exam_weight": "low"
-                }
-              }
-            ]
+            }
+          ]
+        },
+        {
+          "code": "CL08-MATH-03",
+          "name": "A Story of Numbers",
+          "agenda": [
+            "Understand different number systems",
+            "Classify rational numbers",
+            "Compare and order numbers logically"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain number systems using number line representations"
+            },
+            {
+              "type": "activity",
+              "text": "Students classify and order numbers using real-life examples"
+            }
+          ],
+          "teacher_aids": [
+            "Number line charts",
+            "Fraction strips",
+            "Comparison worksheets"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
           },
-          {
-            "code": "CL08-MATH-06",
-            "name": "We Distribute, Yet Things Multiply",
-            "agenda": [
-              "Understand algebraic expressions",
-              "Learn distributive property",
-              "Apply algebraic identities for simplification"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Explain algebraic expressions using variables and constants"
-              },
-              {
-                "type": "activity",
-                "text": "Expand expressions using distributive property and identities"
-              }
-            ],
-            "teacher_aids": [
-              "Algebra tiles",
-              "Identity charts",
-              "Worked example sheets"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.4,
-              "worked_examples_ratio": 0.3,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.1
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.3,
-              "discussion": 0.3
-            },
-            "image_assets": [
-              {
-                "id": "math_algebra_01",
-                "name": "Distributive Property Visualization",
-                "src": "https://example.com/images/distributive-property.png",
-                "relevant": "Visualizing expansion of algebraic expressions"
-              }
-            ],
-            "division_count": 3,
-            "divisions": [
-              {
-                "code": "CL08-MATH-06-A",
-                "name": "Algebraic Expressions",
-                "conceptual_understanding": [
-                  "Algebraic expressions consist of variables, constants and operations"
-                ],
-                "student_can_achieve": [
-                  "Form and simplify algebraic expressions"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-MATH-06-B",
-                "name": "Distributive Property",
-                "conceptual_understanding": [
-                  "Distributive property links multiplication and addition"
-                ],
-                "student_can_achieve": [
-                  "Expand and factor expressions using distributive property"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 40,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-MATH-06-C",
-                "name": "Algebraic Identities",
-                "conceptual_understanding": [
-                  "Identities simplify algebraic calculations efficiently"
-                ],
-                "student_can_achieve": [
-                  "Apply standard algebraic identities in exams"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "worked-examples",
-                  "exam_weight": "high"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.25,
+            "discussion": 0.3
           },
-          {
-            "code": "CL08-MATH-07",
-            "name": "Proportional Reasoning – 1",
-            "agenda": [
-              "Understand ratio and proportion",
-              "Learn direct and inverse variation",
-              "Solve real-life proportional problems"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce ratios using everyday examples"
-              },
-              {
-                "type": "activity",
-                "text": "Solve real-life problems involving direct and inverse proportion"
+          "image_assets": [
+            {
+              "id": "math_numbers_01",
+              "name": "Number System on Number Line",
+              "src": "https://example.com/images/number-syste   m-line.png",
+              "relevant": "Visualizing ordering and comparison of numbers"
+            }
+          ],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "CL08-MATH-03-A",
+              "name": "Number Systems",
+              "conceptual_understanding": [
+                "Numbers are classified into natural, whole, integers and rational numbers"
+              ],
+              "student_can_achieve": [
+                "Identify and classify numbers correctly"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
               }
-            ],
-            "teacher_aids": ["Ratio tables", "Real-life word problem sheets"],
-            "content_structure": {
-              "theory_ratio": 0.35,
-              "worked_examples_ratio": 0.25,
-              "practice_ratio": 0.3,
-              "application_ratio": 0.1
             },
-            "learning_mode_mix": {
-              "theoretical": 0.35,
-              "practical": 0.35,
-              "discussion": 0.3
+            {
+              "code": "CL08-MATH-03-B",
+              "name": "Rational Numbers",
+              "conceptual_understanding": [
+                "Rational numbers can be expressed as a ratio of two integers"
+              ],
+              "student_can_achieve": ["Perform operations on rational numbers"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
             },
-            "image_assets": [
-              {
-                "id": "math_ratio_01",
-                "name": "Direct and Inverse Proportion Graphs",
-                "src": "https://example.com/images/proportion-graphs.png",
-                "relevant": "Visualizing proportional relationships"
+            {
+              "code": "CL08-MATH-03-C",
+              "name": "Comparing and Ordering Numbers",
+              "conceptual_understanding": [
+                "Number line helps compare and order rational numbers"
+              ],
+              "student_can_achieve": [
+                "Arrange numbers in ascending and descending order"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
               }
-            ],
-            "division_count": 3,
-            "divisions": [
-              {
-                "code": "CL08-MATH-07-A",
-                "name": "Ratio and Proportion",
-                "conceptual_understanding": [
-                  "Ratios compare quantities of the same kind"
-                ],
-                "student_can_achieve": [
-                  "Form and simplify ratios",
-                  "Solve proportion-based questions"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-MATH-07-B",
-                "name": "Direct Proportion",
-                "conceptual_understanding": [
-                  "In direct proportion, quantities increase or decrease together"
-                ],
-                "student_can_achieve": ["Solve direct proportion problems"],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-MATH-07-C",
-                "name": "Inverse Proportion",
-                "conceptual_understanding": [
-                  "In inverse proportion, one quantity increases as the other decreases"
-                ],
-                "student_can_achieve": [
-                  "Solve inverse proportion problems confidently"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "high"
-                }
+            }
+          ]
+        },
+        {
+          "code": "CL08-MATH-04",
+          "name": "Quadrilaterals",
+          "agenda": [
+            "Identify different types of quadrilaterals",
+            "Understand properties of special quadrilaterals",
+            "Apply angle sum properties"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain quadrilaterals using diagrams and properties"
+            },
+            {
+              "type": "activity",
+              "text": "Students classify shapes and verify angle sums"
+            }
+          ],
+          "teacher_aids": ["Geometry shape models", "Angle measurement tools"],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.4,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "math_quad_01",
+              "name": "Types of Quadrilaterals",
+              "src": "https://example.com/images/quadrilaterals.png",
+              "relevant": "Visual comparison of quadrilateral properties"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "CL08-MATH-04-A",
+              "name": "Types of Quadrilaterals",
+              "conceptual_understanding": [
+                "Quadrilaterals differ based on sides, angles and diagonals"
+              ],
+              "student_can_achieve": ["Identify and classify quadrilaterals"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
               }
-            ]
-          }
-        ]
-      }
+            },
+            {
+              "code": "CL08-MATH-04-B",
+              "name": "Properties and Angle Sum",
+              "conceptual_understanding": [
+                "Sum of interior angles of a quadrilateral is 360 degrees"
+              ],
+              "student_can_achieve": [
+                "Solve angle-based problems in quadrilaterals"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-MATH-05",
+          "name": "Number Play",
+          "agenda": [
+            "Explore factors and multiples",
+            "Apply divisibility rules",
+            "Develop logical thinking through number puzzles"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain factors, multiples and divisibility rules"
+            },
+            {
+              "type": "activity",
+              "text": "Solve number puzzles and games"
+            }
+          ],
+          "teacher_aids": ["Divisibility charts", "Puzzle worksheets"],
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.15
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.4,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "math_number_play_01",
+              "name": "Divisibility and Number Puzzles",
+              "src": "https://example.com/images/number-play.png",
+              "relevant": "Learning numbers through puzzles"
+            }
+          ],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "CL08-MATH-05-A",
+              "name": "Factors and Multiples",
+              "conceptual_understanding": [
+                "Factors divide numbers exactly",
+                "Multiples are repeated products"
+              ],
+              "student_can_achieve": ["Find factors and multiples of numbers"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-MATH-05-B",
+              "name": "Divisibility Rules",
+              "conceptual_understanding": [
+                "Divisibility rules help test numbers quickly"
+              ],
+              "student_can_achieve": ["Apply divisibility tests efficiently"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-MATH-05-C",
+              "name": "Playing with Numbers",
+              "conceptual_understanding": [
+                "Number patterns improve logical thinking"
+              ],
+              "student_can_achieve": ["Solve number-based puzzles confidently"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "activity-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-MATH-06",
+          "name": "We Distribute, Yet Things Multiply",
+          "agenda": [
+            "Understand algebraic expressions",
+            "Learn distributive property",
+            "Apply algebraic identities for simplification"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain algebraic expressions using variables and constants"
+            },
+            {
+              "type": "activity",
+              "text": "Expand expressions using distributive property and identities"
+            }
+          ],
+          "teacher_aids": [
+            "Algebra tiles",
+            "Identity charts",
+            "Worked example sheets"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "math_algebra_01",
+              "name": "Distributive Property Visualization",
+              "src": "https://example.com/images/distributive-property.png",
+              "relevant": "Visualizing expansion of algebraic expressions"
+            }
+          ],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "CL08-MATH-06-A",
+              "name": "Algebraic Expressions",
+              "conceptual_understanding": [
+                "Algebraic expressions consist of variables, constants and operations"
+              ],
+              "student_can_achieve": [
+                "Form and simplify algebraic expressions"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-MATH-06-B",
+              "name": "Distributive Property",
+              "conceptual_understanding": [
+                "Distributive property links multiplication and addition"
+              ],
+              "student_can_achieve": [
+                "Expand and factor expressions using distributive property"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-MATH-06-C",
+              "name": "Algebraic Identities",
+              "conceptual_understanding": [
+                "Identities simplify algebraic calculations efficiently"
+              ],
+              "student_can_achieve": [
+                "Apply standard algebraic identities in exams"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "worked-examples",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-MATH-07",
+          "name": "Proportional Reasoning – 1",
+          "agenda": [
+            "Understand ratio and proportion",
+            "Learn direct and inverse variation",
+            "Solve real-life proportional problems"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce ratios using everyday examples"
+            },
+            {
+              "type": "activity",
+              "text": "Solve real-life problems involving direct and inverse proportion"
+            }
+          ],
+          "teacher_aids": ["Ratio tables", "Real-life word problem sheets"],
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.35,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "math_ratio_01",
+              "name": "Direct and Inverse Proportion Graphs",
+              "src": "https://example.com/images/proportion-graphs.png",
+              "relevant": "Visualizing proportional relationships"
+            }
+          ],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "CL08-MATH-07-A",
+              "name": "Ratio and Proportion",
+              "conceptual_understanding": [
+                "Ratios compare quantities of the same kind"
+              ],
+              "student_can_achieve": [
+                "Form and simplify ratios",
+                "Solve proportion-based questions"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-MATH-07-B",
+              "name": "Direct Proportion",
+              "conceptual_understanding": [
+                "In direct proportion, quantities increase or decrease together"
+              ],
+              "student_can_achieve": ["Solve direct proportion problems"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-MATH-07-C",
+              "name": "Inverse Proportion",
+              "conceptual_understanding": [
+                "In inverse proportion, one quantity increases as the other decreases"
+              ],
+              "student_can_achieve": [
+                "Solve inverse proportion problems confidently"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "Science": {
-        "code": "CL08-SCI",
-        "chapters": [
-          {
-            "code": "CL08-SCI-01",
-            "name": "Exploring the Investigative World of Science",
-            "agenda": [
-              "Develop scientific inquiry and observation skills",
-              "Understand how science explains natural phenomena",
-              "Encourage questioning and experimentation"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce science as a process of inquiry and investigation"
-              },
-              {
-                "type": "activity",
-                "text": "Students list everyday observations and frame scientific questions"
-              }
-            ],
-            "teacher_aids": [
-              "Observation charts",
-              "Short science experiment videos",
-              "Everyday object kits"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.4,
-              "worked_examples_ratio": 0.15,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.25
+      "name": "Science",
+      "code": "CL08-SCI",
+      "chapters": [
+        {
+          "code": "CL08-SCI-01",
+          "name": "Exploring the Investigative World of Science",
+          "agenda": [
+            "Develop scientific inquiry and observation skills",
+            "Understand how science explains natural phenomena",
+            "Encourage questioning and experimentation"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce science as a process of inquiry and investigation"
             },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.3,
-              "discussion": 0.3
-            },
-            "image_assets": [
-              {
-                "id": "sci_inquiry_01",
-                "name": "Scientific Investigation Cycle",
-                "src": "https://example.com/images/scientific-method.png",
-                "relevant": "Steps of scientific inquiry"
-              }
-            ],
-            "division_count": 1,
-            "divisions": [
-              {
-                "code": "CL08-SCI-01-A",
-                "name": "Science as Inquiry",
-                "conceptual_understanding": [
-                  "Science explains the natural world through observation and evidence",
-                  "Questions lead to investigations and discoveries"
-                ],
-                "student_can_achieve": [
-                  "Frame scientific questions",
-                  "Understand the role of observation and experimentation"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "theory + discussion",
-                  "exam_weight": "low"
-                }
-              }
-            ]
+            {
+              "type": "activity",
+              "text": "Students list everyday observations and frame scientific questions"
+            }
+          ],
+          "teacher_aids": [
+            "Observation charts",
+            "Short science experiment videos",
+            "Everyday object kits"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.25
           },
-          {
-            "code": "CL08-SCI-02",
-            "name": "The Invisible Living World: Beyond Our Naked Eye",
-            "agenda": [
-              "Understand cells as basic units of life",
-              "Explore microorganisms and their roles",
-              "Relate microbes to health and environment"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Explain cells and microorganisms using diagrams and visuals"
-              },
-              {
-                "type": "activity",
-                "text": "Observe prepared slides or images of cells and microbes"
-              }
-            ],
-            "teacher_aids": [
-              "Cell diagrams",
-              "Microscope images",
-              "Microorganism charts"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.45,
-              "worked_examples_ratio": 0.15,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.2
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.45,
-              "practical": 0.3,
-              "discussion": 0.25
-            },
-            "image_assets": [
-              {
-                "id": "sci_cell_microbe_01",
-                "name": "Cell Structure and Microorganisms",
-                "src": "https://example.com/images/cell-microbes.png",
-                "relevant": "Visualizing cells and microbes"
-              }
-            ],
-            "division_count": 5,
-            "divisions": [
-              {
-                "code": "CL08-SCI-02-A",
-                "name": "What Is a Cell?",
-                "conceptual_understanding": [
-                  "Cells are the basic structural and functional units of life"
-                ],
-                "student_can_achieve": ["Describe the structure of a cell"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-02-B",
-                "name": "Levels of Organisation",
-                "conceptual_understanding": [
-                  "Cells form tissues, tissues form organs, and organs form systems"
-                ],
-                "student_can_achieve": [
-                  "Explain levels of organisation in living organisms"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-02-C",
-                "name": "What Are Microorganisms?",
-                "conceptual_understanding": [
-                  "Microorganisms are living organisms invisible to the naked eye"
-                ],
-                "student_can_achieve": [
-                  "Identify different types of microorganisms"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-02-D",
-                "name": "How Are We Connected to Microbes?",
-                "conceptual_understanding": [
-                  "Microbes can be beneficial or harmful"
-                ],
-                "student_can_achieve": [
-                  "Explain useful and harmful roles of microbes"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-02-E",
-                "name": "Cell as the Basic Unit of Life",
-                "conceptual_understanding": [
-                  "All living organisms are made up of cells"
-                ],
-                "student_can_achieve": [
-                  "Justify why the cell is called the basic unit of life"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "high"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
           },
-          {
-            "code": "CL08-SCI-03",
-            "name": "Health: The Ultimate Treasure",
-            "agenda": [
-              "Understand health as overall well-being",
-              "Identify causes and types of diseases",
-              "Learn disease prevention and control"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Discuss health beyond absence of disease"
-              },
-              {
-                "type": "activity",
-                "text": "Students analyze case studies related to illness and prevention"
+          "image_assets": [
+            {
+              "id": "sci_inquiry_01",
+              "name": "Scientific Investigation Cycle",
+              "src": "https://example.com/images/scientific-method.png",
+              "relevant": "Steps of scientific inquiry"
+            }
+          ],
+          "division_count": 1,
+          "divisions": [
+            {
+              "code": "CL08-SCI-01-A",
+              "name": "Science as Inquiry",
+              "conceptual_understanding": [
+                "Science explains the natural world through observation and evidence",
+                "Questions lead to investigations and discoveries"
+              ],
+              "student_can_achieve": [
+                "Frame scientific questions",
+                "Understand the role of observation and experimentation"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "theory + discussion",
+                "exam_weight": "low"
               }
-            ],
-            "teacher_aids": ["Health charts", "Disease prevention posters"],
-            "content_structure": {
-              "theory_ratio": 0.4,
-              "worked_examples_ratio": 0.15,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.25
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-02",
+          "name": "The Invisible Living World: Beyond Our Naked Eye",
+          "agenda": [
+            "Understand cells as basic units of life",
+            "Explore microorganisms and their roles",
+            "Relate microbes to health and environment"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain cells and microorganisms using diagrams and visuals"
             },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.2,
-              "discussion": 0.4
-            },
-            "image_assets": [
-              {
-                "id": "sci_health_01",
-                "name": "Health and Disease Prevention",
-                "src": "https://example.com/images/health-prevention.png",
-                "relevant": "Healthy habits and disease control"
-              }
-            ],
-            "division_count": 5,
-            "divisions": [
-              {
-                "code": "CL08-SCI-03-A",
-                "name": "Is Health More Than Not Falling Sick?",
-                "conceptual_understanding": [
-                  "Health includes physical, mental and social well-being"
-                ],
-                "student_can_achieve": [
-                  "Explain the concept of holistic health"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-03-B",
-                "name": "How Can We Stay Healthy?",
-                "conceptual_understanding": ["Healthy habits prevent diseases"],
-                "student_can_achieve": ["Adopt and suggest healthy practices"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-03-C",
-                "name": "How Do We Know That We Are Unwell?",
-                "conceptual_understanding": ["Symptoms indicate illness"],
-                "student_can_achieve": ["Identify common symptoms of diseases"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "low"
-                }
-              },
-              {
-                "code": "CL08-SCI-03-D",
-                "name": "Diseases: Causes and Types",
-                "conceptual_understanding": [
-                  "Diseases have infectious and non-infectious causes"
-                ],
-                "student_can_achieve": ["Classify diseases based on causes"],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-03-E",
-                "name": "Prevention and Control of Diseases",
-                "conceptual_understanding": [
-                  "Preventive measures reduce disease spread"
-                ],
-                "student_can_achieve": [
-                  "Explain methods of disease prevention"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "high"
-                }
-              }
-            ]
+            {
+              "type": "activity",
+              "text": "Observe prepared slides or images of cells and microbes"
+            }
+          ],
+          "teacher_aids": [
+            "Cell diagrams",
+            "Microscope images",
+            "Microorganism charts"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.2
           },
-          {
-            "code": "CL08-SCI-04",
-            "name": "Electricity: Magnetic and Heating Effects",
-            "agenda": [
-              "Understand electric current and its effects",
-              "Explore magnetic effect of electric current",
-              "Learn heating effect and electricity generation"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce electric current using simple circuit diagrams"
-              },
-              {
-                "type": "activity",
-                "text": "Demonstrate magnetic effect using a current-carrying conductor"
-              },
-              {
-                "type": "activity",
-                "text": "Show heating effect with an electric bulb or wire"
-              }
-            ],
-            "teacher_aids": [
-              "Battery and wire kit",
-              "Compass needle",
-              "Circuit diagrams"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.4,
-              "worked_examples_ratio": 0.15,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.25
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.4,
-              "discussion": 0.2
-            },
-            "image_assets": [
-              {
-                "id": "sci_electricity_01",
-                "name": "Magnetic Effect of Electric Current",
-                "src": "https://example.com/images/magnetic-effect-current.png",
-                "relevant": "Electric current producing magnetic field"
-              },
-              {
-                "id": "sci_electricity_02",
-                "name": "Heating Effect of Electric Current",
-                "src": "https://example.com/images/heating-effect-current.png",
-                "relevant": "Electric current producing heat"
-              }
-            ],
-            "division_count": 3,
-            "divisions": [
-              {
-                "code": "CL08-SCI-04-A",
-                "name": "Does Electric Current Have a Magnetic Effect?",
-                "conceptual_understanding": [
-                  "A current-carrying conductor produces a magnetic field",
-                  "Magnetic effects are evidence of moving electric charges"
-                ],
-                "student_can_achieve": [
-                  "Explain the magnetic effect of electric current",
-                  "Identify applications like electromagnets"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "theory + practical",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-04-B",
-                "name": "Heating Effect of Electric Current",
-                "conceptual_understanding": [
-                  "Electric current produces heat when flowing through a conductor",
-                  "Heating effect is used in electrical appliances"
-                ],
-                "student_can_achieve": [
-                  "Explain why electric devices heat up",
-                  "Relate heating effect to safety devices like fuses"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "conceptual + application",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-04-C",
-                "name": "How Does a Battery Generate Electricity?",
-                "conceptual_understanding": [
-                  "Chemical energy in batteries converts to electrical energy",
-                  "Electricity flows due to potential difference"
-                ],
-                "student_can_achieve": [
-                  "Describe how batteries produce electric current",
-                  "Differentiate between cell and battery"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.3,
+            "discussion": 0.25
           },
-          {
-            "code": "CL08-SCI-05",
-            "name": "Exploring Forces",
-            "agenda": [
-              "Understand the concept of force",
-              "Identify effects of force on objects",
-              "Differentiate types of forces",
-              "Explain weight, floating and sinking"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce force using everyday push and pull examples"
-              },
-              {
-                "type": "activity",
-                "text": "Demonstrate contact and non-contact forces using objects"
-              },
-              {
-                "type": "activity",
-                "text": "Perform floating and sinking experiments with water"
+          "image_assets": [
+            {
+              "id": "sci_cell_microbe_01",
+              "name": "Cell Structure and Microorganisms",
+              "src": "https://example.com/images/cell-microbes.png",
+              "relevant": "Visualizing cells and microbes"
+            }
+          ],
+          "division_count": 5,
+          "divisions": [
+            {
+              "code": "CL08-SCI-02-A",
+              "name": "What Is a Cell?",
+              "conceptual_understanding": [
+                "Cells are the basic structural and functional units of life"
+              ],
+              "student_can_achieve": ["Describe the structure of a cell"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
               }
-            ],
-            "teacher_aids": [
-              "Spring balance",
-              "Magnets",
-              "Water container and objects"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.35,
-              "worked_examples_ratio": 0.2,
-              "practice_ratio": 0.25,
-              "application_ratio": 0.2
             },
-            "learning_mode_mix": {
-              "theoretical": 0.35,
-              "practical": 0.4,
-              "discussion": 0.25
+            {
+              "code": "CL08-SCI-02-B",
+              "name": "Levels of Organisation",
+              "conceptual_understanding": [
+                "Cells form tissues, tissues form organs, and organs form systems"
+              ],
+              "student_can_achieve": [
+                "Explain levels of organisation in living organisms"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
             },
-            "image_assets": [
-              {
-                "id": "sci_force_01",
-                "name": "Effects of Force",
-                "src": "https://example.com/images/effects-of-force.png",
-                "relevant": "Force changing shape, speed and direction"
-              },
-              {
-                "id": "sci_force_02",
-                "name": "Floating and Sinking",
-                "src": "https://example.com/images/floating-sinking.png",
-                "relevant": "Objects floating or sinking in water"
+            {
+              "code": "CL08-SCI-02-C",
+              "name": "What Are Microorganisms?",
+              "conceptual_understanding": [
+                "Microorganisms are living organisms invisible to the naked eye"
+              ],
+              "student_can_achieve": [
+                "Identify different types of microorganisms"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
               }
-            ],
-            "division_count": 6,
-            "divisions": [
-              {
-                "code": "CL08-SCI-05-A",
-                "name": "What Is a Force?",
-                "conceptual_understanding": [
-                  "A force is a push or pull acting on an object"
-                ],
-                "student_can_achieve": ["Define force with examples"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-05-B",
-                "name": "What Can a Force Do to Bodies?",
-                "conceptual_understanding": [
-                  "Force can change shape, speed, direction or state of motion"
-                ],
-                "student_can_achieve": [
-                  "Explain effects of force with examples"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-05-C",
-                "name": "Forces as Interactions",
-                "conceptual_understanding": [
-                  "Forces arise due to interaction between two or more objects"
-                ],
-                "student_can_achieve": [
-                  "Identify interaction pairs in force situations"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-05-D",
-                "name": "Types of Forces",
-                "conceptual_understanding": [
-                  "Forces can be contact or non-contact",
-                  "Gravitational, magnetic and electrostatic forces act at a distance"
-                ],
-                "student_can_achieve": [
-                  "Classify forces into contact and non-contact"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "theory + examples",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-05-E",
-                "name": "Weight and Its Measurement",
-                "conceptual_understanding": [
-                  "Weight is the force of gravity acting on an object"
-                ],
-                "student_can_achieve": [
-                  "Differentiate mass and weight",
-                  "Measure weight using a spring balance"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-05-F",
-                "name": "Floating and Sinking",
-                "conceptual_understanding": [
-                  "Floating and sinking depend on buoyant force and density"
-                ],
-                "student_can_achieve": [
-                  "Predict whether an object will float or sink"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "practical + application",
-                  "exam_weight": "high"
-                }
+            },
+            {
+              "code": "CL08-SCI-02-D",
+              "name": "How Are We Connected to Microbes?",
+              "conceptual_understanding": [
+                "Microbes can be beneficial or harmful"
+              ],
+              "student_can_achieve": [
+                "Explain useful and harmful roles of microbes"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
               }
-            ]
+            },
+            {
+              "code": "CL08-SCI-02-E",
+              "name": "Cell as the Basic Unit of Life",
+              "conceptual_understanding": [
+                "All living organisms are made up of cells"
+              ],
+              "student_can_achieve": [
+                "Justify why the cell is called the basic unit of life"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-03",
+          "name": "Health: The Ultimate Treasure",
+          "agenda": [
+            "Understand health as overall well-being",
+            "Identify causes and types of diseases",
+            "Learn disease prevention and control"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Discuss health beyond absence of disease"
+            },
+            {
+              "type": "activity",
+              "text": "Students analyze case studies related to illness and prevention"
+            }
+          ],
+          "teacher_aids": ["Health charts", "Disease prevention posters"],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.25
           },
-          {
-            "code": "CL08-SCI-06",
-            "name": "Pressure, Winds, Storms and Cyclones",
-            "agenda": [
-              "Understand pressure in solids, liquids and gases",
-              "Explore air pressure and wind formation",
-              "Explain storms, thunderstorms and cyclones"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce pressure using force and area examples"
-              },
-              {
-                "type": "activity",
-                "text": "Demonstrate air pressure using simple experiments"
-              },
-              {
-                "type": "activity",
-                "text": "Discuss real-life case studies of storms and cyclones"
-              }
-            ],
-            "teacher_aids": [
-              "Pressure diagrams",
-              "Air pressure experiment kit",
-              "Weather maps and videos"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.4,
-              "worked_examples_ratio": 0.15,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.25
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.3,
-              "discussion": 0.3
-            },
-            "image_assets": [
-              {
-                "id": "sci_pressure_01",
-                "name": "Pressure in Liquids and Gases",
-                "src": "https://example.com/images/pressure-liquids-gases.png",
-                "relevant": "Pressure variation in fluids"
-              },
-              {
-                "id": "sci_cyclone_01",
-                "name": "Formation of Cyclone",
-                "src": "https://example.com/images/cyclone-formation.png",
-                "relevant": "Low pressure leading to cyclones"
-              }
-            ],
-            "division_count": 6,
-            "divisions": [
-              {
-                "code": "CL08-SCI-06-A",
-                "name": "Pressure",
-                "conceptual_understanding": [
-                  "Pressure is force acting per unit area"
-                ],
-                "student_can_achieve": [
-                  "Explain pressure using daily-life examples"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-06-B",
-                "name": "Pressure Exerted by Air",
-                "conceptual_understanding": [
-                  "Air exerts pressure in all directions"
-                ],
-                "student_can_achieve": [
-                  "Demonstrate air pressure through experiments"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "practical",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-06-C",
-                "name": "Formation of Wind",
-                "conceptual_understanding": [
-                  "Wind forms due to differences in air pressure"
-                ],
-                "student_can_achieve": ["Explain how wind is generated"],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-06-D",
-                "name": "High-Speed Winds and Air Pressure",
-                "conceptual_understanding": [
-                  "Fast-moving air has lower pressure"
-                ],
-                "student_can_achieve": [
-                  "Relate wind speed to pressure changes"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-06-E",
-                "name": "Storms, Thunderstorms and Lightning",
-                "conceptual_understanding": [
-                  "Storms are caused by intense atmospheric disturbances"
-                ],
-                "student_can_achieve": [
-                  "Describe formation of thunderstorms and lightning",
-                  "Follow safety measures during storms"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "theory + safety",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-06-F",
-                "name": "Cyclones",
-                "conceptual_understanding": [
-                  "Cyclones form due to low pressure over warm oceans"
-                ],
-                "student_can_achieve": [
-                  "Explain cyclone formation",
-                  "List disaster preparedness measures"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "application + awareness",
-                  "exam_weight": "high"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.2,
+            "discussion": 0.4
           },
-          {
-            "code": "CL08-SCI-07",
-            "name": "Particulate Nature of Matter",
-            "agenda": [
-              "Understand that matter is made of tiny particles",
-              "Explore different states of matter",
-              "Relate particle spacing and motion to properties of matter"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce matter using everyday substances like air, water and solids"
-              },
-              {
-                "type": "activity",
-                "text": "Demonstrate diffusion using ink or perfume in air/water"
-              },
-              {
-                "type": "activity",
-                "text": "Compare particle motion in solids, liquids and gases"
+          "image_assets": [
+            {
+              "id": "sci_health_01",
+              "name": "Health and Disease Prevention",
+              "src": "https://example.com/images/health-prevention.png",
+              "relevant": "Healthy habits and disease control"
+            }
+          ],
+          "division_count": 5,
+          "divisions": [
+            {
+              "code": "CL08-SCI-03-A",
+              "name": "Is Health More Than Not Falling Sick?",
+              "conceptual_understanding": [
+                "Health includes physical, mental and social well-being"
+              ],
+              "student_can_achieve": ["Explain the concept of holistic health"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
               }
-            ],
-            "teacher_aids": [
-              "Particle model charts",
-              "Diffusion experiment materials",
-              "Animated videos of particle motion"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.45,
-              "worked_examples_ratio": 0.1,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.25
             },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.35,
-              "discussion": 0.25
+            {
+              "code": "CL08-SCI-03-B",
+              "name": "How Can We Stay Healthy?",
+              "conceptual_understanding": ["Healthy habits prevent diseases"],
+              "student_can_achieve": ["Adopt and suggest healthy practices"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
             },
-            "image_assets": [
-              {
-                "id": "sci_matter_01",
-                "name": "Particles in Different States of Matter",
-                "src": "https://example.com/images/states-of-matter-particles.png",
-                "relevant": "Arrangement and movement of particles"
+            {
+              "code": "CL08-SCI-03-C",
+              "name": "How Do We Know That We Are Unwell?",
+              "conceptual_understanding": ["Symptoms indicate illness"],
+              "student_can_achieve": ["Identify common symptoms of diseases"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "low"
               }
-            ],
-            "division_count": 3,
-            "divisions": [
-              {
-                "code": "CL08-SCI-07-A",
-                "name": "What Is Matter Composed Of?",
-                "conceptual_understanding": [
-                  "Matter is made of extremely small particles",
-                  "Particles are in constant motion"
-                ],
-                "student_can_achieve": [
-                  "Explain particulate nature of matter",
-                  "Describe diffusion using particle motion"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "theory + experiment",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-07-B",
-                "name": "States of Matter",
-                "conceptual_understanding": [
-                  "Matter exists as solid, liquid and gas",
-                  "States depend on particle spacing and energy"
-                ],
-                "student_can_achieve": [
-                  "Differentiate between solids, liquids and gases"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-07-C",
-                "name": "Interparticle Spacing and Motion",
-                "conceptual_understanding": [
-                  "Particle spacing increases from solid to gas",
-                  "Particle motion explains compressibility and flow"
-                ],
-                "student_can_achieve": [
-                  "Relate particle behavior to physical properties"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "high"
-                }
+            },
+            {
+              "code": "CL08-SCI-03-D",
+              "name": "Diseases: Causes and Types",
+              "conceptual_understanding": [
+                "Diseases have infectious and non-infectious causes"
+              ],
+              "student_can_achieve": ["Classify diseases based on causes"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "high"
               }
-            ]
+            },
+            {
+              "code": "CL08-SCI-03-E",
+              "name": "Prevention and Control of Diseases",
+              "conceptual_understanding": [
+                "Preventive measures reduce disease spread"
+              ],
+              "student_can_achieve": ["Explain methods of disease prevention"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-04",
+          "name": "Electricity: Magnetic and Heating Effects",
+          "agenda": [
+            "Understand electric current and its effects",
+            "Explore magnetic effect of electric current",
+            "Learn heating effect and electricity generation"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce electric current using simple circuit diagrams"
+            },
+            {
+              "type": "activity",
+              "text": "Demonstrate magnetic effect using a current-carrying conductor"
+            },
+            {
+              "type": "activity",
+              "text": "Show heating effect with an electric bulb or wire"
+            }
+          ],
+          "teacher_aids": [
+            "Battery and wire kit",
+            "Compass needle",
+            "Circuit diagrams"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.25
           },
-          {
-            "code": "CL08-SCI-08",
-            "name": "Nature of Matter: Elements, Compounds and Mixtures",
-            "agenda": [
-              "Differentiate between pure substances and mixtures",
-              "Understand elements and compounds",
-              "Explore uses of elements, compounds and mixtures",
-              "Introduce minerals and their importance"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce matter classification using everyday materials"
-              },
-              {
-                "type": "activity",
-                "text": "Group classroom objects into elements, compounds and mixtures"
-              },
-              {
-                "type": "activity",
-                "text": "Discuss separation of mixtures through real-life examples"
-              }
-            ],
-            "teacher_aids": [
-              "Periodic table chart",
-              "Sample substances (salt, sand, water)",
-              "Classification worksheets"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.45,
-              "worked_examples_ratio": 0.15,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.2
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.3,
-              "discussion": 0.3
-            },
-            "image_assets": [
-              {
-                "id": "sci_elements_01",
-                "name": "Elements Compounds and Mixtures",
-                "src": "https://example.com/images/elements-compounds-mixtures.png",
-                "relevant": "Classification of matter"
-              }
-            ],
-            "division_count": 5,
-            "divisions": [
-              {
-                "code": "CL08-SCI-08-A",
-                "name": "What Are Mixtures?",
-                "conceptual_understanding": [
-                  "Mixtures consist of two or more substances combined physically"
-                ],
-                "student_can_achieve": ["Identify mixtures in daily life"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-08-B",
-                "name": "What Are Pure Substances?",
-                "conceptual_understanding": [
-                  "Pure substances have fixed composition and properties"
-                ],
-                "student_can_achieve": [
-                  "Differentiate pure substances from mixtures"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-08-C",
-                "name": "Elements and Compounds",
-                "conceptual_understanding": [
-                  "Elements consist of one type of atom",
-                  "Compounds are formed by chemical combination of elements"
-                ],
-                "student_can_achieve": [
-                  "Classify substances as elements or compounds"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "theory + examples",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-08-D",
-                "name": "Uses of Elements, Compounds and Mixtures",
-                "conceptual_understanding": [
-                  "Different substances are used based on their properties"
-                ],
-                "student_can_achieve": [
-                  "Relate properties of substances to their uses"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-08-E",
-                "name": "Minerals",
-                "conceptual_understanding": [
-                  "Minerals are naturally occurring substances found in earth"
-                ],
-                "student_can_achieve": [
-                  "Explain importance of minerals in daily life"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "awareness-based",
-                  "exam_weight": "low"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.4,
+            "discussion": 0.2
           },
-          {
-            "code": "CL08-SCI-09",
-            "name": "The Amazing World of Solutes, Solvents and Solutions",
-            "agenda": [
-              "Understand solute, solvent and solution",
-              "Explore solubility and factors affecting it",
-              "Explain density and floating–sinking behavior"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce solutions using salt–water and sugar–water examples"
-              },
-              {
-                "type": "activity",
-                "text": "Prepare solutions of different concentrations"
-              },
-              {
-                "type": "activity",
-                "text": "Demonstrate floating and sinking using density differences"
-              }
-            ],
-            "teacher_aids": [
-              "Beakers and measuring cylinders",
-              "Solubility charts",
-              "Density demonstration kits"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.35,
-              "worked_examples_ratio": 0.15,
-              "practice_ratio": 0.25,
-              "application_ratio": 0.25
+          "image_assets": [
+            {
+              "id": "sci_electricity_01",
+              "name": "Magnetic Effect of Electric Current",
+              "src": "https://example.com/images/magnetic-effect-current.png",
+              "relevant": "Electric current producing magnetic field"
             },
-            "learning_mode_mix": {
-              "theoretical": 0.35,
-              "practical": 0.4,
-              "discussion": 0.25
+            {
+              "id": "sci_electricity_02",
+              "name": "Heating Effect of Electric Current",
+              "src": "https://example.com/images/heating-effect-current.png",
+              "relevant": "Electric current producing heat"
+            }
+          ],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "CL08-SCI-04-A",
+              "name": "Does Electric Current Have a Magnetic Effect?",
+              "conceptual_understanding": [
+                "A current-carrying conductor produces a magnetic field",
+                "Magnetic effects are evidence of moving electric charges"
+              ],
+              "student_can_achieve": [
+                "Explain the magnetic effect of electric current",
+                "Identify applications like electromagnets"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "theory + practical",
+                "exam_weight": "high"
+              }
             },
-            "image_assets": [
-              {
-                "id": "sci_solution_01",
-                "name": "Solute Solvent Solution",
-                "src": "https://example.com/images/solute-solvent-solution.png",
-                "relevant": "Relationship between solute, solvent and solution"
-              },
-              {
-                "id": "sci_density_01",
-                "name": "Density and Floating",
-                "src": "https://example.com/images/density-floating.png",
-                "relevant": "Density affecting floating and sinking"
+            {
+              "code": "CL08-SCI-04-B",
+              "name": "Heating Effect of Electric Current",
+              "conceptual_understanding": [
+                "Electric current produces heat when flowing through a conductor",
+                "Heating effect is used in electrical appliances"
+              ],
+              "student_can_achieve": [
+                "Explain why electric devices heat up",
+                "Relate heating effect to safety devices like fuses"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "conceptual + application",
+                "exam_weight": "high"
               }
-            ],
-            "division_count": 5,
-            "divisions": [
-              {
-                "code": "CL08-SCI-09-A",
-                "name": "Solute, Solvent and Solution",
-                "conceptual_understanding": [
-                  "A solution is formed when a solute dissolves in a solvent"
-                ],
-                "student_can_achieve": [
-                  "Define solute, solvent and solution with examples"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-09-B",
-                "name": "Solubility",
-                "conceptual_understanding": [
-                  "Solubility depends on temperature and nature of substances"
-                ],
-                "student_can_achieve": [
-                  "Explain why solubility changes with temperature"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-09-C",
-                "name": "Solubility of Gases",
-                "conceptual_understanding": [
-                  "Gas solubility decreases with increase in temperature"
-                ],
-                "student_can_achieve": [
-                  "Relate gas solubility to aquatic life"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-09-D",
-                "name": "Density and Floating",
-                "conceptual_understanding": [
-                  "Density determines whether an object floats or sinks"
-                ],
-                "student_can_achieve": [
-                  "Calculate density",
-                  "Predict floating or sinking of objects"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-09-E",
-                "name": "Applications of Solutions",
-                "conceptual_understanding": [
-                  "Solutions are widely used in daily life and industries"
-                ],
-                "student_can_achieve": [
-                  "Identify uses of solutions in medicine and food"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "awareness-based",
-                  "exam_weight": "low"
-                }
+            },
+            {
+              "code": "CL08-SCI-04-C",
+              "name": "How Does a Battery Generate Electricity?",
+              "conceptual_understanding": [
+                "Chemical energy in batteries converts to electrical energy",
+                "Electricity flows due to potential difference"
+              ],
+              "student_can_achieve": [
+                "Describe how batteries produce electric current",
+                "Differentiate between cell and battery"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
               }
-            ]
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-05",
+          "name": "Exploring Forces",
+          "agenda": [
+            "Understand the concept of force",
+            "Identify effects of force on objects",
+            "Differentiate types of forces",
+            "Explain weight, floating and sinking"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce force using everyday push and pull examples"
+            },
+            {
+              "type": "activity",
+              "text": "Demonstrate contact and non-contact forces using objects"
+            },
+            {
+              "type": "activity",
+              "text": "Perform floating and sinking experiments with water"
+            }
+          ],
+          "teacher_aids": [
+            "Spring balance",
+            "Magnets",
+            "Water container and objects"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.2
           },
-          {
-            "code": "CL08-SCI-10",
-            "name": "Light: Mirrors and Lenses",
-            "agenda": [
-              "Understand reflection of light",
-              "Study spherical mirrors and image formation",
-              "Learn about lenses and their applications"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce light and reflection using mirror demonstrations"
-              },
-              {
-                "type": "activity",
-                "text": "Trace rays to observe image formation by mirrors and lenses"
-              },
-              {
-                "type": "activity",
-                "text": "Identify uses of mirrors and lenses in daily life"
-              }
-            ],
-            "teacher_aids": [
-              "Plane, concave and convex mirrors",
-              "Convex and concave lenses",
-              "Ray diagrams charts"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.4,
-              "worked_examples_ratio": 0.2,
-              "practice_ratio": 0.2,
-              "application_ratio": 0.2
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.35,
-              "discussion": 0.25
-            },
-            "image_assets": [
-              {
-                "id": "sci_light_01",
-                "name": "Reflection of Light",
-                "src": "https://example.com/images/reflection-light.png",
-                "relevant": "Laws of reflection"
-              },
-              {
-                "id": "sci_light_02",
-                "name": "Image Formation by Mirrors and Lenses",
-                "src": "https://example.com/images/image-formation.png",
-                "relevant": "Ray diagrams and image characteristics"
-              }
-            ],
-            "division_count": 4,
-            "divisions": [
-              {
-                "code": "CL08-SCI-10-A",
-                "name": "Spherical Mirrors",
-                "conceptual_understanding": [
-                  "Spherical mirrors are concave or convex",
-                  "Different mirrors form different types of images"
-                ],
-                "student_can_achieve": [
-                  "Identify concave and convex mirrors",
-                  "Predict image type formed by mirrors"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "theory + diagrams",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-10-B",
-                "name": "Image Formation by Mirrors",
-                "conceptual_understanding": [
-                  "Image characteristics depend on object position"
-                ],
-                "student_can_achieve": [
-                  "Draw ray diagrams for mirrors",
-                  "Describe image characteristics"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 35,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-10-C",
-                "name": "Laws of Reflection",
-                "conceptual_understanding": [
-                  "Angle of incidence equals angle of reflection"
-                ],
-                "student_can_achieve": ["State and apply laws of reflection"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-10-D",
-                "name": "Lenses",
-                "conceptual_understanding": [
-                  "Lenses refract light to form images"
-                ],
-                "student_can_achieve": [
-                  "Differentiate convex and concave lenses",
-                  "Explain uses of lenses"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "high"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
           },
-          {
-            "code": "CL08-SCI-11",
-            "name": "Keeping Time with the Skies",
-            "agenda": [
-              "Understand phases of the Moon",
-              "Learn how calendars evolved",
-              "Relate festivals to astronomical phenomena",
-              "Introduce artificial satellites"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Explain Moon phases using diagrams and models"
-              },
-              {
-                "type": "activity",
-                "text": "Observe Moon phases over a month and record changes"
-              },
-              {
-                "type": "activity",
-                "text": "Discuss calendars and festivals based on lunar and solar cycles"
-              }
-            ],
-            "teacher_aids": [
-              "Moon phase charts",
-              "Earth–Moon–Sun models",
-              "Calendar samples"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.45,
-              "worked_examples_ratio": 0.1,
-              "practice_ratio": 0.15,
-              "application_ratio": 0.3
+          "image_assets": [
+            {
+              "id": "sci_force_01",
+              "name": "Effects of Force",
+              "src": "https://example.com/images/effects-of-force.png",
+              "relevant": "Force changing shape, speed and direction"
             },
-            "learning_mode_mix": {
-              "theoretical": 0.45,
-              "practical": 0.2,
-              "discussion": 0.35
+            {
+              "id": "sci_force_02",
+              "name": "Floating and Sinking",
+              "src": "https://example.com/images/floating-sinking.png",
+              "relevant": "Objects floating or sinking in water"
+            }
+          ],
+          "division_count": 6,
+          "divisions": [
+            {
+              "code": "CL08-SCI-05-A",
+              "name": "What Is a Force?",
+              "conceptual_understanding": [
+                "A force is a push or pull acting on an object"
+              ],
+              "student_can_achieve": ["Define force with examples"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
             },
-            "image_assets": [
-              {
-                "id": "sci_moon_01",
-                "name": "Phases of the Moon",
-                "src": "https://example.com/images/moon-phases.png",
-                "relevant": "Changing appearance of the Moon"
-              },
-              {
-                "id": "sci_calendar_01",
-                "name": "Lunar and Solar Calendars",
-                "src": "https://example.com/images/calendars.png",
-                "relevant": "Timekeeping based on astronomy"
+            {
+              "code": "CL08-SCI-05-B",
+              "name": "What Can a Force Do to Bodies?",
+              "conceptual_understanding": [
+                "Force can change shape, speed, direction or state of motion"
+              ],
+              "student_can_achieve": ["Explain effects of force with examples"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
               }
-            ],
-            "division_count": 4,
-            "divisions": [
-              {
-                "code": "CL08-SCI-11-A",
-                "name": "Moon Phases",
-                "conceptual_understanding": [
-                  "Moon phases occur due to relative positions of Earth, Moon and Sun"
-                ],
-                "student_can_achieve": [
-                  "Explain phases of the Moon",
-                  "Identify full moon and new moon days"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-11-B",
-                "name": "Origin of Calendars",
-                "conceptual_understanding": [
-                  "Calendars are based on periodic celestial motions"
-                ],
-                "student_can_achieve": [
-                  "Differentiate lunar and solar calendars"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-11-C",
-                "name": "Festivals and Astronomy",
-                "conceptual_understanding": [
-                  "Many festivals are linked to astronomical events"
-                ],
-                "student_can_achieve": [
-                  "Relate festivals to Moon phases or solar cycles"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "low"
-                }
-              },
-              {
-                "code": "CL08-SCI-11-D",
-                "name": "Artificial Satellites",
-                "conceptual_understanding": [
-                  "Artificial satellites orbit Earth for communication and research"
-                ],
-                "student_can_achieve": [
-                  "Explain uses of artificial satellites"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "awareness-based",
-                  "exam_weight": "medium"
-                }
+            },
+            {
+              "code": "CL08-SCI-05-C",
+              "name": "Forces as Interactions",
+              "conceptual_understanding": [
+                "Forces arise due to interaction between two or more objects"
+              ],
+              "student_can_achieve": [
+                "Identify interaction pairs in force situations"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
               }
-            ]
+            },
+            {
+              "code": "CL08-SCI-05-D",
+              "name": "Types of Forces",
+              "conceptual_understanding": [
+                "Forces can be contact or non-contact",
+                "Gravitational, magnetic and electrostatic forces act at a distance"
+              ],
+              "student_can_achieve": [
+                "Classify forces into contact and non-contact"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "theory + examples",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-05-E",
+              "name": "Weight and Its Measurement",
+              "conceptual_understanding": [
+                "Weight is the force of gravity acting on an object"
+              ],
+              "student_can_achieve": [
+                "Differentiate mass and weight",
+                "Measure weight using a spring balance"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-05-F",
+              "name": "Floating and Sinking",
+              "conceptual_understanding": [
+                "Floating and sinking depend on buoyant force and density"
+              ],
+              "student_can_achieve": [
+                "Predict whether an object will float or sink"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "practical + application",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-06",
+          "name": "Pressure, Winds, Storms and Cyclones",
+          "agenda": [
+            "Understand pressure in solids, liquids and gases",
+            "Explore air pressure and wind formation",
+            "Explain storms, thunderstorms and cyclones"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce pressure using force and area examples"
+            },
+            {
+              "type": "activity",
+              "text": "Demonstrate air pressure using simple experiments"
+            },
+            {
+              "type": "activity",
+              "text": "Discuss real-life case studies of storms and cyclones"
+            }
+          ],
+          "teacher_aids": [
+            "Pressure diagrams",
+            "Air pressure experiment kit",
+            "Weather maps and videos"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.25
           },
-          {
-            "code": "CL08-SCI-12",
-            "name": "How Nature Works in Harmony",
-            "agenda": [
-              "Understand ecosystems and their components",
-              "Study interactions among organisms",
-              "Explain food chains, food webs and balance in nature",
-              "Understand waste recycling and energy flow in ecosystems"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce ecosystem using forest and pond examples"
-              },
-              {
-                "type": "activity",
-                "text": "Create food chains and food webs using organisms cards"
-              },
-              {
-                "type": "activity",
-                "text": "Discuss human impact on ecosystems and conservation"
-              }
-            ],
-            "teacher_aids": [
-              "Ecosystem charts",
-              "Food chain models",
-              "Videos on biodiversity"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.45,
-              "worked_examples_ratio": 0.1,
-              "practice_ratio": 0.15,
-              "application_ratio": 0.3
-            },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.25,
-              "discussion": 0.35
-            },
-            "image_assets": [
-              {
-                "id": "sci_ecosystem_01",
-                "name": "Ecosystem Components",
-                "src": "https://example.com/images/ecosystem-components.png",
-                "relevant": "Biotic and abiotic components of an ecosystem"
-              },
-              {
-                "id": "sci_foodchain_01",
-                "name": "Food Chain and Food Web",
-                "src": "https://example.com/images/food-chain-web.png",
-                "relevant": "Energy flow through ecosystems"
-              }
-            ],
-            "division_count": 9,
-            "divisions": [
-              {
-                "code": "CL08-SCI-12-A",
-                "name": "Experiencing Our Surroundings",
-                "conceptual_understanding": [
-                  "Organisms interact with both living and non-living surroundings"
-                ],
-                "student_can_achieve": [
-                  "Identify biotic and abiotic components"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-12-B",
-                "name": "Living Together in Nature",
-                "conceptual_understanding": [
-                  "Organisms coexist and depend on one another"
-                ],
-                "student_can_achieve": [
-                  "Explain interdependence among organisms"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-12-C",
-                "name": "Importance of Every Organism",
-                "conceptual_understanding": [
-                  "Every organism plays a role in ecosystem balance"
-                ],
-                "student_can_achieve": [
-                  "Justify why loss of species affects ecosystems"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-12-D",
-                "name": "Interactions in Nature",
-                "conceptual_understanding": [
-                  "Interactions include predation, competition and cooperation"
-                ],
-                "student_can_achieve": [
-                  "Identify types of interactions in nature"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-12-E",
-                "name": "Food Chains and Food Webs",
-                "conceptual_understanding": [
-                  "Energy flows from producers to consumers"
-                ],
-                "student_can_achieve": ["Construct food chains and food webs"],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "problem-solving",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-12-F",
-                "name": "Waste in Nature",
-                "conceptual_understanding": [
-                  "Decomposers recycle waste back into ecosystem"
-                ],
-                "student_can_achieve": ["Explain role of decomposers"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-12-G",
-                "name": "Change Leads to Change",
-                "conceptual_understanding": [
-                  "Changes in one part of ecosystem affect others"
-                ],
-                "student_can_achieve": [
-                  "Predict effects of environmental changes"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "application-based",
-                  "exam_weight": "high"
-                }
-              },
-              {
-                "code": "CL08-SCI-12-H",
-                "name": "Balance in Ecosystems",
-                "conceptual_understanding": [
-                  "Balanced ecosystems are stable and sustainable"
-                ],
-                "student_can_achieve": [
-                  "Explain importance of ecological balance"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-12-I",
-                "name": "Benefits of Ecosystems",
-                "conceptual_understanding": [
-                  "Ecosystems provide food, shelter and clean environment"
-                ],
-                "student_can_achieve": [
-                  "List benefits of ecosystems to humans"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 20,
-                "meta": {
-                  "nature": "awareness-based",
-                  "exam_weight": "low"
-                }
-              }
-            ]
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
           },
-          {
-            "code": "CL08-SCI-13",
-            "name": "Our Home: Earth, a Unique Life-Sustaining Planet",
-            "agenda": [
-              "Understand why Earth is unique among planets",
-              "Explore features of Earth that support life",
-              "Study Earth’s position in the solar system"
-            ],
-            "session_instructions": [
-              {
-                "type": "instruction",
-                "text": "Introduce Earth as a life-supporting planet using solar system context"
-              },
-              {
-                "type": "activity",
-                "text": "Compare Earth with other planets using a comparison chart"
-              },
-              {
-                "type": "activity",
-                "text": "Discuss conservation of Earth’s resources"
-              }
-            ],
-            "teacher_aids": [
-              "Solar system models",
-              "Planet comparison charts",
-              "Earth feature diagrams"
-            ],
-            "content_structure": {
-              "theory_ratio": 0.45,
-              "worked_examples_ratio": 0.05,
-              "practice_ratio": 0.15,
-              "application_ratio": 0.35
+          "image_assets": [
+            {
+              "id": "sci_pressure_01",
+              "name": "Pressure in Liquids and Gases",
+              "src": "https://example.com/images/pressure-liquids-gases.png",
+              "relevant": "Pressure variation in fluids"
             },
-            "learning_mode_mix": {
-              "theoretical": 0.4,
-              "practical": 0.2,
-              "discussion": 0.4
+            {
+              "id": "sci_cyclone_01",
+              "name": "Formation of Cyclone",
+              "src": "https://example.com/images/cyclone-formation.png",
+              "relevant": "Low pressure leading to cyclones"
+            }
+          ],
+          "division_count": 6,
+          "divisions": [
+            {
+              "code": "CL08-SCI-06-A",
+              "name": "Pressure",
+              "conceptual_understanding": [
+                "Pressure is force acting per unit area"
+              ],
+              "student_can_achieve": [
+                "Explain pressure using daily-life examples"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
             },
-            "image_assets": [
-              {
-                "id": "sci_earth_01",
-                "name": "Earth in the Solar System",
-                "src": "https://example.com/images/earth-solar-system.png",
-                "relevant": "Earth’s position and uniqueness"
-              },
-              {
-                "id": "sci_earth_02",
-                "name": "Life Supporting Features of Earth",
-                "src": "https://example.com/images/life-on-earth.png",
-                "relevant": "Atmosphere, water and temperature balance"
+            {
+              "code": "CL08-SCI-06-B",
+              "name": "Pressure Exerted by Air",
+              "conceptual_understanding": [
+                "Air exerts pressure in all directions"
+              ],
+              "student_can_achieve": [
+                "Demonstrate air pressure through experiments"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
               }
-            ],
-            "division_count": 3,
-            "divisions": [
-              {
-                "code": "CL08-SCI-13-A",
-                "name": "Why Is Earth a Unique Planet?",
-                "conceptual_understanding": [
-                  "Earth has ideal temperature, water and atmosphere for life"
-                ],
-                "student_can_achieve": ["Explain why Earth supports life"],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "conceptual",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-13-B",
-                "name": "Earth and the Solar System",
-                "conceptual_understanding": [
-                  "Earth is part of the solar system with unique characteristics"
-                ],
-                "student_can_achieve": [
-                  "Identify Earth’s position among planets"
-                ],
-                "difficulty_level": "easy",
-                "time_estimate_min": 25,
-                "meta": {
-                  "nature": "theory",
-                  "exam_weight": "medium"
-                }
-              },
-              {
-                "code": "CL08-SCI-13-C",
-                "name": "Protecting Our Home",
-                "conceptual_understanding": [
-                  "Human activities impact Earth’s life-support systems"
-                ],
-                "student_can_achieve": [
-                  "Suggest ways to conserve Earth’s resources"
-                ],
-                "difficulty_level": "medium",
-                "time_estimate_min": 30,
-                "meta": {
-                  "nature": "application + awareness",
-                  "exam_weight": "high"
-                }
+            },
+            {
+              "code": "CL08-SCI-06-C",
+              "name": "Formation of Wind",
+              "conceptual_understanding": [
+                "Wind forms due to differences in air pressure"
+              ],
+              "student_can_achieve": ["Explain how wind is generated"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
               }
-            ]
-          }
-        ]
-      }
+            },
+            {
+              "code": "CL08-SCI-06-D",
+              "name": "High-Speed Winds and Air Pressure",
+              "conceptual_understanding": [
+                "Fast-moving air has lower pressure"
+              ],
+              "student_can_achieve": ["Relate wind speed to pressure changes"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-06-E",
+              "name": "Storms, Thunderstorms and Lightning",
+              "conceptual_understanding": [
+                "Storms are caused by intense atmospheric disturbances"
+              ],
+              "student_can_achieve": [
+                "Describe formation of thunderstorms and lightning",
+                "Follow safety measures during storms"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "theory + safety",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-06-F",
+              "name": "Cyclones",
+              "conceptual_understanding": [
+                "Cyclones form due to low pressure over warm oceans"
+              ],
+              "student_can_achieve": [
+                "Explain cyclone formation",
+                "List disaster preparedness measures"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "application + awareness",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-07",
+          "name": "Particulate Nature of Matter",
+          "agenda": [
+            "Understand that matter is made of tiny particles",
+            "Explore different states of matter",
+            "Relate particle spacing and motion to properties of matter"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce matter using everyday substances like air, water and solids"
+            },
+            {
+              "type": "activity",
+              "text": "Demonstrate diffusion using ink or perfume in air/water"
+            },
+            {
+              "type": "activity",
+              "text": "Compare particle motion in solids, liquids and gases"
+            }
+          ],
+          "teacher_aids": [
+            "Particle model charts",
+            "Diffusion experiment materials",
+            "Animated videos of particle motion"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.1,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.25
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+          "image_assets": [
+            {
+              "id": "sci_matter_01",
+              "name": "Particles in Different States of Matter",
+              "src": "https://example.com/images/states-of-matter-particles.png",
+              "relevant": "Arrangement and movement of particles"
+            }
+          ],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "CL08-SCI-07-A",
+              "name": "What Is Matter Composed Of?",
+              "conceptual_understanding": [
+                "Matter is made of extremely small particles",
+                "Particles are in constant motion"
+              ],
+              "student_can_achieve": [
+                "Explain particulate nature of matter",
+                "Describe diffusion using particle motion"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "theory + experiment",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-07-B",
+              "name": "States of Matter",
+              "conceptual_understanding": [
+                "Matter exists as solid, liquid and gas",
+                "States depend on particle spacing and energy"
+              ],
+              "student_can_achieve": [
+                "Differentiate between solids, liquids and gases"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-07-C",
+              "name": "Interparticle Spacing and Motion",
+              "conceptual_understanding": [
+                "Particle spacing increases from solid to gas",
+                "Particle motion explains compressibility and flow"
+              ],
+              "student_can_achieve": [
+                "Relate particle behavior to physical properties"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-08",
+          "name": "Nature of Matter: Elements, Compounds and Mixtures",
+          "agenda": [
+            "Differentiate between pure substances and mixtures",
+            "Understand elements and compounds",
+            "Explore uses of elements, compounds and mixtures",
+            "Introduce minerals and their importance"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce matter classification using everyday materials"
+            },
+            {
+              "type": "activity",
+              "text": "Group classroom objects into elements, compounds and mixtures"
+            },
+            {
+              "type": "activity",
+              "text": "Discuss separation of mixtures through real-life examples"
+            }
+          ],
+          "teacher_aids": [
+            "Periodic table chart",
+            "Sample substances (salt, sand, water)",
+            "Classification worksheets"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.2
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "sci_elements_01",
+              "name": "Elements Compounds and Mixtures",
+              "src": "https://example.com/images/elements-compounds-mixtures.png",
+              "relevant": "Classification of matter"
+            }
+          ],
+          "division_count": 5,
+          "divisions": [
+            {
+              "code": "CL08-SCI-08-A",
+              "name": "What Are Mixtures?",
+              "conceptual_understanding": [
+                "Mixtures consist of two or more substances combined physically"
+              ],
+              "student_can_achieve": ["Identify mixtures in daily life"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-08-B",
+              "name": "What Are Pure Substances?",
+              "conceptual_understanding": [
+                "Pure substances have fixed composition and properties"
+              ],
+              "student_can_achieve": [
+                "Differentiate pure substances from mixtures"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-08-C",
+              "name": "Elements and Compounds",
+              "conceptual_understanding": [
+                "Elements consist of one type of atom",
+                "Compounds are formed by chemical combination of elements"
+              ],
+              "student_can_achieve": [
+                "Classify substances as elements or compounds"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "theory + examples",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-08-D",
+              "name": "Uses of Elements, Compounds and Mixtures",
+              "conceptual_understanding": [
+                "Different substances are used based on their properties"
+              ],
+              "student_can_achieve": [
+                "Relate properties of substances to their uses"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-08-E",
+              "name": "Minerals",
+              "conceptual_understanding": [
+                "Minerals are naturally occurring substances found in earth"
+              ],
+              "student_can_achieve": [
+                "Explain importance of minerals in daily life"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "awareness-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-09",
+          "name": "The Amazing World of Solutes, Solvents and Solutions",
+          "agenda": [
+            "Understand solute, solvent and solution",
+            "Explore solubility and factors affecting it",
+            "Explain density and floating–sinking behavior"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce solutions using salt–water and sugar–water examples"
+            },
+            {
+              "type": "activity",
+              "text": "Prepare solutions of different concentrations"
+            },
+            {
+              "type": "activity",
+              "text": "Demonstrate floating and sinking using density differences"
+            }
+          ],
+          "teacher_aids": [
+            "Beakers and measuring cylinders",
+            "Solubility charts",
+            "Density demonstration kits"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.15,
+            "practice_ratio": 0.25,
+            "application_ratio": 0.25
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+          "image_assets": [
+            {
+              "id": "sci_solution_01",
+              "name": "Solute Solvent Solution",
+              "src": "https://example.com/images/solute-solvent-solution.png",
+              "relevant": "Relationship between solute, solvent and solution"
+            },
+            {
+              "id": "sci_density_01",
+              "name": "Density and Floating",
+              "src": "https://example.com/images/density-floating.png",
+              "relevant": "Density affecting floating and sinking"
+            }
+          ],
+          "division_count": 5,
+          "divisions": [
+            {
+              "code": "CL08-SCI-09-A",
+              "name": "Solute, Solvent and Solution",
+              "conceptual_understanding": [
+                "A solution is formed when a solute dissolves in a solvent"
+              ],
+              "student_can_achieve": [
+                "Define solute, solvent and solution with examples"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-09-B",
+              "name": "Solubility",
+              "conceptual_understanding": [
+                "Solubility depends on temperature and nature of substances"
+              ],
+              "student_can_achieve": [
+                "Explain why solubility changes with temperature"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-09-C",
+              "name": "Solubility of Gases",
+              "conceptual_understanding": [
+                "Gas solubility decreases with increase in temperature"
+              ],
+              "student_can_achieve": ["Relate gas solubility to aquatic life"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-09-D",
+              "name": "Density and Floating",
+              "conceptual_understanding": [
+                "Density determines whether an object floats or sinks"
+              ],
+              "student_can_achieve": [
+                "Calculate density",
+                "Predict floating or sinking of objects"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-09-E",
+              "name": "Applications of Solutions",
+              "conceptual_understanding": [
+                "Solutions are widely used in daily life and industries"
+              ],
+              "student_can_achieve": [
+                "Identify uses of solutions in medicine and food"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "awareness-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-10",
+          "name": "Light: Mirrors and Lenses",
+          "agenda": [
+            "Understand reflection of light",
+            "Study spherical mirrors and image formation",
+            "Learn about lenses and their applications"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce light and reflection using mirror demonstrations"
+            },
+            {
+              "type": "activity",
+              "text": "Trace rays to observe image formation by mirrors and lenses"
+            },
+            {
+              "type": "activity",
+              "text": "Identify uses of mirrors and lenses in daily life"
+            }
+          ],
+          "teacher_aids": [
+            "Plane, concave and convex mirrors",
+            "Convex and concave lenses",
+            "Ray diagrams charts"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.2,
+            "application_ratio": 0.2
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.35,
+            "discussion": 0.25
+          },
+          "image_assets": [
+            {
+              "id": "sci_light_01",
+              "name": "Reflection of Light",
+              "src": "https://example.com/images/reflection-light.png",
+              "relevant": "Laws of reflection"
+            },
+            {
+              "id": "sci_light_02",
+              "name": "Image Formation by Mirrors and Lenses",
+              "src": "https://example.com/images/image-formation.png",
+              "relevant": "Ray diagrams and image characteristics"
+            }
+          ],
+          "division_count": 4,
+          "divisions": [
+            {
+              "code": "CL08-SCI-10-A",
+              "name": "Spherical Mirrors",
+              "conceptual_understanding": [
+                "Spherical mirrors are concave or convex",
+                "Different mirrors form different types of images"
+              ],
+              "student_can_achieve": [
+                "Identify concave and convex mirrors",
+                "Predict image type formed by mirrors"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "theory + diagrams",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-10-B",
+              "name": "Image Formation by Mirrors",
+              "conceptual_understanding": [
+                "Image characteristics depend on object position"
+              ],
+              "student_can_achieve": [
+                "Draw ray diagrams for mirrors",
+                "Describe image characteristics"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-10-C",
+              "name": "Laws of Reflection",
+              "conceptual_understanding": [
+                "Angle of incidence equals angle of reflection"
+              ],
+              "student_can_achieve": ["State and apply laws of reflection"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-10-D",
+              "name": "Lenses",
+              "conceptual_understanding": [
+                "Lenses refract light to form images"
+              ],
+              "student_can_achieve": [
+                "Differentiate convex and concave lenses",
+                "Explain uses of lenses"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-11",
+          "name": "Keeping Time with the Skies",
+          "agenda": [
+            "Understand phases of the Moon",
+            "Learn how calendars evolved",
+            "Relate festivals to astronomical phenomena",
+            "Introduce artificial satellites"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain Moon phases using diagrams and models"
+            },
+            {
+              "type": "activity",
+              "text": "Observe Moon phases over a month and record changes"
+            },
+            {
+              "type": "activity",
+              "text": "Discuss calendars and festivals based on lunar and solar cycles"
+            }
+          ],
+          "teacher_aids": [
+            "Moon phase charts",
+            "Earth–Moon–Sun models",
+            "Calendar samples"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.1,
+            "practice_ratio": 0.15,
+            "application_ratio": 0.3
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.45,
+            "practical": 0.2,
+            "discussion": 0.35
+          },
+          "image_assets": [
+            {
+              "id": "sci_moon_01",
+              "name": "Phases of the Moon",
+              "src": "https://example.com/images/moon-phases.png",
+              "relevant": "Changing appearance of the Moon"
+            },
+            {
+              "id": "sci_calendar_01",
+              "name": "Lunar and Solar Calendars",
+              "src": "https://example.com/images/calendars.png",
+              "relevant": "Timekeeping based on astronomy"
+            }
+          ],
+          "division_count": 4,
+          "divisions": [
+            {
+              "code": "CL08-SCI-11-A",
+              "name": "Moon Phases",
+              "conceptual_understanding": [
+                "Moon phases occur due to relative positions of Earth, Moon and Sun"
+              ],
+              "student_can_achieve": [
+                "Explain phases of the Moon",
+                "Identify full moon and new moon days"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-11-B",
+              "name": "Origin of Calendars",
+              "conceptual_understanding": [
+                "Calendars are based on periodic celestial motions"
+              ],
+              "student_can_achieve": [
+                "Differentiate lunar and solar calendars"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-11-C",
+              "name": "Festivals and Astronomy",
+              "conceptual_understanding": [
+                "Many festivals are linked to astronomical events"
+              ],
+              "student_can_achieve": [
+                "Relate festivals to Moon phases or solar cycles"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "CL08-SCI-11-D",
+              "name": "Artificial Satellites",
+              "conceptual_understanding": [
+                "Artificial satellites orbit Earth for communication and research"
+              ],
+              "student_can_achieve": ["Explain uses of artificial satellites"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "awareness-based",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-12",
+          "name": "How Nature Works in Harmony",
+          "agenda": [
+            "Understand ecosystems and their components",
+            "Study interactions among organisms",
+            "Explain food chains, food webs and balance in nature",
+            "Understand waste recycling and energy flow in ecosystems"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce ecosystem using forest and pond examples"
+            },
+            {
+              "type": "activity",
+              "text": "Create food chains and food webs using organisms cards"
+            },
+            {
+              "type": "activity",
+              "text": "Discuss human impact on ecosystems and conservation"
+            }
+          ],
+          "teacher_aids": [
+            "Ecosystem charts",
+            "Food chain models",
+            "Videos on biodiversity"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.1,
+            "practice_ratio": 0.15,
+            "application_ratio": 0.3
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.25,
+            "discussion": 0.35
+          },
+          "image_assets": [
+            {
+              "id": "sci_ecosystem_01",
+              "name": "Ecosystem Components",
+              "src": "https://example.com/images/ecosystem-components.png",
+              "relevant": "Biotic and abiotic components of an ecosystem"
+            },
+            {
+              "id": "sci_foodchain_01",
+              "name": "Food Chain and Food Web",
+              "src": "https://example.com/images/food-chain-web.png",
+              "relevant": "Energy flow through ecosystems"
+            }
+          ],
+          "division_count": 9,
+          "divisions": [
+            {
+              "code": "CL08-SCI-12-A",
+              "name": "Experiencing Our Surroundings",
+              "conceptual_understanding": [
+                "Organisms interact with both living and non-living surroundings"
+              ],
+              "student_can_achieve": ["Identify biotic and abiotic components"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-12-B",
+              "name": "Living Together in Nature",
+              "conceptual_understanding": [
+                "Organisms coexist and depend on one another"
+              ],
+              "student_can_achieve": [
+                "Explain interdependence among organisms"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-12-C",
+              "name": "Importance of Every Organism",
+              "conceptual_understanding": [
+                "Every organism plays a role in ecosystem balance"
+              ],
+              "student_can_achieve": [
+                "Justify why loss of species affects ecosystems"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-12-D",
+              "name": "Interactions in Nature",
+              "conceptual_understanding": [
+                "Interactions include predation, competition and cooperation"
+              ],
+              "student_can_achieve": [
+                "Identify types of interactions in nature"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-12-E",
+              "name": "Food Chains and Food Webs",
+              "conceptual_understanding": [
+                "Energy flows from producers to consumers"
+              ],
+              "student_can_achieve": ["Construct food chains and food webs"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-12-F",
+              "name": "Waste in Nature",
+              "conceptual_understanding": [
+                "Decomposers recycle waste back into ecosystem"
+              ],
+              "student_can_achieve": ["Explain role of decomposers"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-12-G",
+              "name": "Change Leads to Change",
+              "conceptual_understanding": [
+                "Changes in one part of ecosystem affect others"
+              ],
+              "student_can_achieve": [
+                "Predict effects of environmental changes"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "application-based",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "CL08-SCI-12-H",
+              "name": "Balance in Ecosystems",
+              "conceptual_understanding": [
+                "Balanced ecosystems are stable and sustainable"
+              ],
+              "student_can_achieve": [
+                "Explain importance of ecological balance"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-12-I",
+              "name": "Benefits of Ecosystems",
+              "conceptual_understanding": [
+                "Ecosystems provide food, shelter and clean environment"
+              ],
+              "student_can_achieve": ["List benefits of ecosystems to humans"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 20,
+              "meta": {
+                "nature": "awareness-based",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+        {
+          "code": "CL08-SCI-13",
+          "name": "Our Home: Earth, a Unique Life-Sustaining Planet",
+          "agenda": [
+            "Understand why Earth is unique among planets",
+            "Explore features of Earth that support life",
+            "Study Earth’s position in the solar system"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce Earth as a life-supporting planet using solar system context"
+            },
+            {
+              "type": "activity",
+              "text": "Compare Earth with other planets using a comparison chart"
+            },
+            {
+              "type": "activity",
+              "text": "Discuss conservation of Earth’s resources"
+            }
+          ],
+          "teacher_aids": [
+            "Solar system models",
+            "Planet comparison charts",
+            "Earth feature diagrams"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.45,
+            "worked_examples_ratio": 0.05,
+            "practice_ratio": 0.15,
+            "application_ratio": 0.35
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.2,
+            "discussion": 0.4
+          },
+          "image_assets": [
+            {
+              "id": "sci_earth_01",
+              "name": "Earth in the Solar System",
+              "src": "https://example.com/images/earth-solar-system.png",
+              "relevant": "Earth’s position and uniqueness"
+            },
+            {
+              "id": "sci_earth_02",
+              "name": "Life Supporting Features of Earth",
+              "src": "https://example.com/images/life-on-earth.png",
+              "relevant": "Atmosphere, water and temperature balance"
+            }
+          ],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "CL08-SCI-13-A",
+              "name": "Why Is Earth a Unique Planet?",
+              "conceptual_understanding": [
+                "Earth has ideal temperature, water and atmosphere for life"
+              ],
+              "student_can_achieve": ["Explain why Earth supports life"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-13-B",
+              "name": "Earth and the Solar System",
+              "conceptual_understanding": [
+                "Earth is part of the solar system with unique characteristics"
+              ],
+              "student_can_achieve": [
+                "Identify Earth’s position among planets"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 25,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "CL08-SCI-13-C",
+              "name": "Protecting Our Home",
+              "conceptual_understanding": [
+                "Human activities impact Earth’s life-support systems"
+              ],
+              "student_can_achieve": [
+                "Suggest ways to conserve Earth’s resources"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "application + awareness",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
