@@ -7,11 +7,19 @@
     {
       "name": "Mathematics",
       "code": "CL09-MATH",
+      "enabled": true,
+      "meta": {
+        "level": "beginner",
+        "category": "technology",
+        "duration_months": 6
+      },
       "chapters": [
         {
           "code": "CL09-MATH-01",
           "name": "Number Systems",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand different types of numbers",
             "Explore irrational numbers",
@@ -131,6 +139,8 @@
           "code": "CL09-MATH-02",
           "name": "Polynomials",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand polynomials and their degrees",
             "Learn zeroes of polynomials",
@@ -248,6 +258,8 @@
           "code": "CL09-MATH-03",
           "name": "Coordinate Geometry",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand Cartesian coordinate system",
             "Locate points in different quadrants",
@@ -366,6 +378,8 @@
           "code": "CL09-MATH-04",
           "name": "Linear Equations in Two Variables",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand linear equations in two variables",
             "Represent equations graphically",
@@ -483,6 +497,8 @@
           "code": "CL09-MATH-05",
           "name": "Introduction to Euclid’s Geometry",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand Euclid’s approach to geometry",
             "Learn basic terms, axioms, and postulates",
@@ -603,6 +619,8 @@
           "code": "CL09-MATH-06",
           "name": "Lines and Angles",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand angle relationships",
             "Study parallel lines and transversals",
@@ -739,6 +757,8 @@
           "code": "CL09-MATH-07",
           "name": "Triangles",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand congruence of triangles",
             "Learn criteria for triangle congruence",
@@ -873,6 +893,8 @@
           "code": "CL09-MATH-08",
           "name": "Quadrilaterals",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand properties of quadrilaterals",
             "Study parallelograms and special quadrilaterals",
@@ -986,6 +1008,8 @@
           "code": "CL09-MATH-09",
           "name": "Circles",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand basic terms related to circles",
             "Learn properties of chords, arcs, and angles in a circle",
@@ -1105,6 +1129,8 @@
           "code": "CL09-MATH-10",
           "name": "Heron’s Formula",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand the concept of area of triangles",
             "Learn and apply Heron’s formula",
@@ -1200,6 +1226,8 @@
           "code": "CL09-MATH-11",
           "name": "Surface Areas and Volumes",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand surface area of solids",
             "Calculate volumes of common 3D shapes",
@@ -1336,6 +1364,8 @@
           "code": "CL09-MATH-12",
           "name": "Statistics",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand collection and representation of data",
             "Learn graphical methods",
@@ -1447,12 +1477,19 @@
     {
       "name": "Science",
       "code": "CL09-SCI",
-
+      "enabled": true,
+      "meta": {
+        "level": "beginner",
+        "category": "technology",
+        "duration_months": 6
+      },
       "chapters": [
         {
           "code": "CL09-SCI-01",
           "name": "Matter in Our Surroundings",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand the nature of matter",
             "Study physical states of matter",
@@ -1593,6 +1630,8 @@
           "code": "CL09-SCI-02",
           "name": "Is Matter Around Us Pure",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand pure substances and mixtures",
             "Differentiate between elements, compounds, and mixtures",
@@ -1725,6 +1764,8 @@
           "code": "CL09-SCI-03",
           "name": "Atoms and Molecules",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand laws of chemical combination",
             "Learn atomic and molecular concepts",
@@ -1865,6 +1906,8 @@
           "code": "CL09-SCI-04",
           "name": "Structure of the Atom",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand subatomic particles",
             "Study atomic models",
@@ -1998,6 +2041,8 @@
           "code": "CL09-SCI-05",
           "name": "The Fundamental Unit of Life",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand the concept of cell as the basic unit of life",
             "Study structure and functions of cell organelles",
@@ -2132,6 +2177,8 @@
           "code": "CL09-SCI-06",
           "name": "Tissues",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand what tissues are",
             "Study types of plant and animal tissues",
@@ -2267,6 +2314,8 @@
           "code": "CL09-SCI-07",
           "name": "Motion",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand motion and rest",
             "Study distance, displacement, speed and velocity",
@@ -2400,6 +2449,8 @@
           "code": "CL09-SCI-08",
           "name": "Force and Laws of Motion",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand force and its effects",
             "Study Newton’s laws of motion",
@@ -2529,6 +2580,8 @@
           "code": "CL09-SCI-09",
           "name": "Gravitation",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand gravitational force",
             "Study universal law of gravitation",
@@ -2661,6 +2714,8 @@
           "code": "CL09-SCI-10",
           "name": "Work and Energy",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand work, energy and power",
             "Study kinetic and potential energy",
@@ -2788,6 +2843,8 @@
           "code": "CL09-SCI-11",
           "name": "Sound",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand sound as a form of energy",
             "Study production and propagation of sound",
@@ -2917,6 +2974,8 @@
           "code": "CL09-SCI-12",
           "name": "Improvement in Food Resources",
 
+          "enabled": true,
+          "meta": {},
           "agenda": [
             "Understand agricultural practices",
             "Learn crop improvement techniques",

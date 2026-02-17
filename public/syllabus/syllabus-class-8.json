@@ -9,12 +9,18 @@
     {
       "name": "Mathematics",
       "code": "CL08-MATH",
-
+  "enabled": true,
+  "meta": {
+    "level": "beginner",
+    "category": "technology",
+    "duration_months": 6
+  },
       "chapters": [
         {
           "code": "CL08-MATH-01",
           "name": "A Square and A Cube",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Explore square and cube numbers",
             "Identify patterns in squares and cubes",
             "Estimate square and cube roots"
@@ -78,7 +84,8 @@
         {
           "code": "CL08-MATH-02",
           "name": "Power Play",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand exponents as repeated multiplication",
             "Apply laws of exponents including negative powers",
             "Represent numbers using scientific notation"
@@ -177,7 +184,8 @@
         {
           "code": "CL08-MATH-03",
           "name": "A Story of Numbers",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand different number systems",
             "Classify rational numbers",
             "Compare and order numbers logically"
@@ -269,7 +277,8 @@
         {
           "code": "CL08-MATH-04",
           "name": "Quadrilaterals",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Identify different types of quadrilaterals",
             "Understand properties of special quadrilaterals",
             "Apply angle sum properties"
@@ -341,7 +350,8 @@
         {
           "code": "CL08-MATH-05",
           "name": "Number Play",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Explore factors and multiples",
             "Apply divisibility rules",
             "Develop logical thinking through number puzzles"
@@ -426,7 +436,8 @@
         {
           "code": "CL08-MATH-06",
           "name": "We Distribute, Yet Things Multiply",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand algebraic expressions",
             "Learn distributive property",
             "Apply algebraic identities for simplification"
@@ -520,7 +531,8 @@
         {
           "code": "CL08-MATH-07",
           "name": "Proportional Reasoning – 1",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand ratio and proportion",
             "Learn direct and inverse variation",
             "Solve real-life proportional problems"
@@ -611,11 +623,18 @@
     {
       "name": "Science",
       "code": "CL08-SCI",
+        "enabled": true,
+  "meta": {
+    "level": "beginner",
+    "category": "technology",
+    "duration_months": 6
+  },
       "chapters": [
         {
           "code": "CL08-SCI-01",
           "name": "Exploring the Investigative World of Science",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Develop scientific inquiry and observation skills",
             "Understand how science explains natural phenomena",
             "Encourage questioning and experimentation"
@@ -679,7 +698,8 @@
         {
           "code": "CL08-SCI-02",
           "name": "The Invisible Living World: Beyond Our Naked Eye",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand cells as basic units of life",
             "Explore microorganisms and their roles",
             "Relate microbes to health and environment"
@@ -803,7 +823,8 @@
         {
           "code": "CL08-SCI-03",
           "name": "Health: The Ultimate Treasure",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand health as overall well-being",
             "Identify causes and types of diseases",
             "Learn disease prevention and control"
@@ -911,7 +932,8 @@
         {
           "code": "CL08-SCI-04",
           "name": "Electricity: Magnetic and Heating Effects",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand electric current and its effects",
             "Explore magnetic effect of electric current",
             "Learn heating effect and electricity generation"
@@ -1021,7 +1043,8 @@
         {
           "code": "CL08-SCI-05",
           "name": "Exploring Forces",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand the concept of force",
             "Identify effects of force on objects",
             "Differentiate types of forces",
@@ -1172,7 +1195,8 @@
         {
           "code": "CL08-SCI-06",
           "name": "Pressure, Winds, Storms and Cyclones",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand pressure in solids, liquids and gases",
             "Explore air pressure and wind formation",
             "Explain storms, thunderstorms and cyclones"
@@ -1322,7 +1346,8 @@
         {
           "code": "CL08-SCI-07",
           "name": "Particulate Nature of Matter",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand that matter is made of tiny particles",
             "Explore different states of matter",
             "Relate particle spacing and motion to properties of matter"
@@ -1424,7 +1449,8 @@
         {
           "code": "CL08-SCI-08",
           "name": "Nature of Matter: Elements, Compounds and Mixtures",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Differentiate between pure substances and mixtures",
             "Understand elements and compounds",
             "Explore uses of elements, compounds and mixtures",
@@ -1554,7 +1580,8 @@
         {
           "code": "CL08-SCI-09",
           "name": "The Amazing World of Solutes, Solvents and Solutions",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand solute, solvent and solution",
             "Explore solubility and factors affecting it",
             "Explain density and floating–sinking behavior"
@@ -1689,7 +1716,8 @@
         {
           "code": "CL08-SCI-10",
           "name": "Light: Mirrors and Lenses",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand reflection of light",
             "Study spherical mirrors and image formation",
             "Learn about lenses and their applications"
@@ -1811,7 +1839,8 @@
         {
           "code": "CL08-SCI-11",
           "name": "Keeping Time with the Skies",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand phases of the Moon",
             "Learn how calendars evolved",
             "Relate festivals to astronomical phenomena",
@@ -1931,7 +1960,8 @@
         {
           "code": "CL08-SCI-12",
           "name": "How Nature Works in Harmony",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand ecosystems and their components",
             "Study interactions among organisms",
             "Explain food chains, food webs and balance in nature",
@@ -2124,7 +2154,8 @@
         {
           "code": "CL08-SCI-13",
           "name": "Our Home: Earth, a Unique Life-Sustaining Planet",
-          "agenda": [
+                "enabled": true,
+      "meta": {}, "agenda": [
             "Understand why Earth is unique among planets",
             "Explore features of Earth that support life",
             "Study Earth’s position in the solar system"

@@ -1,0 +1,373 @@
+{
+  "name": "Coding",
+  "code": "GEN-CODING",
+  "syllabus_year": "2025",
+  "source": "Instructor Designed / Skill-Based Curriculum",
+
+  "subjects": [
+    {
+      "name": "Coding Bootcamp",
+      "code": "GEN-CODING-01",
+      "enabled": true,
+      "meta": {
+        "level": "beginner",
+        "category": "technology",
+        "duration_months": 6
+      },
+      "chapters": [
+        {
+          "code": "GEN-CODING-01",
+          "name": "Introduction to Computers and Programming",
+          "enabled": true,
+          "meta": {
+            "focus": "logic foundation",
+            "type": "conceptual",
+            "assessment": "oral + activity"
+          },
+          "agenda": [
+            "Understand what coding is and where it is used",
+            "Learn how computers follow instructions",
+            "Write first simple logical steps"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain real-life examples of coding like mobile apps and games"
+            },
+            {
+              "type": "activity",
+              "text": "Students create step-by-step instructions for daily tasks"
+            }
+          ],
+          "teacher_aids": [
+            "Slides showing apps and software",
+            "Flowchart cards",
+            "Whiteboard demonstrations"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.4,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.4,
+            "practical": 0.3,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "coding_intro_01",
+              "name": "Computer and Coding Illustration",
+              "src": "https://example.com/coding-intro.png",
+              "relevant": "Shows how coding controls apps and games"
+            }
+          ],
+          "division_count": 1,
+          "divisions": [
+            {
+              "code": "GEN-CODING-01-A",
+              "name": "What is Coding?",
+              "conceptual_understanding": [
+                "Computers follow clear step-by-step instructions",
+                "Programs solve problems using logic"
+              ],
+              "student_can_achieve": [
+                "Explain coding in simple words",
+                "Write basic logical instructions"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "theory + activity",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+        {
+          "code": "GEN-CODING-02",
+          "name": "Basics of Algorithms and Flowcharts",
+          "enabled": true,
+          "meta": {
+            "focus": "logical thinking",
+            "type": "conceptual + visual",
+            "assessment": "worksheet + drawing"
+          },
+          "agenda": [
+            "Understand algorithms as step-by-step solutions",
+            "Represent logic using flowcharts",
+            "Improve logical thinking"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Demonstrate algorithm steps for simple math problems"
+            },
+            {
+              "type": "activity",
+              "text": "Students draw flowcharts for real-life tasks"
+            }
+          ],
+          "teacher_aids": [
+            "Flowchart symbols chart",
+            "Worksheet with problems",
+            "Marker board"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+          "image_assets": [
+            {
+              "id": "flowchart_basic_01",
+              "name": "Flowchart Symbols",
+              "src": "https://example.com/flowchart.png",
+              "relevant": "Helps visualize program logic"
+            }
+          ],
+          "division_count": 1,
+          "divisions": [
+            {
+              "code": "GEN-CODING-02-A",
+              "name": "Designing Simple Algorithms",
+              "conceptual_understanding": [
+                "Algorithms must be clear, ordered, and finite",
+                "Flowcharts visually represent logical steps"
+              ],
+              "student_can_achieve": [
+                "Create simple algorithms",
+                "Draw correct flowcharts using symbols"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "theory + problem-solving",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "GEN-CODING-03",
+          "name": "Getting Started with Programming",
+          "enabled": true,
+          "meta": {
+            "focus": "syntax basics",
+            "type": "practical",
+            "assessment": "hands-on coding"
+          },
+          "agenda": [
+            "Understand programming languages and syntax",
+            "Write first simple program",
+            "Learn input, output, and variables"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Show structure of a simple program in beginner-friendly language"
+            },
+            {
+              "type": "activity",
+              "text": "Students write and run a basic print program"
+            }
+          ],
+          "teacher_aids": [
+            "Computer or coding sandbox",
+            "Sample beginner programs",
+            "Projector demonstration"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.25,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.25,
+            "practical": 0.55,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "first_program_01",
+              "name": "Hello World Program",
+              "src": "https://example.com/hello-world.png",
+              "relevant": "Shows structure of first program"
+            }
+          ],
+          "division_count": 1,
+          "divisions": [
+            {
+              "code": "GEN-CODING-03-A",
+              "name": "Variables, Input and Output",
+              "conceptual_understanding": [
+                "Programs store values using variables",
+                "Input and output allow user interaction"
+              ],
+              "student_can_achieve": [
+                "Write a simple working program",
+                "Use variables and print output"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 50,
+              "meta": {
+                "nature": "practical coding",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "GEN-CODING-04",
+          "name": "Decision Making and Loops",
+          "enabled": true,
+          "meta": {
+            "focus": "control structures",
+            "type": "logical + practical",
+            "assessment": "coding exercises"
+          },
+          "agenda": [
+            "Understand conditions in programming",
+            "Use if–else statements for decision making",
+            "Learn loops to repeat actions efficiently"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain real-life decision examples and connect to if–else logic"
+            },
+            {
+              "type": "activity",
+              "text": "Students build small programs using conditions and loops"
+            }
+          ],
+          "teacher_aids": [
+            "Conditional flow diagrams",
+            "Practice coding worksheets",
+            "Live coding demonstrations"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.25,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.25,
+            "practical": 0.55,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "if_else_flow_01",
+              "name": "If Else Flowchart",
+              "src": "https://example.com/if-else.png",
+              "relevant": "Shows decision-making logic in programs"
+            }
+          ],
+          "division_count": 1,
+          "divisions": [
+            {
+              "code": "GEN-CODING-04-A",
+              "name": "Conditions and Repetition",
+              "conceptual_understanding": [
+                "Programs make decisions using logical conditions",
+                "Loops help automate repeated tasks"
+              ],
+              "student_can_achieve": [
+                "Write programs using if–else",
+                "Use loops to solve repeated calculations"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 60,
+              "meta": {
+                "nature": "practical problem-solving",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "GEN-CODING-05",
+          "name": "Mini Project and Creative Coding",
+          "enabled": true,
+          "meta": {
+            "focus": "application and creativity",
+            "type": "project-based",
+            "assessment": "final project + presentation"
+          },
+          "agenda": [
+            "Apply coding concepts in a small project",
+            "Encourage creativity and logical design",
+            "Present and explain working program"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Guide students to plan a simple coding project like a quiz or calculator"
+            },
+            {
+              "type": "activity",
+              "text": "Students build, test, and present their mini project"
+            }
+          ],
+          "teacher_aids": [
+            "Project idea sheets",
+            "Debugging checklist",
+            "Presentation rubric"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.1,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.3
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.1,
+            "practical": 0.7,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "mini_project_01",
+              "name": "Student Coding Project",
+              "src": "https://example.com/mini-project.png",
+              "relevant": "Represents final coding outcome"
+            }
+          ],
+          "division_count": 1,
+          "divisions": [
+            {
+              "code": "GEN-CODING-05-A",
+              "name": "Build and Present a Project",
+              "conceptual_understanding": [
+                "Projects combine logic, syntax, and creativity",
+                "Debugging improves program correctness"
+              ],
+              "student_can_achieve": [
+                "Create a working coding project independently",
+                "Explain program logic confidently"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 90,
+              "meta": {
+                "nature": "full practical",
+                "exam_weight": "very high"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

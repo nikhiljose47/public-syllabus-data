@@ -8,9 +8,12 @@
     "showIntroVideo": true
   },
 
+  "groupsBySubject": ["music", "school-class", "coding"],
+
   "classes": [
     {
-      "id": "CL1",
+      "id": "CL01",
+      "group": "school-class",
       "label": "Class 1",
       "enabled": false,
       "ready": true,
@@ -21,12 +24,12 @@
         "students": 120,
         "teachers": 4,
         "medium": ["EN", "HI"],
-        "image": "/assets/card-covers/class1.webp"
+        "image": "/assets/class-card-covers/class1-cover.webp"
       }
     },
-
     {
-      "id": "CL2",
+      "id": "CL02",
+      "group": "school-class",
       "label": "Class 2",
       "enabled": false,
       "ready": true,
@@ -37,12 +40,12 @@
         "students": 160,
         "teachers": 5,
         "medium": ["EN"],
-        "image": "/assets/card-covers/class2.webp"
+        "image": "/assets/class-card-covers/class2-cover.webp"
       }
     },
-
     {
-      "id": "CL3",
+      "id": "CL03",
+      "group": "school-class",
       "label": "Class 3",
       "enabled": false,
       "ready": false,
@@ -53,12 +56,12 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/card-covers/class3.webp"
+        "image": "/assets/class-card-covers/class3-cover.webp"
       }
     },
-
     {
-      "id": "CL4",
+      "id": "CL04",
+      "group": "school-class",
       "label": "Class 4",
       "enabled": false,
       "ready": false,
@@ -69,12 +72,12 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/card-covers/class4.webp"
+        "image": "/assets/class-card-covers/class4-cover.webp"
       }
     },
-
     {
-      "id": "CL5",
+      "id": "CL05",
+      "group": "school-class",
       "label": "Class 5",
       "enabled": false,
       "ready": false,
@@ -85,12 +88,12 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/card-covers/class5.webp"
+        "image": "/assets/class-card-covers/class5-cover.webp"
       }
     },
-
     {
-      "id": "CL6",
+      "id": "CL06",
+      "group": "school-class",
       "label": "Class 6",
       "enabled": false,
       "ready": false,
@@ -101,12 +104,12 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/card-covers/class6.webp"
+        "image": "/assets/class-card-covers/class6-cover.webp"
       }
     },
-
     {
-      "id": "CL7",
+      "id": "CL07",
+      "group": "school-class",
       "label": "Class 7",
       "enabled": true,
       "ready": true,
@@ -117,12 +120,12 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/card-covers/class7.webp"
+        "image": "/assets/class-card-covers/class7-cover.webp"
       }
     },
-
     {
-      "id": "CL8",
+      "id": "CL08",
+      "group": "school-class",
       "label": "Class 8",
       "enabled": true,
       "ready": true,
@@ -133,12 +136,12 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/card-covers/class8.webp"
+        "image": "/assets/class-card-covers/class8-cover.webp"
       }
     },
-
     {
-      "id": "CL9",
+      "id": "CL09",
+      "group": "school-class",
       "label": "Class 9",
       "enabled": true,
       "ready": true,
@@ -149,12 +152,12 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/card-covers/class9.webp"
+        "image": "/assets/class-card-covers/class9-cover.webp"
       }
     },
-
     {
       "id": "CL10",
+      "group": "school-class",
       "label": "Class 10",
       "enabled": true,
       "ready": true,
@@ -165,7 +168,7 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/card-covers/class10.webp"
+        "image": "/assets/class-card-covers/class10-cover.webp"
       }
     }
   ],
@@ -173,8 +176,10 @@
   "jamSessions": [
     {
       "id": "jam101",
+      "group": "exam-jam",
       "title": "GATE Rapid JAM",
       "enabled": true,
+      "ready": true,
       "isLive": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 1,
@@ -185,11 +190,12 @@
         "image": "/assets/fam-problem.jpg"
       }
     },
-
     {
       "id": "jam202",
+      "group": "exam-jam",
       "title": "CAT Quant JAM",
       "enabled": true,
+      "ready": true,
       "isLive": false,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 2,
@@ -201,54 +207,58 @@
       }
     }
   ],
-
   "activities": [
     {
       "id": "act101",
+      "group": "wellness-activity",
       "title": "Yoga Activity",
       "enabled": true,
+      "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 1,
       "fileName": "syllabus-yoga.json",
       "meta": { "teacher": "Prof. Rao", "image": "/assets/fam-problem.jpg" }
     },
-
     {
       "id": "act202",
+      "group": "music",
       "title": "Violin Activity",
       "enabled": true,
+      "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 2,
       "fileName": "syllabus-violin.json",
       "meta": {
         "teacher": "Ananya",
-        "image": "/assets/card-covers/general-aptitude.webp"
+        "image": "/assets/class-card-covers/general-aptitude-cover.webp"
       }
     },
-
     {
       "id": "act303",
+      "group": "coding-activity",
       "title": "Coding Tips & Talk",
       "enabled": true,
+      "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 3,
-      "fileName": "syllabus-coding.json",
+      "fileName": "syllabus-coding-gen.json",
       "meta": {
         "teacher": "Nikhil",
-        "image": "/assets/card-covers/general-aptitude.webp"
+        "image": "/assets/class-card-covers/coding-gen-cover.webp"
       }
     },
-
     {
       "id": "act304",
+      "group": "aptitude-activity",
       "title": "General Aptitude",
       "enabled": true,
+      "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 3,
       "fileName": "syllabus-ga.json",
       "meta": {
         "teacher": "Nikhil",
-        "image": "/assets/card-covers/general-aptitude.webp"
+        "image": "/assets/class-card-covers/general-aptitude-cover.webp"
       }
     }
   ]
