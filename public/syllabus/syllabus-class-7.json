@@ -9,18 +9,19 @@
     {
       "name": "Mathematics",
       "code": "CL07-MATH",
-       "meta": {
-    "level": "beginner",
-    "category": "technology",
-    "duration_months": 6
-  },
+      "meta": {
+        "level": "beginner",
+        "category": "technology",
+        "duration_months": 6
+      },
       "chapters": [
         {
           "code": "CL07-MATH-01",
           "name": "Large Numbers Around Us",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand the scale of large numbers",
             "Read, write and compare large numbers",
             "Use estimation meaningfully in real life"
@@ -141,8 +142,9 @@
           "code": "CL07-MATH-02",
           "name": "Arithmetic Expressions",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand arithmetic expressions",
             "Apply order of operations",
             "Simplify expressions correctly"
@@ -236,8 +238,9 @@
           "code": "CL07-MATH-03",
           "name": "A Peek Beyond the Point",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Extend number understanding beyond whole numbers",
             "Understand decimal representation",
             "Perform operations with decimals confidently"
@@ -356,8 +359,9 @@
           "code": "CL07-MATH-04",
           "name": "Expressions using Letter-Numbers",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Introduce variables as generalized numbers",
             "Form algebraic expressions",
             "Evaluate expressions for given values"
@@ -471,8 +475,9 @@
           "code": "CL07-MATH-05",
           "name": "Parallel and Intersecting Lines",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand parallel and intersecting lines",
             "Identify angles formed by intersecting lines",
             "Apply angle relationships in problems"
@@ -592,8 +597,9 @@
           "code": "CL07-MATH-06",
           "name": "Number Play",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Explore patterns in numbers",
             "Use divisibility rules",
             "Develop logical reasoning through puzzles"
@@ -707,8 +713,9 @@
           "code": "CL07-MATH-05",
           "name": "Parallel and Intersecting Lines",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand parallel and intersecting lines",
             "Identify angles formed by intersecting lines",
             "Apply angle relationships in problems"
@@ -828,8 +835,9 @@
           "code": "CL07-MATH-06",
           "name": "Number Play",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Explore patterns in numbers",
             "Use divisibility rules",
             "Develop logical reasoning through puzzles"
@@ -943,8 +951,9 @@
           "code": "CL07-MATH-07",
           "name": "A Tale of Three Intersecting Lines",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand intersections formed by three lines",
             "Analyze multiple angle relationships",
             "Apply reasoning to complex angle problems"
@@ -1064,8 +1073,9 @@
           "code": "CL07-MATH-08",
           "name": "Working with Fractions",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand fractions as parts of a whole",
             "Perform operations on fractions",
             "Apply fractions to real-life problems"
@@ -1185,19 +1195,20 @@
     {
       "name": "Science",
       "code": "CL07-SCI",
-        "enabled": true,
-  "meta": {
-    "level": "beginner",
-    "category": "technology",
-    "duration_months": 6
-  },
+      "enabled": true,
+      "meta": {
+        "level": "beginner",
+        "category": "technology",
+        "duration_months": 6
+      },
       "chapters": [
         {
           "code": "CL07-SCI-01",
           "name": "The Ever-Evolving World of Science",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand the nature of science",
             "Learn how scientific knowledge develops",
             "Connect science with everyday life"
@@ -1296,8 +1307,9 @@
           "code": "CL07-SCI-02",
           "name": "Exploring Substances: Acidic, Basic, and Neutral",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Identify acids, bases, and neutral substances",
             "Understand their properties",
             "Learn simple testing methods"
@@ -1416,8 +1428,9 @@
           "code": "CL07-SCI-03",
           "name": "Electricity: Circuits and their Components",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand electric current and circuits",
             "Identify components of an electric circuit",
             "Learn standard circuit symbols"
@@ -1516,8 +1529,9 @@
           "code": "CL07-SCI-04",
           "name": "The World of Metals and Non-metals",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Differentiate metals and non-metals",
             "Understand physical properties",
             "Relate materials to their uses"
@@ -1613,8 +1627,9 @@
           "code": "CL07-SCI-05",
           "name": "Changes Around Us: Physical and Chemical",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand physical and chemical changes",
             "Differentiate reversible and irreversible changes",
             "Relate changes to daily life examples"
@@ -1734,8 +1749,9 @@
           "code": "CL07-SCI-06",
           "name": "Adolescence: A Stage of Growth and Change",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand adolescence and puberty",
             "Learn physical and emotional changes",
             "Promote healthy habits"
@@ -1831,8 +1847,9 @@
           "code": "CL07-SCI-07",
           "name": "Heat Transfer in Nature",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand heat as a form of energy",
             "Learn modes of heat transfer",
             "Relate heat transfer to natural phenomena"
@@ -1951,8 +1968,9 @@
           "code": "CL07-SCI-08",
           "name": "Measurement of Time and Motion",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand time and motion",
             "Measure speed and distance",
             "Interpret simple motion examples"
@@ -2063,8 +2081,9 @@
           "code": "CL07-SCI-09",
           "name": "Life Processes in Animals",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand essential life processes in animals",
             "Learn how animals obtain and use energy",
             "Relate life processes to survival"
@@ -2185,8 +2204,9 @@
           "code": "CL07-SCI-10",
           "name": "Life Processes in Plants",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand how plants make and use food",
             "Learn transport of substances in plants",
             "Relate plant processes to ecosystem balance"
@@ -2305,8 +2325,9 @@
           "code": "CL07-SCI-11",
           "name": "Light: Shadows and Reflections",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand light and its propagation",
             "Explain formation of shadows",
             "Learn reflection of light and images"
@@ -2426,8 +2447,9 @@
           "code": "CL07-SCI-12",
           "name": "Earth, Moon, and the Sun",
 
-                "enabled": true,
-      "meta": {}, "agenda": [
+          "enabled": true,
+          "meta": {},
+          "agenda": [
             "Understand Earth’s movements",
             "Learn phases of the Moon",
             "Explore the Sun–Earth–Moon relationship"

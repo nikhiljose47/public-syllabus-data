@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "generatedAt": "2026-01-18T10:00:00Z",
 
   "ui": {
@@ -8,97 +8,25 @@
     "showIntroVideo": true
   },
 
-  "groupsBySubject": ["music", "school-class", "coding"],
+  "groups": [
+    "school-class",
+    "exam-jam",
+    "wellness",
+    "music",
+    "coding",
+    "aptitude"
+  ],
 
-  "classes": [
-    {
-      "id": "CL01",
-      "group": "school-class",
-      "label": "Class 1",
-      "enabled": false,
-      "ready": true,
-      "priority": 1,
-      "fileName": "syllabus-class-1.json",
-      "availableFrom": "2026-01-01T00:00:00Z",
-      "meta": {
-        "students": 120,
-        "teachers": 4,
-        "medium": ["EN", "HI"],
-        "image": "/assets/class-card-covers/class1-cover.webp"
-      }
-    },
-    {
-      "id": "CL02",
-      "group": "school-class",
-      "label": "Class 2",
-      "enabled": false,
-      "ready": true,
-      "priority": 2,
-      "fileName": "syllabus-class-2.json",
-      "availableFrom": "2026-01-01T00:00:00Z",
-      "meta": {
-        "students": 160,
-        "teachers": 5,
-        "medium": ["EN"],
-        "image": "/assets/class-card-covers/class2-cover.webp"
-      }
-    },
-    {
-      "id": "CL03",
-      "group": "school-class",
-      "label": "Class 3",
-      "enabled": false,
-      "ready": false,
-      "priority": 3,
-      "fileName": "syllabus-class-3.json",
-      "availableFrom": "2026-01-01T00:00:00Z",
-      "meta": {
-        "students": 0,
-        "teachers": 0,
-        "medium": ["HI"],
-        "image": "/assets/class-card-covers/class3-cover.webp"
-      }
-    },
-    {
-      "id": "CL04",
-      "group": "school-class",
-      "label": "Class 4",
-      "enabled": false,
-      "ready": false,
-      "priority": 4,
-      "fileName": "syllabus-class-4.json",
-      "availableFrom": "2026-01-01T00:00:00Z",
-      "meta": {
-        "students": 0,
-        "teachers": 0,
-        "medium": ["HI"],
-        "image": "/assets/class-card-covers/class4-cover.webp"
-      }
-    },
-    {
-      "id": "CL05",
-      "group": "school-class",
-      "label": "Class 5",
-      "enabled": false,
-      "ready": false,
-      "priority": 4,
-      "fileName": "syllabus-class-5.json",
-      "availableFrom": "2026-01-01T00:00:00Z",
-      "meta": {
-        "students": 0,
-        "teachers": 0,
-        "medium": ["HI"],
-        "image": "/assets/class-card-covers/class5-cover.webp"
-      }
-    },
+  "catalog": [
     {
       "id": "CL06",
+      "type": "class",
       "group": "school-class",
-      "label": "Class 6",
-      "enabled": false,
-      "ready": false,
-      "priority": 4,
-      "fileName": "syllabus-class-6.json",
+      "title": "Class 6",
+      "enabled": true,
+      "ready": true,
+      "priority": 1,
+      "file": "syllabus-class-6.json",
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -109,12 +37,13 @@
     },
     {
       "id": "CL07",
+      "type": "class",
       "group": "school-class",
-      "label": "Class 7",
+      "title": "Class 7",
       "enabled": true,
       "ready": true,
-      "priority": 4,
-      "fileName": "syllabus-class-7.json",
+      "priority": 1,
+      "file": "syllabus-class-7.json",
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -125,12 +54,13 @@
     },
     {
       "id": "CL08",
+      "type": "class",
       "group": "school-class",
-      "label": "Class 8",
+      "title": "Class 8",
       "enabled": true,
       "ready": true,
-      "priority": 4,
-      "fileName": "syllabus-class-8.json",
+      "priority": 2,
+      "file": "syllabus-class-8.json",
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -141,12 +71,13 @@
     },
     {
       "id": "CL09",
+      "type": "class",
       "group": "school-class",
-      "label": "Class 9",
+      "title": "Class 9",
       "enabled": true,
       "ready": true,
-      "priority": 4,
-      "fileName": "syllabus-class-9.json",
+      "priority": 3,
+      "file": "syllabus-class-9.json",
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -157,12 +88,13 @@
     },
     {
       "id": "CL10",
+      "type": "class",
       "group": "school-class",
-      "label": "Class 10",
+      "title": "Class 10",
       "enabled": true,
       "ready": true,
       "priority": 4,
-      "fileName": "syllabus-class-10.json",
+      "file": "syllabus-class-10.json",
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -170,20 +102,19 @@
         "medium": ["HI"],
         "image": "/assets/class-card-covers/class10-cover.webp"
       }
-    }
-  ],
+    },
 
-  "jamSessions": [
     {
       "id": "jam101",
+      "type": "exam",
       "group": "exam-jam",
       "title": "GATE Rapid JAM",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "isLive": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 1,
-      "fileName": "syllabus-gate.json",
+      "file": "syllabus-gate.json",
       "meta": {
         "teacher": "Prof. Rao",
         "language": ["EN"],
@@ -192,42 +123,47 @@
     },
     {
       "id": "jam202",
+      "type": "exam",
       "group": "exam-jam",
       "title": "CAT Quant JAM",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "isLive": false,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 2,
-      "fileName": "syllabus-cat.json",
+      "file": "syllabus-cat.json",
       "meta": {
         "teacher": "Ananya",
         "language": ["HI"],
         "image": "/assets/fam-problem.jpg"
       }
-    }
-  ],
-  "activities": [
+    },
+
     {
       "id": "act101",
-      "group": "wellness-activity",
+      "type": "activity",
+      "group": "wellness",
       "title": "Yoga Activity",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 1,
-      "fileName": "syllabus-yoga.json",
-      "meta": { "teacher": "Prof. Rao", "image": "/assets/fam-problem.jpg" }
+      "file": "syllabus-yoga.json",
+      "meta": {
+        "teacher": "Prof. Rao",
+        "image": "/assets/fam-problem.jpg"
+      }
     },
     {
       "id": "act202",
+      "type": "activity",
       "group": "music",
       "title": "Violin Activity",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 2,
-      "fileName": "syllabus-violin.json",
+      "file": "syllabus-violin.json",
       "meta": {
         "teacher": "Ananya",
         "image": "/assets/class-card-covers/general-aptitude-cover.webp"
@@ -235,13 +171,14 @@
     },
     {
       "id": "act303",
-      "group": "coding-activity",
+      "type": "activity",
+      "group": "coding",
       "title": "Coding Tips & Talk",
       "enabled": true,
       "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 3,
-      "fileName": "syllabus-coding-gen.json",
+      "file": "syllabus-coding-gen.json",
       "meta": {
         "teacher": "Nikhil",
         "image": "/assets/class-card-covers/coding-gen-cover.webp"
@@ -249,13 +186,14 @@
     },
     {
       "id": "act304",
-      "group": "aptitude-activity",
+      "type": "activity",
+      "group": "aptitude",
       "title": "General Aptitude",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
-      "priority": 3,
-      "fileName": "syllabus-ga.json",
+      "priority": 4,
+      "file": "syllabus-ga.json",
       "meta": {
         "teacher": "Nikhil",
         "image": "/assets/class-card-covers/general-aptitude-cover.webp"
