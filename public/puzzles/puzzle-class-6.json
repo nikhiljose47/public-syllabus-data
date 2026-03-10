@@ -1,0 +1,186 @@
+{
+  "classId": "CL06",
+  "className": "Class 6",
+  "board": "CBSE",
+  "version": 1,
+  "generatedAt": "2026-03-08T10:30:00Z",
+  "status": "active",
+
+  "subjects": [
+    {
+      "subjectId": "MATH",
+      "subjectName": "Mathematics",
+      "chapters": [
+        {
+          "chapterId": "CL06-MATH-01",
+          "chapterName": "Patterns in Mathematics",
+          "chapterOrder": 1,
+          "difficultyWeight": 1,
+          "puzzles": [
+            {
+              "id": "CL06_MATH_PAT_001",
+              "level": 1,
+              "question": "Find the next number: 2, 4, 6, 8, ?",
+              "options": ["9", "10", "12", "11"],
+              "correctIndex": 1,
+              "difficulty": "easy",
+              "marks": 1,
+              "estimatedTimeSec": 30,
+              "unlockAfterChapter": 1,
+              "active": true
+            },
+            {
+              "id": "CL06_MATH_PAT_002",
+              "level": 1,
+              "question": "Find the next number: 5, 10, 15, ?",
+              "options": ["18", "20", "25", "30"],
+              "correctIndex": 1,
+              "difficulty": "easy",
+              "marks": 1,
+              "estimatedTimeSec": 30,
+              "unlockAfterChapter": 1,
+              "active": true
+            }
+          ]
+        },
+
+        {
+          "chapterId": "CL06-MATH-02",
+          "chapterName": "Lines and Angles",
+          "chapterOrder": 2,
+          "difficultyWeight": 1,
+          "puzzles": [
+            {
+              "id": "CL06_MATH_LA_001",
+              "level": 1,
+              "question": "How many degrees are in a straight angle?",
+              "options": ["90", "180", "270", "360"],
+              "correctIndex": 1,
+              "difficulty": "easy",
+              "marks": 1,
+              "estimatedTimeSec": 30,
+              "unlockAfterChapter": 2,
+              "active": true
+            }
+          ]
+        },
+
+        {
+          "chapterId": "CL06-MATH-03",
+          "chapterName": "Number Play",
+          "chapterOrder": 3,
+          "difficultyWeight": 1,
+          "puzzles": [
+            {
+              "id": "CL06_MATH_NUM_001",
+              "level": 1,
+              "question": "Which of the following is an even number?",
+              "options": ["13", "17", "20", "21"],
+              "correctIndex": 2,
+              "difficulty": "easy",
+              "marks": 1,
+              "estimatedTimeSec": 25,
+              "unlockAfterChapter": 3,
+              "active": true
+            }
+          ]
+        },
+
+        {
+          "chapterId": "CL06-MATH-05",
+          "chapterName": "Prime Time",
+          "chapterOrder": 5,
+          "difficultyWeight": 2,
+          "puzzles": [
+            {
+              "id": "CL06_MATH_PRIME_001",
+              "level": 2,
+              "question": "Which of the following is a prime number?",
+              "options": ["21", "29", "35", "39"],
+              "correctIndex": 1,
+              "difficulty": "medium",
+              "marks": 1,
+              "estimatedTimeSec": 35,
+              "unlockAfterChapter": 5,
+              "active": true
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "subjectId": "SCI",
+      "subjectName": "Science",
+      "chapters": [
+        {
+          "chapterId": "CL06-SCI-01",
+          "chapterName": "The Wonderful World of Science",
+          "chapterOrder": 1,
+          "difficultyWeight": 1,
+          "puzzles": [
+            {
+              "id": "CL06_SCI_WWS_001",
+              "level": 1,
+              "question": "Science helps us understand:",
+              "options": [
+                "Only machines",
+                "The natural world",
+                "Only plants",
+                "Only animals"
+              ],
+              "correctIndex": 1,
+              "difficulty": "easy",
+              "marks": 1,
+              "estimatedTimeSec": 25,
+              "unlockAfterChapter": 1,
+              "active": true
+            }
+          ]
+        },
+
+        {
+          "chapterId": "CL06-SCI-04",
+          "chapterName": "Exploring Magnets",
+          "chapterOrder": 4,
+          "difficultyWeight": 1,
+          "puzzles": [
+            {
+              "id": "CL06_SCI_MAG_001",
+              "level": 1,
+              "question": "Magnets attract which material?",
+              "options": ["Wood", "Plastic", "Iron", "Glass"],
+              "correctIndex": 2,
+              "difficulty": "easy",
+              "marks": 1,
+              "estimatedTimeSec": 25,
+              "unlockAfterChapter": 4,
+              "active": true
+            }
+          ]
+        },
+
+        {
+          "chapterId": "CL06-SCI-07",
+          "chapterName": "Temperature and its Measurement",
+          "chapterOrder": 7,
+          "difficultyWeight": 2,
+          "puzzles": [
+            {
+              "id": "CL06_SCI_TEMP_001",
+              "level": 2,
+              "question": "Which instrument measures temperature?",
+              "options": ["Barometer", "Thermometer", "Speedometer", "Hygrometer"],
+              "correctIndex": 1,
+              "difficulty": "easy",
+              "marks": 1,
+              "estimatedTimeSec": 25,
+              "unlockAfterChapter": 7,
+              "active": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

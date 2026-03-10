@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "generatedAt": "2026-01-18T10:00:00Z",
 
   "ui": {
@@ -8,20 +8,34 @@
     "showIntroVideo": true
   },
 
+  "primaryGroups": [
+    "school",
+    "exam-prep",
+    "coding",
+    "language",
+    "arts",
+    "career",
+    "skills",
+    "aptitude",
+    "music"
+  ],
+
   "groups": [
     "school-class",
     "exam-jam",
     "wellness",
     "music",
     "coding",
-    "aptitude"
+    "aptitude",
+    "coding classes for kids"
   ],
 
   "catalog": [
     {
       "id": "CL06",
       "type": "class",
-      "group": "school-class",
+      "primaryGroup": "school",
+      "groups": ["school-class"],
       "title": "Class 6",
       "enabled": true,
       "ready": true,
@@ -38,7 +52,8 @@
     {
       "id": "CL07",
       "type": "class",
-      "group": "school-class",
+      "primaryGroup": "school",
+      "groups": ["school-class"],
       "title": "Class 7",
       "enabled": true,
       "ready": true,
@@ -55,7 +70,8 @@
     {
       "id": "CL08",
       "type": "class",
-      "group": "school-class",
+      "primaryGroup": "school",
+      "groups": ["school-class"],
       "title": "Class 8",
       "enabled": true,
       "ready": true,
@@ -72,7 +88,8 @@
     {
       "id": "CL09",
       "type": "class",
-      "group": "school-class",
+      "primaryGroup": "school",
+      "groups": ["school-class"],
       "title": "Class 9",
       "enabled": true,
       "ready": true,
@@ -89,7 +106,8 @@
     {
       "id": "CL10",
       "type": "class",
-      "group": "school-class",
+      "primaryGroup": "school",
+      "groups": ["school-class"],
       "title": "Class 10",
       "enabled": true,
       "ready": true,
@@ -107,7 +125,8 @@
     {
       "id": "jam101",
       "type": "exam",
-      "group": "exam-jam",
+      "primaryGroup": "exam-prep",
+      "groups": ["exam-jam"],
       "title": "GATE Rapid JAM",
       "enabled": false,
       "ready": true,
@@ -124,7 +143,8 @@
     {
       "id": "jam202",
       "type": "exam",
-      "group": "exam-jam",
+      "primaryGroup": "exam-prep",
+      "groups": ["exam-jam"],
       "title": "CAT Quant JAM",
       "enabled": false,
       "ready": true,
@@ -142,7 +162,8 @@
     {
       "id": "act101",
       "type": "activity",
-      "group": "wellness",
+      "primaryGroup": "skills",
+      "groups": ["wellness"],
       "title": "Yoga Activity",
       "enabled": false,
       "ready": true,
@@ -157,7 +178,8 @@
     {
       "id": "act202",
       "type": "activity",
-      "group": "music",
+      "primaryGroup": "music",
+      "groups": ["music"],
       "title": "Violin Activity",
       "enabled": false,
       "ready": true,
@@ -172,7 +194,8 @@
     {
       "id": "act303",
       "type": "activity",
-      "group": "coding",
+      "primaryGroup": "coding",
+      "groups": ["coding classes for kids"],
       "title": "Coding Tips & Talk",
       "enabled": true,
       "ready": true,
@@ -187,7 +210,8 @@
     {
       "id": "act304",
       "type": "activity",
-      "group": "aptitude",
+      "primaryGroup": "aptitude",
+      "groups": ["aptitude"],
       "title": "General Aptitude",
       "enabled": false,
       "ready": true,
