@@ -1,13 +1,12 @@
 {
-  "name": "Coding",
-  "code": "GEN-CODING",
-  "syllabus_year": "2025",
+  "classId": "COD-STUDENTS",
+  "className": "Coding Class for Students",
+  "syllabus_year": "2026",
   "source": "Instructor Designed / Skill-Based Curriculum",
-
   "subjects": [
     {
       "name": "Coding Bootcamp",
-      "code": "GEN-CODING-01",
+      "code": "COD-STUDENTS-S1",
       "enabled": true,
       "meta": {
         "level": "beginner",
@@ -16,7 +15,7 @@
       },
       "chapters": [
         {
-          "code": "GEN-CODING-01",
+          "code": "COD-STUDENTS-S1-01",
           "name": "Introduction to Computers and Programming",
           "enabled": true,
           "meta": {
@@ -66,7 +65,7 @@
           "division_count": 1,
           "divisions": [
             {
-              "code": "GEN-CODING-01-A",
+              "code": "COD-STUDENTS-S1-01-A",
               "name": "What is Coding?",
               "conceptual_understanding": [
                 "Computers follow clear step-by-step instructions",
@@ -86,7 +85,7 @@
           ]
         },
         {
-          "code": "GEN-CODING-02",
+          "code": "COD-STUDENTS-S1-02",
           "name": "Basics of Algorithms and Flowcharts",
           "enabled": true,
           "meta": {
@@ -136,7 +135,7 @@
           "division_count": 1,
           "divisions": [
             {
-              "code": "GEN-CODING-02-A",
+              "code": "COD-STUDENTS-S1-02-A",
               "name": "Designing Simple Algorithms",
               "conceptual_understanding": [
                 "Algorithms must be clear, ordered, and finite",
@@ -157,7 +156,7 @@
         },
 
         {
-          "code": "GEN-CODING-03",
+          "code": "COD-STUDENTS-S1-03",
           "name": "Getting Started with Programming",
           "enabled": true,
           "meta": {
@@ -207,7 +206,7 @@
           "division_count": 1,
           "divisions": [
             {
-              "code": "GEN-CODING-03-A",
+              "code": "COD-STUDENTS-S1-03-A",
               "name": "Variables, Input and Output",
               "conceptual_understanding": [
                 "Programs store values using variables",
@@ -227,7 +226,7 @@
           ]
         },
         {
-          "code": "GEN-CODING-04",
+          "code": "COD-STUDENTS-S1-04",
           "name": "Decision Making and Loops",
           "enabled": true,
           "meta": {
@@ -277,7 +276,7 @@
           "division_count": 1,
           "divisions": [
             {
-              "code": "GEN-CODING-04-A",
+              "code": "COD-STUDENTS-S1-04-A",
               "name": "Conditions and Repetition",
               "conceptual_understanding": [
                 "Programs make decisions using logical conditions",
@@ -298,7 +297,7 @@
         },
 
         {
-          "code": "GEN-CODING-05",
+          "code": "COD-STUDENTS-S1-05",
           "name": "Mini Project and Creative Coding",
           "enabled": true,
           "meta": {
@@ -348,7 +347,7 @@
           "division_count": 1,
           "divisions": [
             {
-              "code": "GEN-CODING-05-A",
+              "code": "COD-STUDENTS-S1-05-A",
               "name": "Build and Present a Project",
               "conceptual_understanding": [
                 "Projects combine logic, syntax, and creativity",

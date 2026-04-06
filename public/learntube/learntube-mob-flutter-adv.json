@@ -1,0 +1,125 @@
+{
+  "id": "mob-flutter-adv",
+  "primaryGroup": "coding",
+  "groups": ["beginner-programming"],
+  "title": "Flutter Mastery: Build Real Apps",
+  "enabled": true,
+  "ready": true,
+  "startsAt": "2026-01-01T00:00:00Z",
+  "priority": 3,
+  "meta": {
+    "teacher": "Nikhil",
+    "image": "/assets/class-card-covers/coding-flutter-advcover.webp"
+  },
+  "content": {
+    "slideSets": [
+      {
+        "setId": "01",
+        "level": "beginner",
+        "order": 1,
+        "slides": [
+          { "type": "intro", "data": { "title": "Flutter Development", "date": "Getting Started" } },
+          { "type": "text", "data": { "heading": "What is Flutter?", "desc": "UI toolkit for building cross-platform apps." } },
+          { "type": "bullet", "data": { "title": "Why Flutter?", "points": ["Single codebase", "Fast performance", "Hot reload", "Rich UI"] } }
+        ],
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "What is Flutter?",
+              "options": [
+                "Backend framework",
+                "UI toolkit",
+                "Database",
+                "Operating system"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "id": "q2",
+              "question": "Key benefit of Flutter?",
+              "options": [
+                "Multiple codebases",
+                "Slow performance",
+                "Single codebase",
+                "Only web support"
+              ],
+              "correctIndex": 2
+            }
+          ]
+        }
+      },
+      {
+        "setId": "02",
+        "level": "intermediate",
+        "order": 2,
+        "slides": [
+          { "type": "text", "data": { "heading": "Project Structure", "desc": "lib/, widgets, services separation." } },
+          { "type": "bullet", "data": { "title": "Core Concepts", "points": ["Widgets tree", "State", "Navigation"] } },
+          { "type": "split", "data": { "left": { "name": "StatelessWidget", "role": "Static UI" }, "right": { "name": "StatefulWidget", "role": "Dynamic UI" } } }
+        ],
+        "quiz": {
+          "type": "mixed",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which widget is dynamic?",
+              "options": ["StatelessWidget", "StatefulWidget"],
+              "correctIndex": 1
+            },
+            {
+              "id": "q2",
+              "type": "puzzle",
+              "question": "Arrange flow:",
+              "items": ["Build", "Widget Tree", "Render"],
+              "correctOrder": [1, 0, 2]
+            }
+          ]
+        }
+      },
+      {
+        "setId": "03",
+        "level": "advanced",
+        "order": 3,
+        "slides": [
+          { "type": "text", "data": { "heading": "State Management", "desc": "Provider, Riverpod, BLoC." } },
+          { "type": "bullet", "data": { "title": "App Features", "points": ["API integration", "Firebase auth", "Local storage"] } },
+          { "type": "image", "data": { "image": "https://picsum.photos/400/300", "caption": "Flutter UI Layout" } }
+        ],
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which is state management?",
+              "options": ["Provider", "HTTP", "CSS", "HTML"],
+              "correctIndex": 0
+            }
+          ]
+        }
+      },
+      {
+        "setId": "04",
+        "level": "pro",
+        "order": 4,
+        "slides": [
+          { "type": "text", "data": { "heading": "Performance", "desc": "Optimization, lazy loading, isolates." } },
+          { "type": "bullet", "data": { "title": "Production", "points": ["CI/CD", "Crashlytics", "Analytics"] } },
+          { "type": "text", "data": { "heading": "Goal", "desc": "Build and ship real-world scalable apps." } }
+        ],
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "What improves performance?",
+              "options": ["Lazy loading", "More rebuilds", "Inline everything"],
+              "correctIndex": 0
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

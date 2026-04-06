@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-03-20",
+  "files": [
+    {
+      "classId": "CL10",
+      "subjectCode": "math",
+      "file": "puzzles/cl10/math.json"
+    },
+    {
+      "classId": "coding_beginner",
+      "subjectCode": "logic",
+      "file": "puzzles/coding_beginner/logic.json"
+    }
+  ]
+}

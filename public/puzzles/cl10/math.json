@@ -1,0 +1,23 @@
+{
+  "classId": "cl10",
+  "subjectCode": "math",
+  "puzzles": [
+    {
+      "id": "pz_001",
+      "chapterCode": "ch_1",
+      "divisionCode": "div_1",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question": "What is 2 + 2?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4",
+      "explanation": "Basic addition",
+      "points": 5,
+      "tags": ["foundation"],
+      "meta": {
+        "timeSec": 30,
+        "attemptLimit": 2
+      }
+    }
+  ]
+}

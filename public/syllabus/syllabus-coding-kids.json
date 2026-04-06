@@ -1,0 +1,1247 @@
+{
+  "classId": "COD-KIDS",
+  "className": "Coding for Kids",
+  "syllabus_year": "2026",
+  "source": "Instructor Designed / Kids Creative Coding Curriculum",
+  "subjects": [
+    {
+      "name": "Fun Coding for Kids",
+      "code": "COD-KIDS-S1",
+      "enabled": true,
+      "meta": {
+        "level": "kids-beginner",
+        "category": "technology",
+        "duration_months": 6
+      },
+      "chapters": [
+        {
+          "code": "COD-KIDS-S1-01",
+          "name": "What is Coding? (Understanding Through Games)",
+          "enabled": true,
+          "meta": {
+            "focus": "basic idea of coding",
+            "type": "conceptual + activity",
+            "assessment": "discussion + activity"
+          },
+          "agenda": [
+            "Understand what coding means",
+            "Discover how apps and games are created",
+            "Learn that computers follow instructions"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Show examples of games, robots, and apps controlled by coding"
+            },
+            {
+              "type": "activity",
+              "text": "Students give step-by-step instructions to a teacher acting as a robot"
+            }
+          ],
+          "teacher_aids": [
+            "Slides of games and apps",
+            "Robot instruction activity cards",
+            "Whiteboard examples"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.4,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "kids_coding_intro_01",
+              "name": "Kids learning coding with computers",
+              "src": "https://example.com/kids-coding.png",
+              "relevant": "Shows kids creating games using coding"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-01-A",
+              "name": "Coding in Everyday Life",
+              "conceptual_understanding": [
+                "Coding helps build games, apps, and websites",
+                "Technology around us works because of programming"
+              ],
+              "student_can_achieve": [
+                "Explain what coding is",
+                "Identify things built using coding"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "discussion",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-S1-01-B",
+              "name": "Giving Instructions Like a Robot",
+              "conceptual_understanding": [
+                "Computers follow clear instructions",
+                "Instructions must be step-by-step"
+              ],
+              "student_can_achieve": [
+                "Create simple instructions",
+                "Understand logical order of actions"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "activity",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-02",
+          "name": "Learning Logic with Fun Activities",
+          "enabled": true,
+          "meta": {
+            "focus": "logical thinking",
+            "type": "activity-based",
+            "assessment": "logic puzzles"
+          },
+          "agenda": [
+            "Build logical thinking skills",
+            "Solve fun puzzles",
+            "Learn problem solving"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain simple logic puzzles and patterns"
+            },
+            {
+              "type": "activity",
+              "text": "Students solve pattern and sequence puzzles"
+            }
+          ],
+          "teacher_aids": [
+            "Puzzle worksheets",
+            "Pattern cards",
+            "Group discussion board"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.2,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.2,
+            "practical": 0.5,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "logic_puzzle_kids_01",
+              "name": "Kids solving logic puzzles",
+              "src": "https://example.com/kids-logic.png",
+              "relevant": "Shows logical thinking through puzzles"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-02-A",
+              "name": "Patterns and Sequences",
+              "conceptual_understanding": [
+                "Patterns help predict what comes next",
+                "Logic is used to recognize sequences"
+              ],
+              "student_can_achieve": [
+                "Identify patterns",
+                "Complete sequences logically"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "activity",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-02-B",
+              "name": "Problem Solving with Logic",
+              "conceptual_understanding": [
+                "Problems can be solved step-by-step",
+                "Logic helps find the correct solution"
+              ],
+              "student_can_achieve": [
+                "Solve simple logical puzzles",
+                "Explain their reasoning"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "problem-solving",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        }
+                ,
+        {
+          "code": "COD-KIDS-S1-03",
+          "name": "Algorithms for Kids (Step-by-Step Thinking)",
+          "enabled": true,
+          "meta": {
+            "focus": "algorithmic thinking",
+            "type": "conceptual + activity",
+            "assessment": "activity + worksheet"
+          },
+          "agenda": [
+            "Understand what an algorithm is",
+            "Learn step-by-step thinking",
+            "Create algorithms for daily activities"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain algorithms using everyday examples like brushing teeth or making a sandwich"
+            },
+            {
+              "type": "activity",
+              "text": "Students write step-by-step instructions for making a sandwich"
+            }
+          ],
+          "teacher_aids": [
+            "Algorithm cards",
+            "Daily activity worksheets",
+            "Whiteboard demonstrations"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.3,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.3,
+            "practical": 0.4,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "kids_algorithm_01",
+              "name": "Step by step instructions illustration",
+              "src": "https://example.com/kids-algorithm.png",
+              "relevant": "Shows step-by-step process visually"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-03-A",
+              "name": "What is an Algorithm?",
+              "conceptual_understanding": [
+                "Algorithms are step-by-step instructions",
+                "Clear steps help solve problems"
+              ],
+              "student_can_achieve": [
+                "Explain algorithm in simple words",
+                "Write instructions for simple tasks"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "conceptual",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-03-B",
+              "name": "Creating Algorithms",
+              "conceptual_understanding": [
+                "Good algorithms must be clear and ordered",
+                "Each step must be easy to follow"
+              ],
+              "student_can_achieve": [
+                "Write an algorithm for daily activities",
+                "Understand logical order of steps"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "activity",
+                "exam_weight": "low"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-04",
+          "name": "Introduction to Flowcharts",
+          "enabled": true,
+          "meta": {
+            "focus": "visual programming logic",
+            "type": "conceptual + drawing",
+            "assessment": "drawing worksheet"
+          },
+          "agenda": [
+            "Understand flowcharts",
+            "Learn basic flowchart symbols",
+            "Draw flowcharts for simple tasks"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce flowchart symbols like start, process, and decision"
+            },
+            {
+              "type": "activity",
+              "text": "Students draw a flowchart for brushing teeth or preparing breakfast"
+            }
+          ],
+          "teacher_aids": [
+            "Flowchart symbol chart",
+            "Drawing worksheets",
+            "Projector demonstrations"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.35,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.3,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.35,
+            "practical": 0.4,
+            "discussion": 0.25
+          },
+          "image_assets": [
+            {
+              "id": "kids_flowchart_01",
+              "name": "Simple flowchart diagram",
+              "src": "https://example.com/kids-flowchart.png",
+              "relevant": "Shows simple logic steps visually"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-04-A",
+              "name": "Understanding Flowchart Symbols",
+              "conceptual_understanding": [
+                "Flowcharts use symbols to show steps",
+                "Arrows connect steps logically"
+              ],
+              "student_can_achieve": [
+                "Identify flowchart symbols",
+                "Understand how logic flows"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "theory",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-04-B",
+              "name": "Drawing Simple Flowcharts",
+              "conceptual_understanding": [
+                "Flowcharts visually explain algorithms",
+                "Visual diagrams help understand programs"
+              ],
+              "student_can_achieve": [
+                "Draw simple flowcharts",
+                "Explain logical steps using diagrams"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "drawing + activity",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-05",
+          "name": "Block Programming (Game Style Coding)",
+          "enabled": true,
+          "meta": {
+            "focus": "visual programming",
+            "type": "practical",
+            "assessment": "hands-on activity"
+          },
+          "agenda": [
+            "Learn coding using visual blocks",
+            "Understand commands and actions",
+            "Create simple animations"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Introduce block programming tools like Scratch style interfaces"
+            },
+            {
+              "type": "activity",
+              "text": "Students drag and connect blocks to move a character"
+            }
+          ],
+          "teacher_aids": [
+            "Computer with block coding tool",
+            "Scratch examples",
+            "Projector demonstrations"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.2,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.2,
+            "practical": 0.6,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "kids_block_coding_01",
+              "name": "Block coding interface",
+              "src": "https://example.com/block-coding.png",
+              "relevant": "Shows drag-and-drop coding blocks"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-05-A",
+              "name": "Understanding Coding Blocks",
+              "conceptual_understanding": [
+                "Blocks represent commands",
+                "Connecting blocks creates a program"
+              ],
+              "student_can_achieve": [
+                "Recognize coding blocks",
+                "Combine blocks to form logic"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "visual learning",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-05-B",
+              "name": "Animating Characters",
+              "conceptual_understanding": [
+                "Programs control movement and actions",
+                "Animations are created using sequences"
+              ],
+              "student_can_achieve": [
+                "Create simple animations",
+                "Control character movements"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        }
+                ,
+        {
+          "code": "COD-KIDS-S1-06",
+          "name": "Creating Animations with Code",
+          "enabled": true,
+          "meta": {
+            "focus": "creative coding",
+            "type": "practical",
+            "assessment": "animation activity"
+          },
+          "agenda": [
+            "Understand how animations are created",
+            "Control character movement",
+            "Use sequences to create simple animations"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Show how characters can move using block commands"
+            },
+            {
+              "type": "activity",
+              "text": "Students create a short animation of a character walking or jumping"
+            }
+          ],
+          "teacher_aids": [
+            "Scratch animation examples",
+            "Projector demonstration",
+            "Animation worksheets"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.2,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.2,
+            "practical": 0.6,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "kids_animation_01",
+              "name": "Character animation example",
+              "src": "https://example.com/kids-animation.png",
+              "relevant": "Shows characters moving through coding"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-06-A",
+              "name": "Moving Characters",
+              "conceptual_understanding": [
+                "Programs control characters in games and animations",
+                "Movement commands control direction and speed"
+              ],
+              "student_can_achieve": [
+                "Move a character using code blocks",
+                "Create a simple animated scene"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-06-B",
+              "name": "Creating Story Animations",
+              "conceptual_understanding": [
+                "Animations can tell stories",
+                "Multiple actions can create scenes"
+              ],
+              "student_can_achieve": [
+                "Build a short animated story",
+                "Combine movement and dialogue"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "creative coding",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-07",
+          "name": "Introduction to Game Logic",
+          "enabled": true,
+          "meta": {
+            "focus": "game mechanics",
+            "type": "logical + practical",
+            "assessment": "mini game activity"
+          },
+          "agenda": [
+            "Understand how games work",
+            "Learn about events and actions",
+            "Create a simple interactive game"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain how games react to user input like key presses"
+            },
+            {
+              "type": "activity",
+              "text": "Students create a simple game where a character moves when a key is pressed"
+            }
+          ],
+          "teacher_aids": [
+            "Game demo projects",
+            "Interactive coding environment",
+            "Game design worksheets"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.2,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.2,
+            "practical": 0.6,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "kids_game_logic_01",
+              "name": "Simple kids game interface",
+              "src": "https://example.com/kids-game.png",
+              "relevant": "Shows interactive coding game"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-07-A",
+              "name": "Events and Actions",
+              "conceptual_understanding": [
+                "Games react to player actions",
+                "Events trigger program behavior"
+              ],
+              "student_can_achieve": [
+                "Use events like key press or click",
+                "Connect events to actions"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "interactive coding",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-07-B",
+              "name": "Building a Simple Game",
+              "conceptual_understanding": [
+                "Games combine movement, logic, and interaction",
+                "Game design requires creativity and logic"
+              ],
+              "student_can_achieve": [
+                "Create a basic playable game",
+                "Understand simple game mechanics"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 50,
+              "meta": {
+                "nature": "project activity",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-08",
+          "name": "Using Conditions in Games",
+          "enabled": true,
+          "meta": {
+            "focus": "decision making",
+            "type": "logical + practical",
+            "assessment": "coding exercise"
+          },
+          "agenda": [
+            "Learn how programs make decisions",
+            "Use conditions in games",
+            "Add score or rules to a game"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain conditions using real-life examples like traffic lights"
+            },
+            {
+              "type": "activity",
+              "text": "Students add scoring or win/lose conditions to their game"
+            }
+          ],
+          "teacher_aids": [
+            "Conditional logic diagrams",
+            "Coding examples",
+            "Practice worksheets"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.25,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.25,
+            "practical": 0.55,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "kids_condition_logic_01",
+              "name": "Game decision logic diagram",
+              "src": "https://example.com/kids-condition.png",
+              "relevant": "Shows how programs make decisions"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-08-A",
+              "name": "Understanding Conditions",
+              "conceptual_understanding": [
+                "Programs use conditions to make decisions",
+                "If something happens then the program reacts"
+              ],
+              "student_can_achieve": [
+                "Understand if-then logic",
+                "Use conditions in simple programs"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "conceptual + coding",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-08-B",
+              "name": "Game Rules and Scores",
+              "conceptual_understanding": [
+                "Conditions help control game rules",
+                "Programs can track scores and outcomes"
+              ],
+              "student_can_achieve": [
+                "Add scoring systems",
+                "Create win or lose conditions"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 50,
+              "meta": {
+                "nature": "game coding",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        }
+                ,
+        {
+          "code": "COD-KIDS-S1-09",
+          "name": "Repeating Actions with Loops",
+          "enabled": true,
+          "meta": {
+            "focus": "loops and repetition",
+            "type": "logical + practical",
+            "assessment": "coding exercise"
+          },
+          "agenda": [
+            "Understand repeating actions in programs",
+            "Learn how loops simplify coding",
+            "Create animations using repetition"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain loops using real-life examples like clapping 10 times or jumping repeatedly"
+            },
+            {
+              "type": "activity",
+              "text": "Students create animations where characters repeat movements using loops"
+            }
+          ],
+          "teacher_aids": [
+            "Loop concept slides",
+            "Coding demo examples",
+            "Practice worksheets"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.25,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.25,
+            "practical": 0.55,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "kids_loops_01",
+              "name": "Loop diagram",
+              "src": "https://example.com/kids-loops.png",
+              "relevant": "Shows repeating actions in programs"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-09-A",
+              "name": "Understanding Loops",
+              "conceptual_understanding": [
+                "Loops repeat actions automatically",
+                "Programs become shorter using loops"
+              ],
+              "student_can_achieve": [
+                "Identify repeating patterns",
+                "Use loops in simple programs"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "conceptual + coding",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-09-B",
+              "name": "Loop Animations",
+              "conceptual_understanding": [
+                "Loops can create continuous animation",
+                "Repeated commands create motion effects"
+              ],
+              "student_can_achieve": [
+                "Create animations using loops",
+                "Build repeating character actions"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "practical coding",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-10",
+          "name": "Debugging and Fixing Programs",
+          "enabled": true,
+          "meta": {
+            "focus": "problem solving",
+            "type": "practical",
+            "assessment": "debugging challenge"
+          },
+          "agenda": [
+            "Understand that programs can have mistakes",
+            "Learn how to find and fix errors",
+            "Improve logical thinking"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Show examples of simple coding mistakes and how to correct them"
+            },
+            {
+              "type": "activity",
+              "text": "Students debug a broken animation or small game"
+            }
+          ],
+          "teacher_aids": [
+            "Debugging example projects",
+            "Error challenge worksheets",
+            "Coding sandbox"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.2,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.2,
+            "practical": 0.6,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "kids_debugging_01",
+              "name": "Debugging concept illustration",
+              "src": "https://example.com/kids-debug.png",
+              "relevant": "Shows fixing mistakes in code"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-10-A",
+              "name": "Finding Errors",
+              "conceptual_understanding": [
+                "Programs may not work because of small mistakes",
+                "Logical checking helps identify errors"
+              ],
+              "student_can_achieve": [
+                "Recognize program mistakes",
+                "Understand debugging process"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 35,
+              "meta": {
+                "nature": "problem solving",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-10-B",
+              "name": "Fixing Code",
+              "conceptual_understanding": [
+                "Debugging improves program performance",
+                "Testing programs ensures correct results"
+              ],
+              "student_can_achieve": [
+                "Fix simple coding errors",
+                "Improve program logic"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "practical coding",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-11",
+          "name": "Mini Game Development",
+          "enabled": true,
+          "meta": {
+            "focus": "game project",
+            "type": "project-based",
+            "assessment": "mini game project"
+          },
+          "agenda": [
+            "Combine coding concepts",
+            "Design a playable game",
+            "Encourage creativity"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Guide students to design a simple game idea"
+            },
+            {
+              "type": "activity",
+              "text": "Students build a game where a character collects points or avoids obstacles"
+            }
+          ],
+          "teacher_aids": [
+            "Game design worksheet",
+            "Example coding templates",
+            "Game mechanics guide"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.15,
+            "worked_examples_ratio": 0.25,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.2
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.15,
+            "practical": 0.65,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "kids_game_project_01",
+              "name": "Kids coding game example",
+              "src": "https://example.com/kids-game-project.png",
+              "relevant": "Shows a simple student-built game"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-11-A",
+              "name": "Designing the Game",
+              "conceptual_understanding": [
+                "Games combine logic, movement, and scoring",
+                "Game design starts with planning"
+              ],
+              "student_can_achieve": [
+                "Plan a simple game idea",
+                "Design characters and goals"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "design thinking",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-11-B",
+              "name": "Building the Game",
+              "conceptual_understanding": [
+                "Games use coding logic to interact with players",
+                "Combining features creates engaging gameplay"
+              ],
+              "student_can_achieve": [
+                "Build a playable mini game",
+                "Test and improve the game"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 60,
+              "meta": {
+                "nature": "project coding",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        }
+                ,
+        {
+          "code": "COD-KIDS-S1-12",
+          "name": "Creative Coding Challenge",
+          "enabled": true,
+          "meta": {
+            "focus": "creativity + coding confidence",
+            "type": "creative project",
+            "assessment": "creative challenge"
+          },
+          "agenda": [
+            "Encourage students to think creatively using coding",
+            "Design a unique animation or small interactive project",
+            "Combine logic, animation, and interaction"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain that coding can be used for art, animation, and storytelling"
+            },
+            {
+              "type": "activity",
+              "text": "Students design their own creative coding project such as an animated story or fun interaction"
+            }
+          ],
+          "teacher_aids": [
+            "Creative project examples",
+            "Storyboard worksheets",
+            "Coding project templates"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.1,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.3
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.1,
+            "practical": 0.7,
+            "discussion": 0.2
+          },
+          "image_assets": [
+            {
+              "id": "kids_creative_coding_01",
+              "name": "Kids creating coding animation",
+              "src": "https://example.com/kids-creative-coding.png",
+              "relevant": "Represents creative coding projects"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-12-A",
+              "name": "Planning a Creative Project",
+              "conceptual_understanding": [
+                "Creative coding combines imagination and programming",
+                "Planning helps build better projects"
+              ],
+              "student_can_achieve": [
+                "Design an idea for a coding project",
+                "Create a simple storyboard"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "creative planning",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-12-B",
+              "name": "Building the Creative Project",
+              "conceptual_understanding": [
+                "Projects combine animation, logic, and user interaction",
+                "Creative coding encourages experimentation"
+              ],
+              "student_can_achieve": [
+                "Build a creative animation or mini interactive experience",
+                "Improve coding confidence"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 60,
+              "meta": {
+                "nature": "creative coding",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-13",
+          "name": "Final Coding Project",
+          "enabled": true,
+          "meta": {
+            "focus": "project integration",
+            "type": "capstone project",
+            "assessment": "final project"
+          },
+          "agenda": [
+            "Apply all learned coding concepts",
+            "Build a complete small project",
+            "Practice independent problem solving"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Guide students to select a project idea such as a simple game, quiz, or animated story"
+            },
+            {
+              "type": "activity",
+              "text": "Students design, build, and test their final coding project"
+            }
+          ],
+          "teacher_aids": [
+            "Project planning sheet",
+            "Debugging checklist",
+            "Coding reference cards"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.1,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.3
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.1,
+            "practical": 0.75,
+            "discussion": 0.15
+          },
+          "image_assets": [
+            {
+              "id": "kids_final_project_01",
+              "name": "Student presenting coding project",
+              "src": "https://example.com/kids-final-project.png",
+              "relevant": "Shows students presenting coding work"
+            }
+          ],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-13-A",
+              "name": "Project Development",
+              "conceptual_understanding": [
+                "Coding projects combine multiple programming ideas",
+                "Testing helps improve the final program"
+              ],
+              "student_can_achieve": [
+                "Develop a complete small coding project",
+                "Test and improve their program"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 70,
+              "meta": {
+                "nature": "project coding",
+                "exam_weight": "very high"
+              }
+            },
+            {
+              "code": "COD-KIDS-S1-13-B",
+              "name": "Project Presentation",
+              "conceptual_understanding": [
+                "Explaining ideas helps strengthen understanding",
+                "Sharing projects builds confidence"
+              ],
+              "student_can_achieve": [
+                "Present their coding project",
+                "Explain how their program works"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "presentation",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+
+        {
+          "code": "COD-KIDS-S1-14",
+          "name": "Coding Review and Fun Quiz",
+          "enabled": true,
+          "meta": {
+            "focus": "revision + confidence",
+            "type": "review",
+            "assessment": "quiz + discussion"
+          },
+          "agenda": [
+            "Review coding concepts learned in the course",
+            "Play quiz games to test knowledge",
+            "Celebrate student achievements"
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Review major coding concepts like algorithms, loops, conditions, and games"
+            },
+            {
+              "type": "activity",
+              "text": "Students participate in a fun coding quiz game"
+            }
+          ],
+          "teacher_aids": [
+            "Quiz slides",
+            "Coding flashcards",
+            "Interactive quiz platform"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.2,
+            "worked_examples_ratio": 0.2,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.2
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.2,
+            "practical": 0.5,
+            "discussion": 0.3
+          },
+          "image_assets": [
+            {
+              "id": "kids_coding_quiz_01",
+              "name": "Kids coding quiz activity",
+              "src": "https://example.com/kids-coding-quiz.png",
+              "relevant": "Represents a fun learning review session"
+            }
+          ],
+          "division_count": 1,
+          "divisions": [
+            {
+              "code": "COD-KIDS-S1-14-A",
+              "name": "Course Review and Quiz",
+              "conceptual_understanding": [
+                "Review strengthens knowledge",
+                "Coding concepts connect to real-world technology"
+              ],
+              "student_can_achieve": [
+                "Recall major coding concepts",
+                "Confidently discuss what they learned"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "review + quiz",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

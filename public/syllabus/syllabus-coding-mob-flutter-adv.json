@@ -1,0 +1,811 @@
+{
+  "classId": "mob-flutter-adv",
+  "className": "Mobile App Development with Flutter",
+  "code_prefix": "FLUT",
+  "syllabus_year": "2026",
+  "source": "Industry Aligned Flutter Curriculum (4+ yrs Developer Experience)",
+  "meta": "project-based, portfolio-driven, beginner-to-intermediate",
+  "skill_outcomes": [
+    "Build real-world mobile apps using Flutter",
+    "Understand UI, state management, and API integration",
+    "Deploy apps and create portfolio-ready projects"
+  ],
+  "portfolio_tags": [
+    "flutter developer",
+    "mobile app development",
+    "firebase integration",
+    "ui/ux design"
+  ],
+  "subjects": [
+    {
+      "name": "Flutter App Development",
+      "code": "FLUT-S1",
+      "enabled": true,
+      "meta": {
+        "level": "beginner-to-intermediate",
+        "category": "technology",
+        "duration_months": 3
+      },
+      "project_build": {
+        "title": "Student Task Manager App",
+        "description": "A real-world app with login, task tracking, and Firebase backend"
+      },
+      "chapters": [
+        {
+          "code": "FLUT-S1-01",
+          "name": "Getting Started with Apps & Flutter",
+          "enabled": true,
+          "meta": {
+            "focus": "foundation + setup + awareness",
+            "type": "concept + hands-on",
+            "assessment": "setup + mini UI tweak"
+          },
+          "agenda": [
+            "Intro to mobile apps (what, why, where used)",
+            "Career value of app development (subtle exposure)",
+            "Types of apps (games, utility, social)",
+            "Flutter overview and features",
+            "Environment setup and first run"
+          ],
+          "session_plan": [
+            {
+              "session_no": 1,
+              "title": "Apps Around Us + Idea Thinking",
+              "duration_min": 40,
+              "flow": [
+                "Show common apps (food, chat, simple games)",
+                "Discuss what features they have (login, list, buttons)",
+                "Introduce idea: apps are built using code (light intro)",
+                "Students suggest 1 app they want to build"
+              ],
+              "activity": "App idea discussion + quick sketch",
+              "outcome": "Student connects real life → app thinking",
+              "subtle_tags": ["intro", "career_value", "app_types"]
+            },
+            {
+              "session_no": 2,
+              "title": "Flutter Intro + Setup",
+              "duration_min": 45,
+              "flow": [
+                "Why Flutter (single codebase, fast UI)",
+                "Where it is used (startups, companies)",
+                "Install Flutter + VS Code",
+                "Run first app"
+              ],
+              "activity": "Run default app + change title text",
+              "outcome": "Setup complete + first success",
+              "subtle_tags": ["setup", "industry_usage", "confidence_build"]
+            },
+            {
+              "session_no": 3,
+              "title": "How Flutter Works (Basic Structure)",
+              "duration_min": 40,
+              "flow": [
+                "main.dart overview",
+                "What is a widget",
+                "UI is built using widgets (buttons, text, images)",
+                "Small UI modification"
+              ],
+              "activity": "Change UI text + add button",
+              "outcome": "Basic structure understanding",
+              "subtle_tags": ["features", "ui_basics"]
+            }
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Keep intro and career discussion light (5-10 min max)"
+            },
+            {
+              "type": "activity",
+              "text": "Encourage students to relate apps to games and daily life"
+            }
+          ],
+          "teacher_aids": [
+            "Popular app screenshots (utility + games)",
+            "Flutter setup checklist",
+            "Starter template project"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.2,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.2,
+            "practical": 0.5,
+            "discussion": 0.3
+          },
+          "image_assets": [],
+          "division_count": 2,
+          "divisions": [
+            {
+              "code": "FLUT-S1-01-A",
+              "name": "Understanding Apps & Their Use",
+              "conceptual_understanding": [
+                "Apps include games, tools, and services",
+                "Every app has features like UI and actions"
+              ],
+              "student_can_achieve": [
+                "Identify app types (game, utility)",
+                "Think of simple app ideas"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 30,
+              "meta": {
+                "nature": "discussion",
+                "exam_weight": "low"
+              }
+            },
+            {
+              "code": "FLUT-S1-01-B",
+              "name": "Flutter Setup & First App",
+              "conceptual_understanding": [
+                "Flutter builds UI using widgets",
+                "Apps can run on multiple platforms"
+              ],
+              "student_can_achieve": [
+                "Install Flutter",
+                "Run and edit first app"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "FLUT-S1-02",
+          "name": "Building Beautiful UI with Flutter",
+          "enabled": true,
+          "meta": {
+            "focus": "ui design + layouts + real screens",
+            "type": "hands-on heavy",
+            "assessment": "mini app UI build"
+          },
+          "agenda": [
+            "Understanding UI components (Text, Button, Image)",
+            "Layouts (Row, Column, Container)",
+            "Designing simple app screens",
+            "Thinking like real app UI (features placement)",
+            "Mini project: Task UI / Simple Game UI"
+          ],
+          "session_plan": [
+            {
+              "session_no": 4,
+              "title": "Basic UI Elements (Text, Button, Image)",
+              "duration_min": 40,
+              "flow": [
+                "Introduce core widgets (Text, ElevatedButton, Image)",
+                "Show how apps use these elements",
+                "Build a simple UI screen step-by-step"
+              ],
+              "activity": "Create a screen with title + button + image",
+              "outcome": "Student builds first custom UI",
+              "subtle_tags": ["features", "ui_elements"]
+            },
+            {
+              "session_no": 5,
+              "title": "Layouts (Row, Column, Container)",
+              "duration_min": 45,
+              "flow": [
+                "Explain layout structure visually",
+                "Row vs Column (horizontal vs vertical)",
+                "Container for spacing, color, padding",
+                "Recreate a simple card UI"
+              ],
+              "activity": "Design a profile card UI",
+              "outcome": "Understands layout building",
+              "subtle_tags": ["design_thinking", "real_app_structure"]
+            },
+            {
+              "session_no": 6,
+              "title": "Designing Real Screens",
+              "duration_min": 45,
+              "flow": [
+                "Break down a real app screen (task app / simple game UI)",
+                "Place elements logically",
+                "Add styling (colors, spacing)",
+                "Improve UI look"
+              ],
+              "activity": "Build a Task List UI or Game Score Screen",
+              "outcome": "Feels like building real app",
+              "subtle_tags": ["real_world_ui", "game_ui"]
+            },
+            {
+              "session_no": 7,
+              "title": "Mini UI Project",
+              "duration_min": 45,
+              "flow": [
+                "Students choose: Task App UI / Game UI",
+                "Guide layout + styling",
+                "Encourage creativity (colors, design)"
+              ],
+              "activity": "Complete UI screen independently",
+              "outcome": "Confidence boost + portfolio start",
+              "subtle_tags": ["creativity", "portfolio"]
+            }
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Focus more on building than explaining theory"
+            },
+            {
+              "type": "activity",
+              "text": "Let students modify UI colors and layout freely"
+            }
+          ],
+          "teacher_aids": [
+            "UI reference screenshots (task app, simple game UI)",
+            "Pre-built layout samples",
+            "Color palette suggestions"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.15,
+            "worked_examples_ratio": 0.35,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.15,
+            "practical": 0.6,
+            "discussion": 0.25
+          },
+          "image_assets": [],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "FLUT-S1-02-A",
+              "name": "UI Components",
+              "conceptual_understanding": [
+                "UI is built using widgets",
+                "Each widget has a purpose (text, button, image)"
+              ],
+              "student_can_achieve": [
+                "Use basic widgets",
+                "Build simple UI screen"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "FLUT-S1-02-B",
+              "name": "Layouts & Structure",
+              "conceptual_understanding": [
+                "Layouts define UI structure",
+                "Spacing and alignment improve design"
+              ],
+              "student_can_achieve": [
+                "Use Row and Column effectively",
+                "Create structured layouts"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "FLUT-S1-02-C",
+              "name": "Real Screen Design",
+              "conceptual_understanding": [
+                "Apps combine multiple UI elements",
+                "Design improves user experience"
+              ],
+              "student_can_achieve": [
+                "Build real app-like screen",
+                "Apply basic UI design thinking"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "application",
+                "exam_weight": "medium"
+              }
+            }
+          ]
+        },
+        {
+          "code": "FLUT-S1-03",
+          "name": "Navigation & State (Making Apps Interactive)",
+          "enabled": true,
+          "meta": {
+            "focus": "multi-screen + state + interaction",
+            "type": "hands-on + logic",
+            "assessment": "multi-screen mini app"
+          },
+          "agenda": [
+            "What is navigation in apps",
+            "Moving between screens",
+            "Passing data between screens",
+            "Understanding state (basic)",
+            "Updating UI dynamically"
+          ],
+          "session_plan": [
+            {
+              "session_no": 8,
+              "title": "Navigation Basics (Screen to Screen)",
+              "duration_min": 40,
+              "flow": [
+                "Explain how apps have multiple screens",
+                "Navigator push and pop",
+                "Create second screen",
+                "Navigate using button"
+              ],
+              "activity": "Button click → open new screen",
+              "outcome": "Student builds 2-screen app",
+              "subtle_tags": ["app_flow", "features"]
+            },
+            {
+              "session_no": 9,
+              "title": "Passing Data Between Screens",
+              "duration_min": 45,
+              "flow": [
+                "Why data passing is needed (real apps)",
+                "Pass text or value to next screen",
+                "Display dynamic content"
+              ],
+              "activity": "Send task name → show on next screen",
+              "outcome": "Understands dynamic UI",
+              "subtle_tags": ["real_world_logic", "data_flow"]
+            },
+            {
+              "session_no": 10,
+              "title": "Introduction to State",
+              "duration_min": 40,
+              "flow": [
+                "What is state (simple explanation)",
+                "StatefulWidget concept",
+                "Update UI using setState",
+                "Button click changes value"
+              ],
+              "activity": "Counter or toggle UI",
+              "outcome": "Understands UI updates",
+              "subtle_tags": ["core_concept", "interaction"]
+            },
+            {
+              "session_no": 11,
+              "title": "Combining Navigation + State",
+              "duration_min": 45,
+              "flow": [
+                "Build small flow (list → detail screen)",
+                "Update UI dynamically",
+                "Add interaction logic"
+              ],
+              "activity": "Mini Task App (list → detail)",
+              "outcome": "Feels like real app flow",
+              "subtle_tags": ["mini_app", "real_app_feel"]
+            }
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Explain state using real-life examples (like score change in games)"
+            },
+            {
+              "type": "activity",
+              "text": "Encourage students to experiment with button actions"
+            }
+          ],
+          "teacher_aids": [
+            "Flow diagrams (screen navigation)",
+            "Simple state examples (counter)",
+            "Mini app reference (task flow)"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.2,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.2,
+            "practical": 0.6,
+            "discussion": 0.2
+          },
+          "image_assets": [],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "FLUT-S1-03-A",
+              "name": "Navigation Flow",
+              "conceptual_understanding": [
+                "Apps have multiple connected screens",
+                "Navigation controls screen movement"
+              ],
+              "student_can_achieve": [
+                "Navigate between screens",
+                "Understand app flow"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "FLUT-S1-03-B",
+              "name": "State & UI Updates",
+              "conceptual_understanding": [
+                "State controls UI changes",
+                "User actions update state"
+              ],
+              "student_can_achieve": [
+                "Use StatefulWidget",
+                "Update UI dynamically"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "concept + practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "FLUT-S1-03-C",
+              "name": "Mini App Flow",
+              "conceptual_understanding": [
+                "Apps combine navigation and state",
+                "Data flows between screens"
+              ],
+              "student_can_achieve": [
+                "Build simple multi-screen app",
+                "Handle basic interactions"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "application",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "FLUT-S1-04",
+          "name": "Backend with Firebase (Login & Data Storage)",
+          "enabled": true,
+          "meta": {
+            "focus": "backend integration + real app capability",
+            "type": "hands-on + guided build",
+            "assessment": "login + task save app"
+          },
+          "agenda": [
+            "What is backend and why apps need it",
+            "Introduction to Firebase",
+            "User authentication (login/signup)",
+            "Storing and retrieving data",
+            "Connecting frontend with backend"
+          ],
+          "session_plan": [
+            {
+              "session_no": 12,
+              "title": "What is Backend + Firebase Intro",
+              "duration_min": 40,
+              "flow": [
+                "Explain backend using real apps (login, data storage)",
+                "What happens when you login to apps",
+                "Introduce Firebase (easy backend for apps)",
+                "Setup Firebase project"
+              ],
+              "activity": "Create Firebase project",
+              "outcome": "Understands backend concept",
+              "subtle_tags": ["real_world_apps", "features", "career_value"]
+            },
+            {
+              "session_no": 13,
+              "title": "User Login System",
+              "duration_min": 45,
+              "flow": [
+                "What is authentication",
+                "Email/password login setup",
+                "Connect Flutter app with Firebase",
+                "Login UI + logic"
+              ],
+              "activity": "Build login screen and test login",
+              "outcome": "Working login system",
+              "subtle_tags": ["real_app_feature", "security_basics"]
+            },
+            {
+              "session_no": 14,
+              "title": "Saving Data (Firestore)",
+              "duration_min": 45,
+              "flow": [
+                "What is database",
+                "Add data to Firebase",
+                "Store task data",
+                "View data in Firebase console"
+              ],
+              "activity": "Save task to database",
+              "outcome": "Data persistence understanding",
+              "subtle_tags": ["data_storage", "real_usage"]
+            },
+            {
+              "session_no": 15,
+              "title": "Fetching & Displaying Data",
+              "duration_min": 45,
+              "flow": [
+                "Fetch data from Firebase",
+                "Display list dynamically",
+                "Handle loading states"
+              ],
+              "activity": "Show saved tasks in UI",
+              "outcome": "Dynamic app behavior",
+              "subtle_tags": ["dynamic_ui", "real_app"]
+            },
+            {
+              "session_no": 16,
+              "title": "Mini Backend App Integration",
+              "duration_min": 45,
+              "flow": [
+                "Combine login + data",
+                "Build simple task manager flow",
+                "Test full flow (login → add → view)"
+              ],
+              "activity": "Complete backend-connected app",
+              "outcome": "Full app experience",
+              "subtle_tags": ["portfolio", "real_product"]
+            }
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Avoid deep theory of backend; focus on hands-on experience"
+            },
+            {
+              "type": "activity",
+              "text": "Let students test login multiple times for confidence"
+            }
+          ],
+          "teacher_aids": [
+            "Firebase setup guide",
+            "Authentication flow diagram",
+            "Sample database structure"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.15,
+            "worked_examples_ratio": 0.35,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.1
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.15,
+            "practical": 0.65,
+            "discussion": 0.2
+          },
+          "image_assets": [],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "FLUT-S1-04-A",
+              "name": "Backend Basics",
+              "conceptual_understanding": [
+                "Apps use backend for login and storage",
+                "Firebase provides ready backend services"
+              ],
+              "student_can_achieve": [
+                "Understand backend role",
+                "Setup Firebase project"
+              ],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "concept + practical",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "FLUT-S1-04-B",
+              "name": "Authentication & Data",
+              "conceptual_understanding": [
+                "Users need authentication",
+                "Data is stored in databases"
+              ],
+              "student_can_achieve": [
+                "Implement login system",
+                "Save and fetch data"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "FLUT-S1-04-C",
+              "name": "Full App Integration",
+              "conceptual_understanding": [
+                "Frontend and backend work together",
+                "Apps become usable products"
+              ],
+              "student_can_achieve": [
+                "Build backend-connected app",
+                "Understand real app workflow"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "application",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        },
+        {
+          "code": "FLUT-S1-05",
+          "name": "API Integration, App Deployment & Final Project",
+          "enabled": true,
+          "meta": {
+            "focus": "real data + deployment + portfolio",
+            "type": "project-based",
+            "assessment": "final app + certificate readiness"
+          },
+          "agenda": [
+            "What is an API and why apps use it",
+            "Fetching real data from internet",
+            "Enhancing app with real-world features",
+            "Preparing app for release",
+            "Final project completion and presentation"
+          ],
+          "session_plan": [
+            {
+              "session_no": 17,
+              "title": "Understanding APIs (Real Data)",
+              "duration_min": 40,
+              "flow": [
+                "Explain APIs using real apps (weather, news, quotes)",
+                "Show how apps fetch live data",
+                "Simple API example walkthrough"
+              ],
+              "activity": "View API response (basic understanding)",
+              "outcome": "Student understands real data flow",
+              "subtle_tags": ["real_world_apps", "features", "data_flow"]
+            },
+            {
+              "session_no": 18,
+              "title": "API Integration in Flutter",
+              "duration_min": 45,
+              "flow": [
+                "Call API using http",
+                "Parse response",
+                "Display data in UI"
+              ],
+              "activity": "Build simple app (quotes/weather display)",
+              "outcome": "Live data in app",
+              "subtle_tags": ["dynamic_app", "real_data"]
+            },
+            {
+              "session_no": 19,
+              "title": "Enhancing Final App",
+              "duration_min": 45,
+              "flow": [
+                "Add API or improve UI",
+                "Fix UI issues",
+                "Improve user experience"
+              ],
+              "activity": "Upgrade task app (UI + features)",
+              "outcome": "Polished application",
+              "subtle_tags": ["product_thinking", "quality"]
+            },
+            {
+              "session_no": 20,
+              "title": "App Build & Sharing",
+              "duration_min": 40,
+              "flow": [
+                "Generate APK",
+                "Install app on device",
+                "Share app with friends/family"
+              ],
+              "activity": "Install own app",
+              "outcome": "Real product feeling",
+              "subtle_tags": ["deployment", "real_product"]
+            },
+            {
+              "session_no": 21,
+              "title": "Final Project Presentation",
+              "duration_min": 45,
+              "flow": [
+                "Students present their app",
+                "Explain features and flow",
+                "Feedback and appreciation"
+              ],
+              "activity": "App demo presentation",
+              "outcome": "Confidence + communication",
+              "subtle_tags": ["confidence", "portfolio"]
+            }
+          ],
+          "session_instructions": [
+            {
+              "type": "instruction",
+              "text": "Encourage students to personalize their app (name, colors, features)"
+            },
+            {
+              "type": "activity",
+              "text": "App presentation should be fun and confidence-building"
+            }
+          ],
+          "teacher_aids": [
+            "Simple API examples",
+            "APK build checklist",
+            "Presentation guideline"
+          ],
+          "content_structure": {
+            "theory_ratio": 0.1,
+            "worked_examples_ratio": 0.3,
+            "practice_ratio": 0.4,
+            "application_ratio": 0.2
+          },
+          "learning_mode_mix": {
+            "theoretical": 0.1,
+            "practical": 0.6,
+            "discussion": 0.3
+          },
+          "image_assets": [],
+          "division_count": 3,
+          "divisions": [
+            {
+              "code": "FLUT-S1-05-A",
+              "name": "API & Real Data",
+              "conceptual_understanding": [
+                "Apps fetch data from internet",
+                "APIs provide dynamic content"
+              ],
+              "student_can_achieve": ["Call basic API", "Display live data"],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "practical",
+                "exam_weight": "high"
+              }
+            },
+            {
+              "code": "FLUT-S1-05-B",
+              "name": "Deployment & Sharing",
+              "conceptual_understanding": [
+                "Apps can be installed and shared",
+                "Deployment makes app usable"
+              ],
+              "student_can_achieve": ["Generate APK", "Install app on device"],
+              "difficulty_level": "easy",
+              "time_estimate_min": 40,
+              "meta": {
+                "nature": "application",
+                "exam_weight": "medium"
+              }
+            },
+            {
+              "code": "FLUT-S1-05-C",
+              "name": "Final Project & Presentation",
+              "conceptual_understanding": [
+                "Apps represent real skills",
+                "Presentation builds confidence"
+              ],
+              "student_can_achieve": [
+                "Present app clearly",
+                "Explain features and flow"
+              ],
+              "difficulty_level": "medium",
+              "time_estimate_min": 45,
+              "meta": {
+                "nature": "application",
+                "exam_weight": "high"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

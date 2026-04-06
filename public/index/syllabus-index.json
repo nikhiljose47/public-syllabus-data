@@ -17,17 +17,18 @@
     "career",
     "skills",
     "aptitude",
-    "music"
+    "music",
+    "wellness",
+    "kids"
   ],
 
   "groups": [
     "school-class",
     "exam-jam",
-    "wellness",
-    "music",
-    "coding",
-    "aptitude",
-    "coding classes for kids"
+    "coding-for-kids",
+    "coding-for-students",
+    "beginner-programming",
+    "coding-for-teachers-parents"
   ],
 
   "catalog": [
@@ -37,7 +38,7 @@
       "primaryGroup": "school",
       "groups": ["school-class"],
       "title": "Class 6",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "priority": 1,
       "file": "syllabus-class-6.json",
@@ -55,7 +56,7 @@
       "primaryGroup": "school",
       "groups": ["school-class"],
       "title": "Class 7",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "priority": 1,
       "file": "syllabus-class-7.json",
@@ -73,7 +74,7 @@
       "primaryGroup": "school",
       "groups": ["school-class"],
       "title": "Class 8",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "priority": 2,
       "file": "syllabus-class-8.json",
@@ -91,7 +92,7 @@
       "primaryGroup": "school",
       "groups": ["school-class"],
       "title": "Class 9",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "priority": 3,
       "file": "syllabus-class-9.json",
@@ -109,7 +110,7 @@
       "primaryGroup": "school",
       "groups": ["school-class"],
       "title": "Class 10",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "priority": 4,
       "file": "syllabus-class-10.json",
@@ -178,7 +179,7 @@
     {
       "id": "act202",
       "type": "activity",
-      "primaryGroup": "music",
+      "primaryGroup": "coding",
       "groups": ["music"],
       "title": "Violin Activity",
       "enabled": false,
@@ -192,12 +193,12 @@
       }
     },
     {
-      "id": "act303",
+      "id": "COD-STUDENTS",
       "type": "activity",
       "primaryGroup": "coding",
-      "groups": ["coding classes for kids"],
-      "title": "Coding Tips & Talk",
-      "enabled": true,
+      "groups": ["coding-for-students"],
+      "title": "Coding Class for Students",
+      "enabled": false,
       "ready": true,
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 3,
@@ -205,6 +206,38 @@
       "meta": {
         "teacher": "Nikhil",
         "image": "/assets/class-card-covers/coding-gen-cover.webp"
+      }
+    },
+    {
+      "id": "COD-KIDS",
+      "type": "activity",
+      "primaryGroup": "kids",
+      "groups": ["coding-for-kids"],
+      "title": "Coding Class for Kids",
+      "enabled": false,
+      "ready": true,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "priority": 3,
+      "file": "syllabus-coding-kids.json",
+      "meta": {
+        "teacher": "Nikhil",
+        "image": "/assets/class-card-covers/coding-kids-cover.webp"
+      }
+    },
+    {
+      "id": "mob-flutter-adv",
+      "type": "activity",
+      "primaryGroup": "coding",
+      "groups": ["beginner-programming"],
+      "title": "Coding Class for Flutter Beginners",
+      "enabled": true,
+      "ready": true,
+      "startsAt": "2026-01-01T00:00:00Z",
+      "priority": 3,
+      "file": "syllabus-coding-mob-flutter-adv.json",
+      "meta": {
+        "teacher": "Nikhil",
+        "image": "/assets/class-card-covers/coding-flutter-advcover.webp"
       }
     },
     {
