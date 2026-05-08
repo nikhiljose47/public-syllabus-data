@@ -1,7 +1,7 @@
 {
-  "classId": "mob-flutter-adv",
+  "classId": "FLUT_ADV",
   "className": "Mobile App Development with Flutter",
-  "code_prefix": "FLUT",
+  "code_prefix": "FLUT_ADV",
   "syllabus_year": "2026",
   "source": "Industry Aligned Flutter Curriculum (4+ yrs Developer Experience)",
   "meta": "project-based, portfolio-driven, beginner-to-intermediate",
@@ -19,7 +19,7 @@
   "subjects": [
     {
       "name": "Flutter App Development",
-      "code": "FLUT-S1",
+      "code": "FLUT_ADV-S1",
       "enabled": true,
       "meta": {
         "level": "beginner-to-intermediate",
@@ -32,7 +32,7 @@
       },
       "chapters": [
         {
-          "code": "FLUT-S1-01",
+          "code": "FLUT_ADV-S1-01",
           "name": "Getting Started with Apps & Flutter",
           "enabled": true,
           "meta": {
@@ -121,7 +121,7 @@
           "division_count": 2,
           "divisions": [
             {
-              "code": "FLUT-S1-01-A",
+              "code": "FLUT_ADV-S1-01-A",
               "name": "Understanding Apps & Their Use",
               "conceptual_understanding": [
                 "Apps include games, tools, and services",
@@ -139,7 +139,7 @@
               }
             },
             {
-              "code": "FLUT-S1-01-B",
+              "code": "FLUT_ADV-S1-01-B",
               "name": "Flutter Setup & First App",
               "conceptual_understanding": [
                 "Flutter builds UI using widgets",
@@ -159,7 +159,7 @@
           ]
         },
         {
-          "code": "FLUT-S1-02",
+          "code": "FLUT_ADV-S1-02",
           "name": "Building Beautiful UI with Flutter",
           "enabled": true,
           "meta": {
@@ -260,7 +260,7 @@
           "division_count": 3,
           "divisions": [
             {
-              "code": "FLUT-S1-02-A",
+              "code": "FLUT_ADV-S1-02-A",
               "name": "UI Components",
               "conceptual_understanding": [
                 "UI is built using widgets",
@@ -278,7 +278,7 @@
               }
             },
             {
-              "code": "FLUT-S1-02-B",
+              "code": "FLUT_ADV-S1-02-B",
               "name": "Layouts & Structure",
               "conceptual_understanding": [
                 "Layouts define UI structure",
@@ -296,7 +296,7 @@
               }
             },
             {
-              "code": "FLUT-S1-02-C",
+              "code": "FLUT_ADV-S1-02-C",
               "name": "Real Screen Design",
               "conceptual_understanding": [
                 "Apps combine multiple UI elements",
@@ -316,7 +316,7 @@
           ]
         },
         {
-          "code": "FLUT-S1-03",
+          "code": "FLUT_ADV-S1-03",
           "name": "Navigation & State (Making Apps Interactive)",
           "enabled": true,
           "meta": {
@@ -417,7 +417,7 @@
           "division_count": 3,
           "divisions": [
             {
-              "code": "FLUT-S1-03-A",
+              "code": "FLUT_ADV-S1-03-A",
               "name": "Navigation Flow",
               "conceptual_understanding": [
                 "Apps have multiple connected screens",
@@ -435,7 +435,7 @@
               }
             },
             {
-              "code": "FLUT-S1-03-B",
+              "code": "FLUT_ADV-S1-03-B",
               "name": "State & UI Updates",
               "conceptual_understanding": [
                 "State controls UI changes",
@@ -453,7 +453,7 @@
               }
             },
             {
-              "code": "FLUT-S1-03-C",
+              "code": "FLUT_ADV-S1-03-C",
               "name": "Mini App Flow",
               "conceptual_understanding": [
                 "Apps combine navigation and state",
@@ -473,7 +473,7 @@
           ]
         },
         {
-          "code": "FLUT-S1-04",
+          "code": "FLUT_ADV-S1-04",
           "name": "Backend with Firebase (Login & Data Storage)",
           "enabled": true,
           "meta": {
@@ -588,7 +588,7 @@
           "division_count": 3,
           "divisions": [
             {
-              "code": "FLUT-S1-04-A",
+              "code": "FLUT_ADV-S1-04-A",
               "name": "Backend Basics",
               "conceptual_understanding": [
                 "Apps use backend for login and storage",
@@ -606,7 +606,7 @@
               }
             },
             {
-              "code": "FLUT-S1-04-B",
+              "code": "FLUT_ADV-S1-04-B",
               "name": "Authentication & Data",
               "conceptual_understanding": [
                 "Users need authentication",
@@ -624,7 +624,7 @@
               }
             },
             {
-              "code": "FLUT-S1-04-C",
+              "code": "FLUT_ADV-S1-04-C",
               "name": "Full App Integration",
               "conceptual_understanding": [
                 "Frontend and backend work together",
@@ -644,7 +644,7 @@
           ]
         },
         {
-          "code": "FLUT-S1-05",
+          "code": "FLUT_ADV-S1-05",
           "name": "API Integration, App Deployment & Final Project",
           "enabled": true,
           "meta": {
@@ -756,7 +756,7 @@
           "division_count": 3,
           "divisions": [
             {
-              "code": "FLUT-S1-05-A",
+              "code": "FLUT_ADV-S1-05-A",
               "name": "API & Real Data",
               "conceptual_understanding": [
                 "Apps fetch data from internet",
@@ -771,7 +771,7 @@
               }
             },
             {
-              "code": "FLUT-S1-05-B",
+              "code": "FLUT_ADV-S1-05-B",
               "name": "Deployment & Sharing",
               "conceptual_understanding": [
                 "Apps can be installed and shared",
@@ -786,7 +786,7 @@
               }
             },
             {
-              "code": "FLUT-S1-05-C",
+              "code": "FLUT_ADV-S1-05-C",
               "name": "Final Project & Presentation",
               "conceptual_understanding": [
                 "Apps represent real skills",

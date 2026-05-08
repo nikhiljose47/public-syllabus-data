@@ -31,22 +31,29 @@
     "coding-for-teachers-parents"
   ],
 
+  "announcements": [
+    {
+      "title": "New class",
+      "body": "Class  7-8 classes to be coming soon!"
+    }
+  ],
+
   "catalog": [
     {
-      "id": "CL06",
+      "id": "CL06-MATH",
       "type": "class",
       "primaryGroup": "school",
       "groups": ["school-class"],
-      "title": "Class 6",
-      "enabled": false,
+      "title": "NCERT Maths Class 6",
+      "enabled": true,
       "ready": true,
       "priority": 1,
-      "file": "syllabus-class-6.json",
+      "file": "syllabus-class-6-math.json",
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
         "teachers": 0,
-        "medium": ["HI"],
+        "medium": ["HI", "EN", "ML"],
         "image": "/assets/class-card-covers/class6-cover.webp"
       }
     },
