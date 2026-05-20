@@ -33,14 +33,14 @@
 
   "announcements": [
     {
-      "title": "New class",
-      "body": "Class  7-8 classes to be coming soon!"
+      "title": "",
+      "body": "Class 7-8 classes to be coming soon!"
     }
   ],
 
   "catalog": [
     {
-      "id": "CL06-MATH",
+      "id": "CL06_MATH",
       "type": "class",
       "primaryGroup": "school",
       "groups": ["school-class"],
@@ -49,6 +49,7 @@
       "ready": true,
       "priority": 1,
       "file": "syllabus-class-6-math.json",
+      "learnFile": "learning-class-6-math.json",
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -67,6 +68,7 @@
       "ready": true,
       "priority": 1,
       "file": "syllabus-class-7.json",
+      "learnFile": "",
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -85,6 +87,8 @@
       "ready": true,
       "priority": 2,
       "file": "syllabus-class-8.json",
+      "learnFile": "",
+
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -103,6 +107,8 @@
       "ready": true,
       "priority": 3,
       "file": "syllabus-class-9.json",
+      "learnFile": "",
+
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -121,6 +127,8 @@
       "ready": true,
       "priority": 4,
       "file": "syllabus-class-10.json",
+      "learnFile": "",
+
       "availableFrom": "2026-01-01T00:00:00Z",
       "meta": {
         "students": 0,
@@ -142,6 +150,8 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 1,
       "file": "syllabus-gate.json",
+      "learnFile": "",
+
       "meta": {
         "teacher": "Prof. Rao",
         "language": ["EN"],
@@ -160,6 +170,7 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 2,
       "file": "syllabus-cat.json",
+      "learnFile": "",
       "meta": {
         "teacher": "Ananya",
         "language": ["HI"],
@@ -178,6 +189,7 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 1,
       "file": "syllabus-yoga.json",
+      "learnFile": "",
       "meta": {
         "teacher": "Prof. Rao",
         "image": "/assets/fam-problem.jpg"
@@ -194,6 +206,8 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 2,
       "file": "syllabus-violin.json",
+      "learnFile": "",
+
       "meta": {
         "teacher": "Ananya",
         "image": "/assets/class-card-covers/general-aptitude-cover.webp"
@@ -210,6 +224,8 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 3,
       "file": "syllabus-coding-gen.json",
+      "learnFile": "",
+
       "meta": {
         "teacher": "Nikhil",
         "image": "/assets/class-card-covers/coding-gen-cover.webp"
@@ -226,13 +242,15 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 3,
       "file": "syllabus-coding-kids.json",
+      "learnFile": "",
+
       "meta": {
         "teacher": "Nikhil",
         "image": "/assets/class-card-covers/coding-kids-cover.webp"
       }
     },
     {
-      "id": "mob-flutter-adv",
+      "id": "FLUT_ADV",
       "type": "activity",
       "primaryGroup": "coding",
       "groups": ["beginner-programming"],
@@ -242,6 +260,8 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 3,
       "file": "syllabus-coding-mob-flutter-adv.json",
+      "learnFile": "",
+
       "meta": {
         "teacher": "Nikhil",
         "image": "/assets/class-card-covers/coding-flutter-advcover.webp"
@@ -258,6 +278,8 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 4,
       "file": "syllabus-ga.json",
+      "learnFile": "",
+
       "meta": {
         "teacher": "Nikhil",
         "image": "/assets/class-card-covers/general-aptitude-cover.webp"

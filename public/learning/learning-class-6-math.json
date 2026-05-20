@@ -1,0 +1,271 @@
+{
+  "version": "1.0.0",
+  "id": "CL06_MATH",
+  "quiz-date": "",
+  "meta": {
+    "cover": "https://cdn.app.com/math-cover.webp"
+  },
+
+  "daily-quiz": [
+    {
+      "id": "q1",
+      "question": "What is the sum of angles in a triangle?",
+      "options": ["180 degrees", "90 degrees", "360 degrees", "270 degrees"]
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is a prime number?",
+      "options": ["15", "21", "29", "35"]
+    }
+  ],
+
+  "tube": {
+    "meta": {
+      "cover": "https://cdn.app.com/math-cover.webp"
+    },
+
+    "slideSets": [
+      {
+        "setId": "M-01",
+        "slides": [
+          {
+            "type": "intro",
+            "data": {
+              "title": "Patterns in Mathematics",
+              "date": "Class 6 Math"
+            }
+          },
+          {
+            "type": "text",
+            "data": {
+              "heading": "Understanding Patterns",
+              "desc": "Patterns appear in numbers, shapes, and daily life situations."
+            }
+          },
+          {
+            "type": "bullet",
+            "data": {
+              "title": "Key Learnings",
+              "points": [
+                "Number patterns",
+                "Shape patterns",
+                "Logical thinking",
+                "Prediction skills"
+              ]
+            }
+          }
+        ],
+
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Patterns help us to?",
+              "options": [
+                "Predict values",
+                "Erase numbers",
+                "Avoid calculations",
+                "Hide logic"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      },
+
+      {
+        "setId": "M-02",
+        "slides": [
+          {
+            "type": "text",
+            "data": {
+              "heading": "Lines and Angles",
+              "desc": "Geometry helps us understand shapes, lines, and measurements."
+            }
+          },
+          {
+            "type": "bullet",
+            "data": {
+              "title": "Important Concepts",
+              "points": [
+                "Parallel lines",
+                "Perpendicular lines",
+                "Acute angles",
+                "Obtuse angles"
+              ]
+            }
+          },
+          {
+            "type": "image",
+            "data": {
+              "image": "https://cdn.app.com/math-lines.webp",
+              "caption": "Types of angles and lines"
+            }
+          }
+        ],
+
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which angle is exactly 90 degrees?",
+              "options": [
+                "Acute angle",
+                "Right angle",
+                "Obtuse angle",
+                "Straight angle"
+              ],
+              "correctIndex": 1
+            }
+          ]
+        }
+      },
+
+      {
+        "setId": "M-03",
+        "slides": [
+          {
+            "type": "text",
+            "data": {
+              "heading": "Fractions",
+              "desc": "Fractions represent equal parts of a whole."
+            }
+          },
+          {
+            "type": "bullet",
+            "data": {
+              "title": "Fraction Skills",
+              "points": [
+                "Equivalent fractions",
+                "Comparing fractions",
+                "Simplifying fractions",
+                "Daily life usage"
+              ]
+            }
+          },
+          {
+            "type": "split",
+            "data": {
+              "left": {
+                "name": "Numerator",
+                "role": "Top part"
+              },
+              "right": {
+                "name": "Denominator",
+                "role": "Bottom part"
+              }
+            }
+          }
+        ],
+
+        "quiz": {
+          "type": "mixed",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which fraction is bigger?",
+              "options": ["1/2", "1/4"],
+              "correctIndex": 0
+            },
+            {
+              "id": "q2",
+              "type": "puzzle",
+              "question": "Arrange smallest to largest",
+              "items": ["1/2", "1/4", "3/4"],
+              "correctOrder": [1, 0, 2]
+            }
+          ]
+        }
+      },
+
+      {
+        "setId": "M-04",
+        "slides": [
+          {
+            "type": "text",
+            "data": {
+              "heading": "Integers",
+              "desc": "Integers include positive numbers, negative numbers, and zero."
+            }
+          },
+          {
+            "type": "bullet",
+            "data": {
+              "title": "Real Life Examples",
+              "points": [
+                "Temperature",
+                "Profit and loss",
+                "Bank balance",
+                "Elevator floors"
+              ]
+            }
+          },
+          {
+            "type": "text",
+            "data": {
+              "heading": "Number Line",
+              "desc": "Integers are represented using a number line."
+            }
+          }
+        ],
+
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which is a negative integer?",
+              "options": ["5", "-3", "0", "8"],
+              "correctIndex": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "chapter-summary": [
+    {
+      "id": "CL06_MATH-S1-01",
+      "summary": "Understanding mathematical patterns in numbers, shapes, and daily life to improve logical thinking and prediction skills."
+    },
+    {
+      "id": "CL06_MATH-S1-02",
+      "summary": "Learning about different types of lines and angles, measuring angles, and understanding basic geometry concepts."
+    },
+    {
+      "id": "CL06_MATH-S1-03",
+      "summary": "Exploring factors, multiples, prime numbers, and divisibility rules through number-based activities and logical thinking."
+    },
+    {
+      "id": "CL06_MATH-S1-04",
+      "summary": "Collecting, organizing, representing, and interpreting data using tables, charts, and graphs."
+    },
+    {
+      "id": "CL06_MATH-S1-05",
+      "summary": "Understanding prime numbers, prime factorization, LCM, and HCF with problem-solving applications."
+    },
+    {
+      "id": "CL06_MATH-S1-06",
+      "summary": "Learning perimeter and area of shapes and applying measurement formulas in practical real-life situations."
+    },
+    {
+      "id": "CL06_MATH-S1-07",
+      "summary": "Understanding fractions, equivalent fractions, comparing fractions, and using fractions in daily life."
+    },
+    {
+      "id": "CL06_MATH-S1-08",
+      "summary": "Performing geometric constructions using rulers and compasses while understanding construction logic and accuracy."
+    },
+    {
+      "id": "CL06_MATH-S1-09",
+      "summary": "Understanding symmetry, identifying lines of symmetry, and observing symmetry in patterns and real-world objects."
+    },
+    {
+      "id": "CL06_MATH-S1-10",
+      "summary": "Learning integers, negative numbers, number lines, and applying integers in real-life contexts like temperature and profit/loss."
+    }
+  ]
+}

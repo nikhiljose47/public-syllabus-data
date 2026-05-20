@@ -1,0 +1,236 @@
+{
+  "version": "1.0.0",
+  "id": "FLUT_ADV",
+  "quiz-date": "",
+  "meta": {
+    "cover": "https://cdn.app.com/flutter-cover.webp"
+  },
+  "daily-quiz": [
+    {
+      "id": "q1",
+      "question": "What is Flutter?",
+      "options": [
+        "Backend framework",
+        "UI toolkit",
+        "Database",
+        "Operating system"
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Key benefit of Flutter?",
+      "options": [
+        "Multiple codebases",
+        "Slow performance",
+        "Single codebase",
+        "Only web support"
+      ]
+    }
+  ],
+
+  "tube": {
+    "meta": {
+      "cover": "https://cdn.app.com/flutter-cover.webp"
+    },
+    "slideSets": [
+      {
+        "setId": "B-01",
+        "slides": [
+          {
+            "type": "intro",
+            "data": {
+              "title": "Flutter Development",
+              "date": "Getting Started"
+            }
+          },
+          {
+            "type": "text",
+            "data": {
+              "heading": "What is Flutter?",
+              "desc": "UI toolkit for building cross-platform apps."
+            }
+          },
+          {
+            "type": "bullet",
+            "data": {
+              "title": "Why Flutter?",
+              "points": [
+                "Single codebase",
+                "Fast performance",
+                "Hot reload",
+                "Rich UI"
+              ]
+            }
+          }
+        ],
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "What is Flutter?",
+              "options": [
+                "Backend framework",
+                "UI toolkit",
+                "Database",
+                "Operating system"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "id": "q2",
+              "question": "Key benefit of Flutter?",
+              "options": [
+                "Multiple codebases",
+                "Slow performance",
+                "Single codebase",
+                "Only web support"
+              ],
+              "correctIndex": 2
+            }
+          ]
+        }
+      },
+      {
+        "setId": "02",
+        "slides": [
+          {
+            "type": "text",
+            "data": {
+              "heading": "Project Structure",
+              "desc": "lib/, widgets, services separation."
+            }
+          },
+          {
+            "type": "bullet",
+            "data": {
+              "title": "Core Concepts",
+              "points": ["Widgets tree", "State", "Navigation"]
+            }
+          },
+          {
+            "type": "split",
+            "data": {
+              "left": { "name": "StatelessWidget", "role": "Static UI" },
+              "right": { "name": "StatefulWidget", "role": "Dynamic UI" }
+            }
+          }
+        ],
+        "quiz": {
+          "type": "mixed",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which widget is dynamic?",
+              "options": ["StatelessWidget", "StatefulWidget"],
+              "correctIndex": 1
+            },
+            {
+              "id": "q2",
+              "type": "puzzle",
+              "question": "Arrange flow:",
+              "items": ["Build", "Widget Tree", "Render"],
+              "correctOrder": [1, 0, 2]
+            }
+          ]
+        }
+      },
+      {
+        "setId": "B-03",
+        "slides": [
+          {
+            "type": "text",
+            "data": {
+              "heading": "State Management",
+              "desc": "Provider, Riverpod, BLoC."
+            }
+          },
+          {
+            "type": "bullet",
+            "data": {
+              "title": "App Features",
+              "points": ["API integration", "Firebase auth", "Local storage"]
+            }
+          },
+          {
+            "type": "image",
+            "data": {
+              "image": "https://picsum.photos/400/300",
+              "caption": "Flutter UI Layout"
+            }
+          }
+        ],
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "Which is state management?",
+              "options": ["Provider", "HTTP", "CSS", "HTML"],
+              "correctIndex": 0
+            }
+          ]
+        }
+      },
+      {
+        "setId": "B-04",
+        "slides": [
+          {
+            "type": "text",
+            "data": {
+              "heading": "Performance",
+              "desc": "Optimization, lazy loading, isolates."
+            }
+          },
+          {
+            "type": "bullet",
+            "data": {
+              "title": "Production",
+              "points": ["CI/CD", "Crashlytics", "Analytics"]
+            }
+          },
+          {
+            "type": "text",
+            "data": {
+              "heading": "Goal",
+              "desc": "Build and ship real-world scalable apps."
+            }
+          }
+        ],
+        "quiz": {
+          "type": "mcq",
+          "questions": [
+            {
+              "id": "q1",
+              "question": "What improves performance?",
+              "options": ["Lazy loading", "More rebuilds", "Inline everything"],
+              "correctIndex": 0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "chapter-desc": [
+    {
+      "id": "FLUT_ADV-S1-01",
+      "summary": "Introduction to mobile apps, Flutter basics, environment setup, widgets, app ideas, and building the first Flutter application."
+    },
+    {
+      "id": "FLUT_ADV-S1-02",
+      "summary": "Learning Flutter UI widgets, layouts, spacing, styling, and designing real app-like screens such as task apps and game UIs."
+    },
+    {
+      "id": "FLUT_ADV-S1-03",
+      "summary": "Understanding multi-screen navigation, passing data between screens, state management using StatefulWidget, and creating interactive app flows."
+    },
+    {
+      "id": "FLUT_ADV-S1-04",
+      "summary": "Connecting Flutter apps with Firebase for authentication, login systems, Firestore database integration, saving and retrieving app data."
+    },
+    {
+      "id": "FLUT_ADV-S1-05",
+      "summary": "Working with APIs, fetching live data, improving app quality, generating APKs, deploying apps, and presenting final portfolio-ready projects."
+    }
+  ]
+}

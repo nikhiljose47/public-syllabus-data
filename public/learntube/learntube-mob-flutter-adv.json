@@ -13,9 +13,7 @@
   },
   "slideSets": [
     {
-      "setId": "01",
-      "level": "beginner",
-      "order": 1,
+      "setId": "B-01",
       "slides": [
         {
           "type": "intro",
@@ -71,8 +69,6 @@
     },
     {
       "setId": "02",
-      "level": "intermediate",
-      "order": 2,
       "slides": [
         {
           "type": "text",
@@ -116,9 +112,8 @@
       }
     },
     {
-      "setId": "03",
-      "level": "advanced",
-      "order": 3,
+      "setId": "B-03",
+
       "slides": [
         {
           "type": "text",
@@ -155,9 +150,7 @@
       }
     },
     {
-      "setId": "04",
-      "level": "pro",
-      "order": 4,
+      "setId": "B-04",
       "slides": [
         {
           "type": "text",
