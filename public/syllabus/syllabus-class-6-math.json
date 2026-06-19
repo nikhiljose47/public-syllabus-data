@@ -1,6 +1,6 @@
 {
   "classId": "CL06_MATH",
-  "className": "Class 6 MATH (NCERT)",
+  "className": "Class 6 Math (NCERT)",
   "syllabus_year": "2025-26",
   "source": "NCF 2023 / NCERT-aligned",
   "subjects": [
@@ -19,25 +19,6 @@
           "name": "Patterns in Mathematics",
 
           "enabled": true,
-          "summary": [
-            {
-              "type": "text",
-              "content": "Mathematics is filled with patterns that appear in numbers, shapes, designs, calendars, and even nature. Patterns help us understand how things repeat, grow, and change in a logical way. In this chapter, students begin exploring simple number sequences and visual arrangements that develop observation skills and mathematical thinking."
-            },
-            {
-              "type": "image",
-              "url": "assets/images/class6/math/patterns-intro.webp",
-              "caption": "Repeating and growing patterns help students discover mathematical relationships."
-            },
-            {
-              "type": "text",
-              "content": "Number patterns allow students to predict what comes next in a sequence by identifying hidden rules. Some patterns increase, some decrease, while others repeat regularly. By practicing these ideas through activities and examples, learners improve reasoning ability and become more confident in solving mathematical problems step by step."
-            },
-            {
-              "type": "quote",
-              "content": "Patterns train the mind to observe logic hidden inside everyday life."
-            }
-          ],
           "meta": {},
           "agenda": [
             "Recognize mathematical patterns in numbers and shapes",

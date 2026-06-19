@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "id": "FLUT_ADV",
-  "quiz-date": "",
+  "quizDate": "",
   "meta": {
     "cover": "https://cdn.app.com/flutter-cover.webp"
   },
-  "daily-quiz": [
+  "dailyQuiz": [
     {
       "id": "q1",
       "question": "What is Flutter?",
@@ -211,26 +211,120 @@
       }
     ]
   },
-  "chapter-desc": [
+  "chapterSummary": [
     {
       "id": "FLUT_ADV-S1-01",
-      "summary": "Introduction to mobile apps, Flutter basics, environment setup, widgets, app ideas, and building the first Flutter application."
+      "summary": [
+        {
+          "type": "text",
+          "content": "Flutter allows developers to build beautiful mobile applications using a single codebase for both Android and iOS platforms. In this chapter, students begin by understanding how Flutter works, setting up the development environment, and exploring the structure of a Flutter application."
+        },
+        {
+          "type": "image",
+          "url": "assets/images/flutter/ch1/flutter-intro.webp",
+          "caption": "Flutter helps developers create fast and modern cross-platform mobile applications."
+        },
+        {
+          "type": "text",
+          "content": "Students also learn about widgets, project structure, hot reload, and how mobile app ideas are converted into real working applications using Flutter."
+        },
+        {
+          "type": "quote",
+          "content": "Every great mobile app starts with one simple widget."
+        }
+      ]
     },
+
     {
       "id": "FLUT_ADV-S1-02",
-      "summary": "Learning Flutter UI widgets, layouts, spacing, styling, and designing real app-like screens such as task apps and game UIs."
+      "summary": [
+        {
+          "type": "text",
+          "content": "Design plays a major role in making applications attractive and user friendly. This chapter introduces Flutter UI widgets, layouts, alignment systems, spacing, and responsive design principles."
+        },
+        {
+          "type": "image",
+          "url": "assets/images/flutter/ch2/flutter-ui.webp",
+          "caption": "Flutter widgets help developers design professional and interactive mobile interfaces."
+        },
+        {
+          "type": "text",
+          "content": "Students practice creating app-like screens such as task managers, dashboards, and game-inspired interfaces while understanding reusable UI building techniques."
+        },
+        {
+          "type": "quote",
+          "content": "Good design makes apps feel simple, smooth, and enjoyable."
+        }
+      ]
     },
+
     {
       "id": "FLUT_ADV-S1-03",
-      "summary": "Understanding multi-screen navigation, passing data between screens, state management using StatefulWidget, and creating interactive app flows."
+      "summary": [
+        {
+          "type": "text",
+          "content": "Modern apps contain multiple screens connected together through navigation and state management. In this chapter, learners understand how Flutter manages screen transitions and user interactions."
+        },
+        {
+          "type": "image",
+          "url": "assets/images/flutter/ch3/navigation.webp",
+          "caption": "Navigation connects different parts of an application into one smooth user experience."
+        },
+        {
+          "type": "text",
+          "content": "Students learn routing, passing data between screens, StatefulWidget concepts, and creating dynamic user flows for real-world applications."
+        },
+        {
+          "type": "quote",
+          "content": "Interactive apps are built through connected screens and changing states."
+        }
+      ]
     },
+
     {
       "id": "FLUT_ADV-S1-04",
-      "summary": "Connecting Flutter apps with Firebase for authentication, login systems, Firestore database integration, saving and retrieving app data."
+      "summary": [
+        {
+          "type": "text",
+          "content": "Firebase helps Flutter applications store data securely and manage users in real time. This chapter introduces authentication systems, Firestore databases, and cloud-connected mobile applications."
+        },
+        {
+          "type": "image",
+          "url": "assets/images/flutter/ch4/firebase.webp",
+          "caption": "Firebase connects Flutter apps with powerful cloud-based backend services."
+        },
+        {
+          "type": "text",
+          "content": "Students build login systems, save user information, retrieve live data, and understand how modern apps synchronize information across devices."
+        },
+        {
+          "type": "quote",
+          "content": "Cloud-powered apps create smarter and more connected experiences."
+        }
+      ]
     },
+
     {
       "id": "FLUT_ADV-S1-05",
-      "summary": "Working with APIs, fetching live data, improving app quality, generating APKs, deploying apps, and presenting final portfolio-ready projects."
+      "summary": [
+        {
+          "type": "text",
+          "content": "Real-world applications often depend on APIs and production-ready optimization techniques. In this chapter, students learn how Flutter apps communicate with external services and prepare apps for deployment."
+        },
+        {
+          "type": "image",
+          "url": "assets/images/flutter/ch5/apis-deploy.webp",
+          "caption": "APIs and deployment tools help transform projects into real usable applications."
+        },
+        {
+          "type": "text",
+          "content": "Students explore API integration, live data fetching, app polishing, APK generation, deployment steps, and building portfolio-ready Flutter projects."
+        },
+        {
+          "type": "quote",
+          "content": "A finished app is where creativity meets real-world impact."
+        }
+      ]
     }
   ]
 }

@@ -45,7 +45,7 @@
       "primaryGroup": "school",
       "groups": ["school-class"],
       "title": "NCERT Maths Class 6",
-      "enabled": true,
+      "enabled": false,
       "ready": true,
       "priority": 1,
       "file": "syllabus-class-6-math.json",
@@ -55,7 +55,8 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI", "EN", "ML"],
-        "image": "/assets/class-card-covers/class6-cover.webp"
+        "bookImg": "/assets/book-covers/cl6-math-cover.webp",
+        "classImg": "/assets/class-card-covers/class6-cover.webp"
       }
     },
     {
@@ -74,7 +75,7 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/class-card-covers/class7-cover.webp"
+        "classImg": "/assets/class-card-covers/class7-cover.webp"
       }
     },
     {
@@ -94,19 +95,19 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/class-card-covers/class8-cover.webp"
+        "classImg": "/assets/class-card-covers/class8-cover.webp"
       }
     },
     {
-      "id": "CL09",
+      "id": "CL09_MATH",
       "type": "class",
       "primaryGroup": "school",
       "groups": ["school-class"],
       "title": "Class 9",
-      "enabled": false,
+      "enabled": true,
       "ready": true,
       "priority": 3,
-      "file": "syllabus-class-9.json",
+      "file": "syllabus-class-9-math.json",
       "learnFile": "",
 
       "availableFrom": "2026-01-01T00:00:00Z",
@@ -114,7 +115,8 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/class-card-covers/class9-cover.webp"
+        "bookImg": "/assets/book-covers/cl9-math-cover.webp",
+        "classImg": "/assets/class-card-covers/class9-cover.webp"
       }
     },
     {
@@ -134,7 +136,7 @@
         "students": 0,
         "teachers": 0,
         "medium": ["HI"],
-        "image": "/assets/class-card-covers/class10-cover.webp"
+        "classImg": "/assets/class-card-covers/class10-cover.webp"
       }
     },
 
@@ -155,7 +157,7 @@
       "meta": {
         "teacher": "Prof. Rao",
         "language": ["EN"],
-        "image": "/assets/fam-problem.jpg"
+        "classImg": "/assets/fam-problem.jpg"
       }
     },
     {
@@ -174,7 +176,7 @@
       "meta": {
         "teacher": "Ananya",
         "language": ["HI"],
-        "image": "/assets/fam-problem.jpg"
+        "classImg": "/assets/fam-problem.jpg"
       }
     },
 
@@ -192,7 +194,7 @@
       "learnFile": "",
       "meta": {
         "teacher": "Prof. Rao",
-        "image": "/assets/fam-problem.jpg"
+        "classImg": "/assets/fam-problem.jpg"
       }
     },
     {
@@ -210,7 +212,7 @@
 
       "meta": {
         "teacher": "Ananya",
-        "image": "/assets/class-card-covers/general-aptitude-cover.webp"
+        "classImg": "/assets/class-card-covers/general-aptitude-cover.webp"
       }
     },
     {
@@ -228,7 +230,7 @@
 
       "meta": {
         "teacher": "Nikhil",
-        "image": "/assets/class-card-covers/coding-gen-cover.webp"
+        "classImg": "/assets/class-card-covers/coding-gen-cover.webp"
       }
     },
     {
@@ -246,7 +248,7 @@
 
       "meta": {
         "teacher": "Nikhil",
-        "image": "/assets/class-card-covers/coding-kids-cover.webp"
+        "classImg": "/assets/class-card-covers/coding-kids-cover.webp"
       }
     },
     {
@@ -260,11 +262,12 @@
       "startsAt": "2026-01-01T00:00:00Z",
       "priority": 3,
       "file": "syllabus-coding-mob-flutter-adv.json",
-      "learnFile": "",
+      "learnFile": "learn-coding-flut-adv.json",
 
       "meta": {
         "teacher": "Nikhil",
-        "image": "/assets/class-card-covers/coding-flutter-advcover.webp"
+        "bookImg": "/assets/book-covers/flut-mob.webp",        
+        "classImg": "/assets/class-card-covers/coding-flutter-advcover.webp"
       }
     },
     {
@@ -282,7 +285,7 @@
 
       "meta": {
         "teacher": "Nikhil",
-        "image": "/assets/class-card-covers/general-aptitude-cover.webp"
+        "classImg": "/assets/class-card-covers/general-aptitude-cover.webp"
       }
     }
   ]
