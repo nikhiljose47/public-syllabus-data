@@ -1,12 +1,12 @@
 {
-  "classId": "CL09",
+  "classId": "CL09_MATH",
   "className": "Class 9 Math (NCERT)",
   "syllabus_year": "2025-26",
   "source": "NCF 2023 / NCERT-aligned",
   "subjects": [
     {
       "name": "Mathematics",
-      "code": "CL09-MATH",
+      "code": "CL09_MATH=S1",
       "enabled": true,
       "meta": {
         "level": "beginner",
@@ -15,7 +15,7 @@
       },
       "chapters": [
         {
-          "code": "CL09-MATH-01",
+          "code": "CL09_MATH-S1-01",
           "name": "Number Systems",
 
           "enabled": true,
@@ -69,7 +69,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-01-A",
+              "code": "CL09_MATH-S1-01-A",
               "name": "Real Numbers",
 
               "conceptual_understanding": [
@@ -91,7 +91,7 @@
               }
             },
             {
-              "code": "CL09-MATH-01-B",
+              "code": "CL09_MATH-S1-01-B",
               "name": "Irrational Numbers",
 
               "conceptual_understanding": [
@@ -112,7 +112,7 @@
               }
             },
             {
-              "code": "CL09-MATH-01-C",
+              "code": "CL09_MATH-S1-01-C",
               "name": "Laws of Exponents",
 
               "conceptual_understanding": [
@@ -136,7 +136,7 @@
         },
 
         {
-          "code": "CL09-MATH-02",
+          "code": "CL09_MATH-S1-02",
           "name": "Polynomials",
 
           "enabled": true,
@@ -190,7 +190,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-02-A",
+              "code": "CL09_MATH-S1-02-A",
               "name": "Polynomials and Degrees",
 
               "conceptual_understanding": [
@@ -211,7 +211,7 @@
               }
             },
             {
-              "code": "CL09-MATH-02-B",
+              "code": "CL09_MATH-S1-02-B",
               "name": "Zeroes of Polynomials",
 
               "conceptual_understanding": [
@@ -232,7 +232,7 @@
               }
             },
             {
-              "code": "CL09-MATH-02-C",
+              "code": "CL09_MATH-S1-02-C",
               "name": "Graphical Representation",
 
               "conceptual_understanding": [
@@ -255,7 +255,7 @@
           ]
         },
         {
-          "code": "CL09-MATH-03",
+          "code": "CL09_MATH-S1-03",
           "name": "Coordinate Geometry",
 
           "enabled": true,
@@ -309,7 +309,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-03-A",
+              "code": "CL09_MATH-S1-03-A",
               "name": "Cartesian Coordinate System",
 
               "conceptual_understanding": [
@@ -330,7 +330,7 @@
               }
             },
             {
-              "code": "CL09-MATH-03-B",
+              "code": "CL09_MATH-S1-03-B",
               "name": "Plotting Points",
 
               "conceptual_understanding": [
@@ -351,7 +351,7 @@
               }
             },
             {
-              "code": "CL09-MATH-03-C",
+              "code": "CL09_MATH-S1-03-C",
               "name": "Applications of Coordinate Geometry",
 
               "conceptual_understanding": [
@@ -375,7 +375,7 @@
         },
 
         {
-          "code": "CL09-MATH-04",
+          "code": "CL09_MATH-S1-04",
           "name": "Linear Equations in Two Variables",
 
           "enabled": true,
@@ -429,7 +429,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-04-A",
+              "code": "CL09_MATH-S1-04-A",
               "name": "Concept of Linear Equation",
 
               "conceptual_understanding": [
@@ -450,7 +450,7 @@
               }
             },
             {
-              "code": "CL09-MATH-04-B",
+              "code": "CL09_MATH-S1-04-B",
               "name": "Graphical Representation",
 
               "conceptual_understanding": [
@@ -471,7 +471,7 @@
               }
             },
             {
-              "code": "CL09-MATH-04-C",
+              "code": "CL09_MATH-S1-04-C",
               "name": "Applications",
 
               "conceptual_understanding": [
@@ -494,7 +494,7 @@
           ]
         },
         {
-          "code": "CL09-MATH-05",
+          "code": "CL09_MATH-S1-05",
           "name": "Introduction to Euclid’s Geometry",
 
           "enabled": true,
@@ -548,7 +548,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-05-A",
+              "code": "CL09_MATH-S1-05-A",
               "name": "Basic Geometrical Ideas",
 
               "conceptual_understanding": [
@@ -570,7 +570,7 @@
               }
             },
             {
-              "code": "CL09-MATH-05-B",
+              "code": "CL09_MATH-S1-05-B",
               "name": "Axioms and Postulates",
 
               "conceptual_understanding": [
@@ -592,7 +592,7 @@
               }
             },
             {
-              "code": "CL09-MATH-05-C",
+              "code": "CL09_MATH-S1-05-C",
               "name": "Euclid’s Postulates",
 
               "conceptual_understanding": [
@@ -616,7 +616,7 @@
         },
 
         {
-          "code": "CL09-MATH-06",
+          "code": "CL09_MATH-S1-06",
           "name": "Lines and Angles",
 
           "enabled": true,
@@ -670,7 +670,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-06-A",
+              "code": "CL09_MATH-S1-06-A",
               "name": "Basic Angle Concepts",
 
               "conceptual_understanding": [
@@ -691,7 +691,7 @@
               }
             },
             {
-              "code": "CL09-MATH-06-B",
+              "code": "CL09_MATH-S1-06-B",
               "name": "Parallel Lines and Transversals",
 
               "conceptual_understanding": [
@@ -712,7 +712,7 @@
               }
             },
             {
-              "code": "CL09-MATH-06-C",
+              "code": "CL09_MATH-S1-06-C",
               "name": "Angle Sum Properties",
 
               "conceptual_understanding": [
@@ -734,7 +734,7 @@
               }
             },
             {
-              "code": "CL09-MATH-06-D",
+              "code": "CL09_MATH-S1-06-D",
               "name": "Applications of Angles",
 
               "conceptual_understanding": [
@@ -754,7 +754,7 @@
           ]
         },
         {
-          "code": "CL09-MATH-07",
+          "code": "CL09_MATH-S1-07",
           "name": "Triangles",
 
           "enabled": true,
@@ -808,7 +808,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-07-A",
+              "code": "CL09_MATH-S1-07-A",
               "name": "Introduction to Triangles",
 
               "conceptual_understanding": [
@@ -830,7 +830,7 @@
               }
             },
             {
-              "code": "CL09-MATH-07-B",
+              "code": "CL09_MATH-S1-07-B",
               "name": "Congruence of Triangles",
 
               "conceptual_understanding": [
@@ -851,7 +851,7 @@
               }
             },
             {
-              "code": "CL09-MATH-07-C",
+              "code": "CL09_MATH-S1-07-C",
               "name": "Criteria for Congruence",
 
               "conceptual_understanding": [
@@ -869,7 +869,7 @@
               }
             },
             {
-              "code": "CL09-MATH-07-D",
+              "code": "CL09_MATH-S1-07-D",
               "name": "Applications of Congruence",
 
               "conceptual_understanding": [
@@ -890,7 +890,7 @@
         },
 
         {
-          "code": "CL09-MATH-08",
+          "code": "CL09_MATH-S1-08",
           "name": "Quadrilaterals",
 
           "enabled": true,
@@ -944,7 +944,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-08-A",
+              "code": "CL09_MATH-S1-08-A",
               "name": "Introduction to Quadrilaterals",
 
               "conceptual_understanding": [
@@ -962,7 +962,7 @@
               }
             },
             {
-              "code": "CL09-MATH-08-B",
+              "code": "CL09_MATH-S1-08-B",
               "name": "Properties of Parallelograms",
 
               "conceptual_understanding": [
@@ -982,7 +982,7 @@
               }
             },
             {
-              "code": "CL09-MATH-08-C",
+              "code": "CL09_MATH-S1-08-C",
               "name": "Special Quadrilaterals",
 
               "conceptual_understanding": [
@@ -1005,7 +1005,7 @@
           ]
         },
         {
-          "code": "CL09-MATH-09",
+          "code": "CL09_MATH-S1-09",
           "name": "Circles",
 
           "enabled": true,
@@ -1059,7 +1059,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-09-A",
+              "code": "CL09_MATH-S1-09-A",
               "name": "Introduction to Circles",
 
               "conceptual_understanding": [
@@ -1081,7 +1081,7 @@
               }
             },
             {
-              "code": "CL09-MATH-09-B",
+              "code": "CL09_MATH-S1-09-B",
               "name": "Chords and Angles",
 
               "conceptual_understanding": [
@@ -1103,7 +1103,7 @@
               }
             },
             {
-              "code": "CL09-MATH-09-C",
+              "code": "CL09_MATH-S1-09-C",
               "name": "Applications of Circle Theorems",
 
               "conceptual_understanding": [
@@ -1126,7 +1126,7 @@
         },
 
         {
-          "code": "CL09-MATH-10",
+          "code": "CL09_MATH-S1-10",
           "name": "Heron’s Formula",
 
           "enabled": true,
@@ -1180,7 +1180,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-10-A",
+              "code": "CL09_MATH-S1-10-A",
               "name": "Understanding Heron’s Formula",
 
               "conceptual_understanding": [
@@ -1201,7 +1201,7 @@
               }
             },
             {
-              "code": "CL09-MATH-10-B",
+              "code": "CL09_MATH-S1-10-B",
               "name": "Applications of Heron’s Formula",
 
               "conceptual_understanding": [
@@ -1223,7 +1223,7 @@
           ]
         },
         {
-          "code": "CL09-MATH-11",
+          "code": "CL09_MATH-S1-11",
           "name": "Surface Areas and Volumes",
 
           "enabled": true,
@@ -1277,7 +1277,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-11-A",
+              "code": "CL09_MATH-S1-11-A",
               "name": "Introduction to 3D Solids",
 
               "conceptual_understanding": [
@@ -1298,7 +1298,7 @@
               }
             },
             {
-              "code": "CL09-MATH-11-B",
+              "code": "CL09_MATH-S1-11-B",
               "name": "Surface Area of Solids",
 
               "conceptual_understanding": [
@@ -1319,7 +1319,7 @@
               }
             },
             {
-              "code": "CL09-MATH-11-C",
+              "code": "CL09_MATH-S1-11-C",
               "name": "Volume of Solids",
 
               "conceptual_understanding": [
@@ -1340,7 +1340,7 @@
               }
             },
             {
-              "code": "CL09-MATH-11-D",
+              "code": "CL09_MATH-S1-11-D",
               "name": "Applications of Surface Area and Volume",
 
               "conceptual_understanding": [
@@ -1361,7 +1361,7 @@
         },
 
         {
-          "code": "CL09-MATH-12",
+          "code": "CL09_MATH-S1-12",
           "name": "Statistics",
 
           "enabled": true,
@@ -1411,7 +1411,7 @@
 
           "divisions": [
             {
-              "code": "CL09-MATH-12-A",
+              "code": "CL09_MATH-S1-12-A",
               "name": "Introduction to Statistics",
 
               "conceptual_understanding": [
@@ -1432,7 +1432,7 @@
               }
             },
             {
-              "code": "CL09-MATH-12-B",
+              "code": "CL09_MATH-S1-12-B",
               "name": "Graphical Representation of Data",
 
               "conceptual_understanding": ["Graphs help visualize data trends"],
@@ -1451,7 +1451,7 @@
               }
             },
             {
-              "code": "CL09-MATH-12-C",
+              "code": "CL09_MATH-S1-12-C",
               "name": "Interpretation of Data",
 
               "conceptual_understanding": [
