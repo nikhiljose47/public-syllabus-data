@@ -3,14 +3,8 @@
   "updatedAt": "2026-03-20",
   "files": [
     {
-      "classId": "CL10",
-      "subjectCode": "math",
-      "file": "puzzles/cl10/math.json"
-    },
-    {
-      "classId": "coding_beginner",
-      "subjectCode": "logic",
-      "file": "puzzles/coding_beginner/logic.json"
+      "classId": "CL09_MATH",
+      "file": "puzzles/puzzle-class-9-math.json"
     }
   ]
 }
