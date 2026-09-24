@@ -103,7 +103,7 @@
       "type": "class",
       "primaryGroup": "school",
       "groups": ["school-class"],
-      "title": "Class 9",
+      "title": "NCERT Maths Class 9",
       "enabled": true,
       "ready": true,
       "priority": 3,
