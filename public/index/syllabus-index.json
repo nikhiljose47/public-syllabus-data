@@ -119,6 +119,27 @@
         "classImg": "/assets/class-card-covers/class9-cover.webp"
       }
     },
+        {
+      "id": "CL09_SCI",
+      "type": "class",
+      "primaryGroup": "school",
+      "groups": ["school-class"],
+      "title": "NCERT Science Class 9",
+      "enabled": true,
+      "ready": true,
+      "priority": 3,
+      "file": "syllabus-class-9-science.json",
+      "learnFile": "",
+
+      "availableFrom": "2026-01-01T00:00:00Z",
+      "meta": {
+        "students": 0,
+        "teachers": 0,
+        "medium": ["HI"],
+        "bookImg": "/assets/book-covers/cl9-science-cover.webp",
+        "classImg": "/assets/class-card-covers/class9-cover.webp"
+      }
+    },
     {
       "id": "CL10",
       "type": "class",
